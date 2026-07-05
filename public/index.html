@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Letterboxd Analyzer</title>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1>🎬 Letterboxd Analyzer</h1>
+      <p class="tagline">
+        Upload your Letterboxd diary export and see where your taste really lives —
+        countries, languages, eras, and how much of the canon you've covered.
+      </p>
+    </header>
+
+    <main>
+      <section id="upload-section" class="card">
+        <div id="dropzone" class="dropzone">
+          <input type="file" id="file-input" accept=".csv" hidden />
+          <div class="dropzone-inner">
+            <div class="dropzone-icon">📄</div>
+            <p><strong>Drop your CSV here</strong> or <button type="button" id="browse-btn" class="link-btn">browse</button></p>
+            <p class="hint">
+              Use any Letterboxd export with <code>Name</code> and <code>Year</code> columns
+              (diary.csv, watched.csv, films.csv…).
+            </p>
+          </div>
+        </div>
+        <p id="file-name" class="file-name" hidden></p>
+        <div class="actions">
+          <button id="analyze-btn" class="primary-btn" disabled>Analyze my diary</button>
+        </div>
+        <p id="config-warning" class="warning" hidden></p>
+      </section>
+
+      <section id="progress-section" class="card" hidden>
+        <div class="spinner"></div>
+        <p id="progress-text">Starting…</p>
+        <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+      </section>
+
+      <section id="error-section" class="card error-card" hidden>
+        <p id="error-text"></p>
+      </section>
+
+      <section id="results" hidden>
+        <div id="summary" class="summary-grid"></div>
+
+        <div class="card">
+          <h2>🏆 Famous-list coverage</h2>
+          <p class="section-sub">How many films from each canon you've already seen.</p>
+          <div id="lists-container"></div>
+        </div>
+
+        <div class="grid-2">
+          <div class="card">
+            <h2>🌍 Countries</h2>
+            <p class="section-sub">By production country (a film can count for several).</p>
+            <div class="chart-wrap"><canvas id="countries-chart"></canvas></div>
+          </div>
+          <div class="card">
+            <h2>🗣️ Languages</h2>
+            <p class="section-sub">By each film's original language.</p>
+            <div class="chart-wrap"><canvas id="languages-chart"></canvas></div>
+          </div>
+        </div>
+
+        <div class="grid-2">
+          <div class="card">
+            <h2>📅 Decades</h2>
+            <div class="chart-wrap"><canvas id="decades-chart"></canvas></div>
+          </div>
+          <div class="card">
+            <h2>📈 Films by year</h2>
+            <div class="chart-wrap"><canvas id="years-chart"></canvas></div>
+          </div>
+        </div>
+
+        <div class="card" id="unmatched-card" hidden>
+          <h2>❓ Not found on TMDb</h2>
+          <p class="section-sub">
+            These titles couldn't be matched, so they're excluded from the country/language
+            charts (they still count toward decades and list coverage where possible).
+          </p>
+          <div id="unmatched-list" class="chips"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        Movie metadata from
+        <a href="https://www.themoviedb.org/" target="_blank" rel="noopener">TMDb</a>.
+        This product uses the TMDb API but is not endorsed or certified by TMDb.
+      </p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

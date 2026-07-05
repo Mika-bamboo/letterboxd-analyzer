@@ -1,0 +1,27 @@
+{
+  "name": "letterboxd-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze a Letterboxd diary export: countries, languages, decades, and coverage of famous film lists — powered by TMDb.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "letterboxd",
+    "tmdb",
+    "movies",
+    "film",
+    "analysis"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
