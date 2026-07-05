@@ -1,0 +1,3673 @@
+{
+  "id": "oscars-best-picture",
+  "name": "Academy Awards — Best Picture",
+  "category": "award",
+  "entries": [
+    {
+      "title": "Wings",
+      "year": 1927,
+      "note": "Best Picture winner, 1929 ceremony",
+      "won": true
+    },
+    {
+      "title": "7th Heaven",
+      "year": 1927,
+      "note": "Best Picture nominee, 1929 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Racket",
+      "year": 1928,
+      "note": "Best Picture nominee, 1929 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Broadway Melody",
+      "year": 1929,
+      "note": "Best Picture winner, 1930 ceremony",
+      "won": true
+    },
+    {
+      "title": "Alibi",
+      "year": 1929,
+      "note": "Best Picture nominee, 1930 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Hollywood Revue of 1929",
+      "year": 1929,
+      "note": "Best Picture nominee, 1930 ceremony",
+      "won": false
+    },
+    {
+      "title": "In Old Arizona",
+      "year": 1928,
+      "note": "Best Picture nominee, 1930 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Patriot",
+      "year": 1928,
+      "note": "Best Picture nominee, 1930 ceremony",
+      "won": false
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "year": 1930,
+      "note": "Best Picture winner, 1930 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Big House",
+      "year": 1930,
+      "note": "Best Picture nominee, 1930 ceremony",
+      "won": false
+    },
+    {
+      "title": "Disraeli",
+      "year": 1929,
+      "note": "Best Picture nominee, 1930 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Divorcee",
+      "year": 1930,
+      "note": "Best Picture nominee, 1930 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Love Parade",
+      "year": 1929,
+      "note": "Best Picture nominee, 1930 ceremony",
+      "won": false
+    },
+    {
+      "title": "Cimarron",
+      "year": 1931,
+      "note": "Best Picture winner, 1931 ceremony",
+      "won": true
+    },
+    {
+      "title": "East Lynne",
+      "year": 1931,
+      "note": "Best Picture nominee, 1931 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Front Page",
+      "year": 1931,
+      "note": "Best Picture nominee, 1931 ceremony",
+      "won": false
+    },
+    {
+      "title": "Skippy",
+      "year": 1931,
+      "note": "Best Picture nominee, 1931 ceremony",
+      "won": false
+    },
+    {
+      "title": "Trader Horn",
+      "year": 1931,
+      "note": "Best Picture nominee, 1931 ceremony",
+      "won": false
+    },
+    {
+      "title": "Grand Hotel",
+      "year": 1932,
+      "note": "Best Picture winner, 1932 ceremony",
+      "won": true
+    },
+    {
+      "title": "Arrowsmith",
+      "year": 1931,
+      "note": "Best Picture nominee, 1932 ceremony",
+      "won": false
+    },
+    {
+      "title": "Bad Girl",
+      "year": 1931,
+      "note": "Best Picture nominee, 1932 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Champ",
+      "year": 1931,
+      "note": "Best Picture nominee, 1932 ceremony",
+      "won": false
+    },
+    {
+      "title": "Five Star Final",
+      "year": 1931,
+      "note": "Best Picture nominee, 1932 ceremony",
+      "won": false
+    },
+    {
+      "title": "One Hour with You",
+      "year": 1932,
+      "note": "Best Picture nominee, 1932 ceremony",
+      "won": false
+    },
+    {
+      "title": "Shanghai Express",
+      "year": 1932,
+      "note": "Best Picture nominee, 1932 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Smiling Lieutenant",
+      "year": 1931,
+      "note": "Best Picture nominee, 1932 ceremony",
+      "won": false
+    },
+    {
+      "title": "Cavalcade",
+      "year": 1933,
+      "note": "Best Picture winner, 1934 ceremony",
+      "won": true
+    },
+    {
+      "title": "42nd Street",
+      "year": 1933,
+      "note": "Best Picture nominee, 1934 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Farewell to Arms",
+      "year": 1932,
+      "note": "Best Picture nominee, 1934 ceremony",
+      "won": false
+    },
+    {
+      "title": "I Am a Fugitive from a Chain Gang",
+      "year": 1932,
+      "note": "Best Picture nominee, 1934 ceremony",
+      "won": false
+    },
+    {
+      "title": "Lady for a Day",
+      "year": 1933,
+      "note": "Best Picture nominee, 1934 ceremony",
+      "won": false
+    },
+    {
+      "title": "Little Women",
+      "year": 1933,
+      "note": "Best Picture nominee, 1934 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Private Life of Henry VIII",
+      "year": 1933,
+      "note": "Best Picture nominee, 1934 ceremony",
+      "won": false
+    },
+    {
+      "title": "She Done Him Wrong",
+      "year": 1933,
+      "note": "Best Picture nominee, 1934 ceremony",
+      "won": false
+    },
+    {
+      "title": "Smilin' Through",
+      "year": 1932,
+      "note": "Best Picture nominee, 1934 ceremony",
+      "won": false
+    },
+    {
+      "title": "State Fair",
+      "year": 1933,
+      "note": "Best Picture nominee, 1934 ceremony",
+      "won": false
+    },
+    {
+      "title": "It Happened One Night",
+      "year": 1934,
+      "note": "Best Picture winner, 1935 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Barretts of Wimpole Street",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "Cleopatra",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "Flirtation Walk",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Gay Divorcee",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "Here Comes the Navy",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "The House of Rothschild",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "Imitation of Life",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "One Night of Love",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Thin Man",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "Viva Villa!",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "The White Parade",
+      "year": 1934,
+      "note": "Best Picture nominee, 1935 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mutiny on the Bounty",
+      "year": 1935,
+      "note": "Best Picture winner, 1936 ceremony",
+      "won": true
+    },
+    {
+      "title": "Alice Adams",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "Broadway Melody of 1936",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "Captain Blood",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "David Copperfield",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Informer",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Lives of a Bengal Lancer",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "Les Misérables",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "Naughty Marietta",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "Ruggles of Red Gap",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "Top Hat",
+      "year": 1935,
+      "note": "Best Picture nominee, 1936 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Great Ziegfeld",
+      "year": 1936,
+      "note": "Best Picture winner, 1937 ceremony",
+      "won": true
+    },
+    {
+      "title": "Anthony Adverse",
+      "year": 1936,
+      "note": "Best Picture nominee, 1937 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dodsworth",
+      "year": 1936,
+      "note": "Best Picture nominee, 1937 ceremony",
+      "won": false
+    },
+    {
+      "title": "Libeled Lady",
+      "year": 1936,
+      "note": "Best Picture nominee, 1937 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mr. Deeds Goes to Town",
+      "year": 1936,
+      "note": "Best Picture nominee, 1937 ceremony",
+      "won": false
+    },
+    {
+      "title": "Romeo and Juliet",
+      "year": 1936,
+      "note": "Best Picture nominee, 1937 ceremony",
+      "won": false
+    },
+    {
+      "title": "San Francisco",
+      "year": 1936,
+      "note": "Best Picture nominee, 1937 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Story of Louis Pasteur",
+      "year": 1936,
+      "note": "Best Picture nominee, 1937 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "year": 1935,
+      "note": "Best Picture nominee, 1937 ceremony",
+      "won": false
+    },
+    {
+      "title": "Three Smart Girls",
+      "year": 1936,
+      "note": "Best Picture nominee, 1937 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Life of Emile Zola",
+      "year": 1937,
+      "note": "Best Picture winner, 1938 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Awful Truth",
+      "year": 1937,
+      "note": "Best Picture nominee, 1938 ceremony",
+      "won": false
+    },
+    {
+      "title": "Captains Courageous",
+      "year": 1937,
+      "note": "Best Picture nominee, 1938 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dead End",
+      "year": 1937,
+      "note": "Best Picture nominee, 1938 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Good Earth",
+      "year": 1937,
+      "note": "Best Picture nominee, 1938 ceremony",
+      "won": false
+    },
+    {
+      "title": "In Old Chicago",
+      "year": 1937,
+      "note": "Best Picture nominee, 1938 ceremony",
+      "won": false
+    },
+    {
+      "title": "Lost Horizon",
+      "year": 1937,
+      "note": "Best Picture nominee, 1938 ceremony",
+      "won": false
+    },
+    {
+      "title": "One Hundred Men and a Girl",
+      "year": 1937,
+      "note": "Best Picture nominee, 1938 ceremony",
+      "won": false
+    },
+    {
+      "title": "Stage Door",
+      "year": 1937,
+      "note": "Best Picture nominee, 1938 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Star Is Born",
+      "year": 1937,
+      "note": "Best Picture nominee, 1938 ceremony",
+      "won": false
+    },
+    {
+      "title": "You Can't Take It with You",
+      "year": 1938,
+      "note": "Best Picture winner, 1939 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Adventures of Robin Hood",
+      "year": 1938,
+      "note": "Best Picture nominee, 1939 ceremony",
+      "won": false
+    },
+    {
+      "title": "Alexander's Ragtime Band",
+      "year": 1938,
+      "note": "Best Picture nominee, 1939 ceremony",
+      "won": false
+    },
+    {
+      "title": "Boys Town",
+      "year": 1938,
+      "note": "Best Picture nominee, 1939 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Citadel",
+      "year": 1938,
+      "note": "Best Picture nominee, 1939 ceremony",
+      "won": false
+    },
+    {
+      "title": "Four Daughters",
+      "year": 1938,
+      "note": "Best Picture nominee, 1939 ceremony",
+      "won": false
+    },
+    {
+      "title": "Grand Illusion",
+      "year": 1937,
+      "note": "Best Picture nominee, 1939 ceremony",
+      "won": false
+    },
+    {
+      "title": "Jezebel",
+      "year": 1938,
+      "note": "Best Picture nominee, 1939 ceremony",
+      "won": false
+    },
+    {
+      "title": "Pygmalion",
+      "year": 1938,
+      "note": "Best Picture nominee, 1939 ceremony",
+      "won": false
+    },
+    {
+      "title": "Test Pilot",
+      "year": 1938,
+      "note": "Best Picture nominee, 1939 ceremony",
+      "won": false
+    },
+    {
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "note": "Best Picture winner, 1940 ceremony",
+      "won": true
+    },
+    {
+      "title": "Dark Victory",
+      "year": 1939,
+      "note": "Best Picture nominee, 1940 ceremony",
+      "won": false
+    },
+    {
+      "title": "Goodbye, Mr. Chips",
+      "year": 1939,
+      "note": "Best Picture nominee, 1940 ceremony",
+      "won": false
+    },
+    {
+      "title": "Love Affair",
+      "year": 1939,
+      "note": "Best Picture nominee, 1940 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939,
+      "note": "Best Picture nominee, 1940 ceremony",
+      "won": false
+    },
+    {
+      "title": "Ninotchka",
+      "year": 1939,
+      "note": "Best Picture nominee, 1940 ceremony",
+      "won": false
+    },
+    {
+      "title": "Of Mice and Men",
+      "year": 1939,
+      "note": "Best Picture nominee, 1940 ceremony",
+      "won": false
+    },
+    {
+      "title": "Stagecoach",
+      "year": 1939,
+      "note": "Best Picture nominee, 1940 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "note": "Best Picture nominee, 1940 ceremony",
+      "won": false
+    },
+    {
+      "title": "Wuthering Heights",
+      "year": 1939,
+      "note": "Best Picture nominee, 1940 ceremony",
+      "won": false
+    },
+    {
+      "title": "Rebecca",
+      "year": 1940,
+      "note": "Best Picture winner, 1941 ceremony",
+      "won": true
+    },
+    {
+      "title": "All This, and Heaven Too",
+      "year": 1940,
+      "note": "Best Picture nominee, 1941 ceremony",
+      "won": false
+    },
+    {
+      "title": "Foreign Correspondent",
+      "year": 1940,
+      "note": "Best Picture nominee, 1941 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "year": 1940,
+      "note": "Best Picture nominee, 1941 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Great Dictator",
+      "year": 1940,
+      "note": "Best Picture nominee, 1941 ceremony",
+      "won": false
+    },
+    {
+      "title": "Kitty Foyle",
+      "year": 1940,
+      "note": "Best Picture nominee, 1941 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Letter",
+      "year": 1940,
+      "note": "Best Picture nominee, 1941 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Long Voyage Home",
+      "year": 1940,
+      "note": "Best Picture nominee, 1941 ceremony",
+      "won": false
+    },
+    {
+      "title": "Our Town",
+      "year": 1940,
+      "note": "Best Picture nominee, 1941 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Philadelphia Story",
+      "year": 1940,
+      "note": "Best Picture nominee, 1941 ceremony",
+      "won": false
+    },
+    {
+      "title": "How Green Was My Valley",
+      "year": 1941,
+      "note": "Best Picture winner, 1942 ceremony",
+      "won": true
+    },
+    {
+      "title": "Blossoms in the Dust",
+      "year": 1941,
+      "note": "Best Picture nominee, 1942 ceremony",
+      "won": false
+    },
+    {
+      "title": "Citizen Kane",
+      "year": 1941,
+      "note": "Best Picture nominee, 1942 ceremony",
+      "won": false
+    },
+    {
+      "title": "Here Comes Mr. Jordan",
+      "year": 1941,
+      "note": "Best Picture nominee, 1942 ceremony",
+      "won": false
+    },
+    {
+      "title": "Hold Back the Dawn",
+      "year": 1941,
+      "note": "Best Picture nominee, 1942 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Little Foxes",
+      "year": 1941,
+      "note": "Best Picture nominee, 1942 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Maltese Falcon",
+      "year": 1941,
+      "note": "Best Picture nominee, 1942 ceremony",
+      "won": false
+    },
+    {
+      "title": "One Foot in Heaven",
+      "year": 1941,
+      "note": "Best Picture nominee, 1942 ceremony",
+      "won": false
+    },
+    {
+      "title": "Sergeant York",
+      "year": 1941,
+      "note": "Best Picture nominee, 1942 ceremony",
+      "won": false
+    },
+    {
+      "title": "Suspicion",
+      "year": 1941,
+      "note": "Best Picture nominee, 1942 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mrs. Miniver",
+      "year": 1942,
+      "note": "Best Picture winner, 1943 ceremony",
+      "won": true
+    },
+    {
+      "title": "49th Parallel",
+      "year": 1942,
+      "note": "Best Picture nominee, 1943 ceremony",
+      "won": false
+    },
+    {
+      "title": "Kings Row",
+      "year": 1942,
+      "note": "Best Picture nominee, 1943 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Magnificent Ambersons",
+      "year": 1942,
+      "note": "Best Picture nominee, 1943 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Pied Piper",
+      "year": 1942,
+      "note": "Best Picture nominee, 1943 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Pride of the Yankees",
+      "year": 1942,
+      "note": "Best Picture nominee, 1943 ceremony",
+      "won": false
+    },
+    {
+      "title": "Random Harvest",
+      "year": 1942,
+      "note": "Best Picture nominee, 1943 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Talk of the Town",
+      "year": 1942,
+      "note": "Best Picture nominee, 1943 ceremony",
+      "won": false
+    },
+    {
+      "title": "Wake Island",
+      "year": 1942,
+      "note": "Best Picture nominee, 1943 ceremony",
+      "won": false
+    },
+    {
+      "title": "Yankee Doodle Dandy",
+      "year": 1942,
+      "note": "Best Picture nominee, 1943 ceremony",
+      "won": false
+    },
+    {
+      "title": "Casablanca",
+      "year": 1942,
+      "note": "Best Picture winner, 1944 ceremony",
+      "won": true
+    },
+    {
+      "title": "For Whom the Bell Tolls",
+      "year": 1943,
+      "note": "Best Picture nominee, 1944 ceremony",
+      "won": false
+    },
+    {
+      "title": "Heaven Can Wait",
+      "year": 1943,
+      "note": "Best Picture nominee, 1944 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Human Comedy",
+      "year": 1943,
+      "note": "Best Picture nominee, 1944 ceremony",
+      "won": false
+    },
+    {
+      "title": "In Which We Serve",
+      "year": 1943,
+      "note": "Best Picture nominee, 1944 ceremony",
+      "won": false
+    },
+    {
+      "title": "Madame Curie",
+      "year": 1943,
+      "note": "Best Picture nominee, 1944 ceremony",
+      "won": false
+    },
+    {
+      "title": "The More the Merrier",
+      "year": 1943,
+      "note": "Best Picture nominee, 1944 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Ox-Bow Incident",
+      "year": 1943,
+      "note": "Best Picture nominee, 1944 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Song of Bernadette",
+      "year": 1943,
+      "note": "Best Picture nominee, 1944 ceremony",
+      "won": false
+    },
+    {
+      "title": "Watch on the Rhine",
+      "year": 1943,
+      "note": "Best Picture nominee, 1944 ceremony",
+      "won": false
+    },
+    {
+      "title": "Going My Way",
+      "year": 1944,
+      "note": "Best Picture winner, 1945 ceremony",
+      "won": true
+    },
+    {
+      "title": "Double Indemnity",
+      "year": 1944,
+      "note": "Best Picture nominee, 1945 ceremony",
+      "won": false
+    },
+    {
+      "title": "Gaslight",
+      "year": 1944,
+      "note": "Best Picture nominee, 1945 ceremony",
+      "won": false
+    },
+    {
+      "title": "Since You Went Away",
+      "year": 1944,
+      "note": "Best Picture nominee, 1945 ceremony",
+      "won": false
+    },
+    {
+      "title": "Wilson",
+      "year": 1944,
+      "note": "Best Picture nominee, 1945 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Lost Weekend",
+      "year": 1945,
+      "note": "Best Picture winner, 1946 ceremony",
+      "won": true
+    },
+    {
+      "title": "Anchors Aweigh",
+      "year": 1945,
+      "note": "Best Picture nominee, 1946 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Bells of St. Mary's",
+      "year": 1945,
+      "note": "Best Picture nominee, 1946 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mildred Pierce",
+      "year": 1945,
+      "note": "Best Picture nominee, 1946 ceremony",
+      "won": false
+    },
+    {
+      "title": "Spellbound",
+      "year": 1945,
+      "note": "Best Picture nominee, 1946 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Best Years of Our Lives",
+      "year": 1946,
+      "note": "Best Picture winner, 1947 ceremony",
+      "won": true
+    },
+    {
+      "title": "Henry V",
+      "year": 1944,
+      "note": "Best Picture nominee, 1947 ceremony",
+      "won": false
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "note": "Best Picture nominee, 1947 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Razor's Edge",
+      "year": 1946,
+      "note": "Best Picture nominee, 1947 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Yearling",
+      "year": 1946,
+      "note": "Best Picture nominee, 1947 ceremony",
+      "won": false
+    },
+    {
+      "title": "Gentleman's Agreement",
+      "year": 1947,
+      "note": "Best Picture winner, 1948 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Bishop's Wife",
+      "year": 1947,
+      "note": "Best Picture nominee, 1948 ceremony",
+      "won": false
+    },
+    {
+      "title": "Crossfire",
+      "year": 1947,
+      "note": "Best Picture nominee, 1948 ceremony",
+      "won": false
+    },
+    {
+      "title": "Great Expectations",
+      "year": 1946,
+      "note": "Best Picture nominee, 1948 ceremony",
+      "won": false
+    },
+    {
+      "title": "Miracle on 34th Street",
+      "year": 1947,
+      "note": "Best Picture nominee, 1948 ceremony",
+      "won": false
+    },
+    {
+      "title": "Hamlet",
+      "year": 1948,
+      "note": "Best Picture winner, 1949 ceremony",
+      "won": true
+    },
+    {
+      "title": "Johnny Belinda",
+      "year": 1948,
+      "note": "Best Picture nominee, 1949 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Red Shoes",
+      "year": 1948,
+      "note": "Best Picture nominee, 1949 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Snake Pit",
+      "year": 1948,
+      "note": "Best Picture nominee, 1949 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Treasure of the Sierra Madre",
+      "year": 1948,
+      "note": "Best Picture nominee, 1949 ceremony",
+      "won": false
+    },
+    {
+      "title": "All the King's Men",
+      "year": 1949,
+      "note": "Best Picture winner, 1950 ceremony",
+      "won": true
+    },
+    {
+      "title": "Battleground",
+      "year": 1949,
+      "note": "Best Picture nominee, 1950 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Heiress",
+      "year": 1949,
+      "note": "Best Picture nominee, 1950 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Letter to Three Wives",
+      "year": 1949,
+      "note": "Best Picture nominee, 1950 ceremony",
+      "won": false
+    },
+    {
+      "title": "Twelve O'Clock High",
+      "year": 1949,
+      "note": "Best Picture nominee, 1950 ceremony",
+      "won": false
+    },
+    {
+      "title": "All About Eve",
+      "year": 1950,
+      "note": "Best Picture winner, 1951 ceremony",
+      "won": true
+    },
+    {
+      "title": "Born Yesterday",
+      "year": 1950,
+      "note": "Best Picture nominee, 1951 ceremony",
+      "won": false
+    },
+    {
+      "title": "Father of the Bride",
+      "year": 1950,
+      "note": "Best Picture nominee, 1951 ceremony",
+      "won": false
+    },
+    {
+      "title": "King Solomon's Mines",
+      "year": 1950,
+      "note": "Best Picture nominee, 1951 ceremony",
+      "won": false
+    },
+    {
+      "title": "Sunset Boulevard",
+      "year": 1950,
+      "note": "Best Picture nominee, 1951 ceremony",
+      "won": false
+    },
+    {
+      "title": "An American in Paris",
+      "year": 1951,
+      "note": "Best Picture winner, 1952 ceremony",
+      "won": true
+    },
+    {
+      "title": "Decision Before Dawn",
+      "year": 1951,
+      "note": "Best Picture nominee, 1952 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Place in the Sun",
+      "year": 1951,
+      "note": "Best Picture nominee, 1952 ceremony",
+      "won": false
+    },
+    {
+      "title": "Quo Vadis",
+      "year": 1951,
+      "note": "Best Picture nominee, 1952 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Streetcar Named Desire",
+      "year": 1951,
+      "note": "Best Picture nominee, 1952 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Greatest Show on Earth",
+      "year": 1952,
+      "note": "Best Picture winner, 1953 ceremony",
+      "won": true
+    },
+    {
+      "title": "High Noon",
+      "year": 1952,
+      "note": "Best Picture nominee, 1953 ceremony",
+      "won": false
+    },
+    {
+      "title": "Ivanhoe",
+      "year": 1952,
+      "note": "Best Picture nominee, 1953 ceremony",
+      "won": false
+    },
+    {
+      "title": "Moulin Rouge",
+      "year": 1952,
+      "note": "Best Picture nominee, 1953 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Quiet Man",
+      "year": 1952,
+      "note": "Best Picture nominee, 1953 ceremony",
+      "won": false
+    },
+    {
+      "title": "From Here to Eternity",
+      "year": 1953,
+      "note": "Best Picture winner, 1954 ceremony",
+      "won": true
+    },
+    {
+      "title": "Julius Caesar",
+      "year": 1953,
+      "note": "Best Picture nominee, 1954 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Robe",
+      "year": 1953,
+      "note": "Best Picture nominee, 1954 ceremony",
+      "won": false
+    },
+    {
+      "title": "Roman Holiday",
+      "year": 1953,
+      "note": "Best Picture nominee, 1954 ceremony",
+      "won": false
+    },
+    {
+      "title": "Shane",
+      "year": 1953,
+      "note": "Best Picture nominee, 1954 ceremony",
+      "won": false
+    },
+    {
+      "title": "On the Waterfront",
+      "year": 1954,
+      "note": "Best Picture winner, 1955 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Caine Mutiny",
+      "year": 1954,
+      "note": "Best Picture nominee, 1955 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Country Girl",
+      "year": 1954,
+      "note": "Best Picture nominee, 1955 ceremony",
+      "won": false
+    },
+    {
+      "title": "Seven Brides for Seven Brothers",
+      "year": 1954,
+      "note": "Best Picture nominee, 1955 ceremony",
+      "won": false
+    },
+    {
+      "title": "Three Coins in the Fountain",
+      "year": 1954,
+      "note": "Best Picture nominee, 1955 ceremony",
+      "won": false
+    },
+    {
+      "title": "Marty",
+      "year": 1955,
+      "note": "Best Picture winner, 1956 ceremony",
+      "won": true
+    },
+    {
+      "title": "Love Is a Many-Splendored Thing",
+      "year": 1955,
+      "note": "Best Picture nominee, 1956 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mister Roberts",
+      "year": 1955,
+      "note": "Best Picture nominee, 1956 ceremony",
+      "won": false
+    },
+    {
+      "title": "Picnic",
+      "year": 1955,
+      "note": "Best Picture nominee, 1956 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Rose Tattoo",
+      "year": 1955,
+      "note": "Best Picture nominee, 1956 ceremony",
+      "won": false
+    },
+    {
+      "title": "Around the World in 80 Days",
+      "year": 1956,
+      "note": "Best Picture winner, 1957 ceremony",
+      "won": true
+    },
+    {
+      "title": "Friendly Persuasion",
+      "year": 1956,
+      "note": "Best Picture nominee, 1957 ceremony",
+      "won": false
+    },
+    {
+      "title": "Giant",
+      "year": 1956,
+      "note": "Best Picture nominee, 1957 ceremony",
+      "won": false
+    },
+    {
+      "title": "The King and I",
+      "year": 1956,
+      "note": "Best Picture nominee, 1957 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Ten Commandments",
+      "year": 1956,
+      "note": "Best Picture nominee, 1957 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Bridge on the River Kwai",
+      "year": 1957,
+      "note": "Best Picture winner, 1958 ceremony",
+      "won": true
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "note": "Best Picture nominee, 1958 ceremony",
+      "won": false
+    },
+    {
+      "title": "Peyton Place",
+      "year": 1957,
+      "note": "Best Picture nominee, 1958 ceremony",
+      "won": false
+    },
+    {
+      "title": "Sayonara",
+      "year": 1957,
+      "note": "Best Picture nominee, 1958 ceremony",
+      "won": false
+    },
+    {
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "note": "Best Picture nominee, 1958 ceremony",
+      "won": false
+    },
+    {
+      "title": "Gigi",
+      "year": 1958,
+      "note": "Best Picture winner, 1959 ceremony",
+      "won": true
+    },
+    {
+      "title": "Auntie Mame",
+      "year": 1958,
+      "note": "Best Picture nominee, 1959 ceremony",
+      "won": false
+    },
+    {
+      "title": "Cat on a Hot Tin Roof",
+      "year": 1958,
+      "note": "Best Picture nominee, 1959 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Defiant Ones",
+      "year": 1958,
+      "note": "Best Picture nominee, 1959 ceremony",
+      "won": false
+    },
+    {
+      "title": "Separate Tables",
+      "year": 1958,
+      "note": "Best Picture nominee, 1959 ceremony",
+      "won": false
+    },
+    {
+      "title": "Ben-Hur",
+      "year": 1959,
+      "note": "Best Picture winner, 1960 ceremony",
+      "won": true
+    },
+    {
+      "title": "Anatomy of a Murder",
+      "year": 1959,
+      "note": "Best Picture nominee, 1960 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Diary of Anne Frank",
+      "year": 1959,
+      "note": "Best Picture nominee, 1960 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Nun's Story",
+      "year": 1959,
+      "note": "Best Picture nominee, 1960 ceremony",
+      "won": false
+    },
+    {
+      "title": "Room at the Top",
+      "year": 1959,
+      "note": "Best Picture nominee, 1960 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Apartment",
+      "year": 1960,
+      "note": "Best Picture winner, 1961 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Alamo",
+      "year": 1960,
+      "note": "Best Picture nominee, 1961 ceremony",
+      "won": false
+    },
+    {
+      "title": "Elmer Gantry",
+      "year": 1960,
+      "note": "Best Picture nominee, 1961 ceremony",
+      "won": false
+    },
+    {
+      "title": "Sons and Lovers",
+      "year": 1960,
+      "note": "Best Picture nominee, 1961 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Sundowners",
+      "year": 1960,
+      "note": "Best Picture nominee, 1961 ceremony",
+      "won": false
+    },
+    {
+      "title": "West Side Story",
+      "year": 1961,
+      "note": "Best Picture winner, 1962 ceremony",
+      "won": true
+    },
+    {
+      "title": "Fanny",
+      "year": 1961,
+      "note": "Best Picture nominee, 1962 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Guns of Navarone",
+      "year": 1961,
+      "note": "Best Picture nominee, 1962 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Hustler",
+      "year": 1961,
+      "note": "Best Picture nominee, 1962 ceremony",
+      "won": false
+    },
+    {
+      "title": "Judgment at Nuremberg",
+      "year": 1961,
+      "note": "Best Picture nominee, 1962 ceremony",
+      "won": false
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "note": "Best Picture winner, 1963 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Longest Day",
+      "year": 1962,
+      "note": "Best Picture nominee, 1963 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Music Man",
+      "year": 1962,
+      "note": "Best Picture nominee, 1963 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mutiny on the Bounty",
+      "year": 1962,
+      "note": "Best Picture nominee, 1963 ceremony",
+      "won": false
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "year": 1962,
+      "note": "Best Picture nominee, 1963 ceremony",
+      "won": false
+    },
+    {
+      "title": "Tom Jones",
+      "year": 1963,
+      "note": "Best Picture winner, 1964 ceremony",
+      "won": true
+    },
+    {
+      "title": "America America",
+      "year": 1963,
+      "note": "Best Picture nominee, 1964 ceremony",
+      "won": false
+    },
+    {
+      "title": "Cleopatra",
+      "year": 1963,
+      "note": "Best Picture nominee, 1964 ceremony",
+      "won": false
+    },
+    {
+      "title": "How the West Was Won",
+      "year": 1963,
+      "note": "Best Picture nominee, 1964 ceremony",
+      "won": false
+    },
+    {
+      "title": "Lilies of the Field",
+      "year": 1963,
+      "note": "Best Picture nominee, 1964 ceremony",
+      "won": false
+    },
+    {
+      "title": "My Fair Lady",
+      "year": 1964,
+      "note": "Best Picture winner, 1965 ceremony",
+      "won": true
+    },
+    {
+      "title": "Becket",
+      "year": 1964,
+      "note": "Best Picture nominee, 1965 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "note": "Best Picture nominee, 1965 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mary Poppins",
+      "year": 1964,
+      "note": "Best Picture nominee, 1965 ceremony",
+      "won": false
+    },
+    {
+      "title": "Zorba the Greek",
+      "year": 1964,
+      "note": "Best Picture nominee, 1965 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Sound of Music",
+      "year": 1965,
+      "note": "Best Picture winner, 1966 ceremony",
+      "won": true
+    },
+    {
+      "title": "Darling",
+      "year": 1965,
+      "note": "Best Picture nominee, 1966 ceremony",
+      "won": false
+    },
+    {
+      "title": "Doctor Zhivago",
+      "year": 1965,
+      "note": "Best Picture nominee, 1966 ceremony",
+      "won": false
+    },
+    {
+      "title": "Ship of Fools",
+      "year": 1965,
+      "note": "Best Picture nominee, 1966 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Thousand Clowns",
+      "year": 1965,
+      "note": "Best Picture nominee, 1966 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Man for All Seasons",
+      "year": 1966,
+      "note": "Best Picture winner, 1967 ceremony",
+      "won": true
+    },
+    {
+      "title": "Alfie",
+      "year": 1966,
+      "note": "Best Picture nominee, 1967 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Russians Are Coming, the Russians Are Coming",
+      "year": 1966,
+      "note": "Best Picture nominee, 1967 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Sand Pebbles",
+      "year": 1966,
+      "note": "Best Picture nominee, 1967 ceremony",
+      "won": false
+    },
+    {
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": 1966,
+      "note": "Best Picture nominee, 1967 ceremony",
+      "won": false
+    },
+    {
+      "title": "In the Heat of the Night",
+      "year": 1967,
+      "note": "Best Picture winner, 1968 ceremony",
+      "won": true
+    },
+    {
+      "title": "Bonnie and Clyde",
+      "year": 1967,
+      "note": "Best Picture nominee, 1968 ceremony",
+      "won": false
+    },
+    {
+      "title": "Doctor Dolittle",
+      "year": 1967,
+      "note": "Best Picture nominee, 1968 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Graduate",
+      "year": 1967,
+      "note": "Best Picture nominee, 1968 ceremony",
+      "won": false
+    },
+    {
+      "title": "Guess Who's Coming to Dinner",
+      "year": 1967,
+      "note": "Best Picture nominee, 1968 ceremony",
+      "won": false
+    },
+    {
+      "title": "Oliver!",
+      "year": 1968,
+      "note": "Best Picture winner, 1969 ceremony",
+      "won": true
+    },
+    {
+      "title": "Funny Girl",
+      "year": 1968,
+      "note": "Best Picture nominee, 1969 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Lion in Winter",
+      "year": 1968,
+      "note": "Best Picture nominee, 1969 ceremony",
+      "won": false
+    },
+    {
+      "title": "Rachel, Rachel",
+      "year": 1968,
+      "note": "Best Picture nominee, 1969 ceremony",
+      "won": false
+    },
+    {
+      "title": "Romeo and Juliet",
+      "year": 1968,
+      "note": "Best Picture nominee, 1969 ceremony",
+      "won": false
+    },
+    {
+      "title": "Midnight Cowboy",
+      "year": 1969,
+      "note": "Best Picture winner, 1970 ceremony",
+      "won": true
+    },
+    {
+      "title": "Anne of the Thousand Days",
+      "year": 1969,
+      "note": "Best Picture nominee, 1970 ceremony",
+      "won": false
+    },
+    {
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969,
+      "note": "Best Picture nominee, 1970 ceremony",
+      "won": false
+    },
+    {
+      "title": "Hello, Dolly!",
+      "year": 1969,
+      "note": "Best Picture nominee, 1970 ceremony",
+      "won": false
+    },
+    {
+      "title": "Z",
+      "year": 1969,
+      "note": "Best Picture nominee, 1970 ceremony",
+      "won": false
+    },
+    {
+      "title": "Patton",
+      "year": 1970,
+      "note": "Best Picture winner, 1971 ceremony",
+      "won": true
+    },
+    {
+      "title": "Airport",
+      "year": 1970,
+      "note": "Best Picture nominee, 1971 ceremony",
+      "won": false
+    },
+    {
+      "title": "Five Easy Pieces",
+      "year": 1970,
+      "note": "Best Picture nominee, 1971 ceremony",
+      "won": false
+    },
+    {
+      "title": "Love Story",
+      "year": 1970,
+      "note": "Best Picture nominee, 1971 ceremony",
+      "won": false
+    },
+    {
+      "title": "M*A*S*H",
+      "year": 1970,
+      "note": "Best Picture nominee, 1971 ceremony",
+      "won": false
+    },
+    {
+      "title": "The French Connection",
+      "year": 1971,
+      "note": "Best Picture winner, 1972 ceremony",
+      "won": true
+    },
+    {
+      "title": "A Clockwork Orange",
+      "year": 1971,
+      "note": "Best Picture nominee, 1972 ceremony",
+      "won": false
+    },
+    {
+      "title": "Fiddler on the Roof",
+      "year": 1971,
+      "note": "Best Picture nominee, 1972 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Last Picture Show",
+      "year": 1971,
+      "note": "Best Picture nominee, 1972 ceremony",
+      "won": false
+    },
+    {
+      "title": "Nicholas and Alexandra",
+      "year": 1971,
+      "note": "Best Picture nominee, 1972 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "note": "Best Picture winner, 1973 ceremony",
+      "won": true
+    },
+    {
+      "title": "Cabaret",
+      "year": 1972,
+      "note": "Best Picture nominee, 1973 ceremony",
+      "won": false
+    },
+    {
+      "title": "Deliverance",
+      "year": 1972,
+      "note": "Best Picture nominee, 1973 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Emigrants",
+      "year": 1971,
+      "note": "Best Picture nominee, 1973 ceremony",
+      "won": false
+    },
+    {
+      "title": "Sounder",
+      "year": 1972,
+      "note": "Best Picture nominee, 1973 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Sting",
+      "year": 1973,
+      "note": "Best Picture winner, 1974 ceremony",
+      "won": true
+    },
+    {
+      "title": "American Graffiti",
+      "year": 1973,
+      "note": "Best Picture nominee, 1974 ceremony",
+      "won": false
+    },
+    {
+      "title": "Cries and Whispers",
+      "year": 1972,
+      "note": "Best Picture nominee, 1974 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Exorcist",
+      "year": 1973,
+      "note": "Best Picture nominee, 1974 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Touch of Class",
+      "year": 1973,
+      "note": "Best Picture nominee, 1974 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Godfather Part II",
+      "year": 1974,
+      "note": "Best Picture winner, 1975 ceremony",
+      "won": true
+    },
+    {
+      "title": "Chinatown",
+      "year": 1974,
+      "note": "Best Picture nominee, 1975 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Conversation",
+      "year": 1974,
+      "note": "Best Picture nominee, 1975 ceremony",
+      "won": false
+    },
+    {
+      "title": "Lenny",
+      "year": 1974,
+      "note": "Best Picture nominee, 1975 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Towering Inferno",
+      "year": 1974,
+      "note": "Best Picture nominee, 1975 ceremony",
+      "won": false
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "note": "Best Picture winner, 1976 ceremony",
+      "won": true
+    },
+    {
+      "title": "Barry Lyndon",
+      "year": 1975,
+      "note": "Best Picture nominee, 1976 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dog Day Afternoon",
+      "year": 1975,
+      "note": "Best Picture nominee, 1976 ceremony",
+      "won": false
+    },
+    {
+      "title": "Jaws",
+      "year": 1975,
+      "note": "Best Picture nominee, 1976 ceremony",
+      "won": false
+    },
+    {
+      "title": "Nashville",
+      "year": 1975,
+      "note": "Best Picture nominee, 1976 ceremony",
+      "won": false
+    },
+    {
+      "title": "Rocky",
+      "year": 1976,
+      "note": "Best Picture winner, 1977 ceremony",
+      "won": true
+    },
+    {
+      "title": "All the President's Men",
+      "year": 1976,
+      "note": "Best Picture nominee, 1977 ceremony",
+      "won": false
+    },
+    {
+      "title": "Bound for Glory",
+      "year": 1976,
+      "note": "Best Picture nominee, 1977 ceremony",
+      "won": false
+    },
+    {
+      "title": "Network",
+      "year": 1976,
+      "note": "Best Picture nominee, 1977 ceremony",
+      "won": false
+    },
+    {
+      "title": "Taxi Driver",
+      "year": 1976,
+      "note": "Best Picture nominee, 1977 ceremony",
+      "won": false
+    },
+    {
+      "title": "Annie Hall",
+      "year": 1977,
+      "note": "Best Picture winner, 1978 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Goodbye Girl",
+      "year": 1977,
+      "note": "Best Picture nominee, 1978 ceremony",
+      "won": false
+    },
+    {
+      "title": "Julia",
+      "year": 1977,
+      "note": "Best Picture nominee, 1978 ceremony",
+      "won": false
+    },
+    {
+      "title": "Star Wars",
+      "year": 1977,
+      "note": "Best Picture nominee, 1978 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Turning Point",
+      "year": 1977,
+      "note": "Best Picture nominee, 1978 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Deer Hunter",
+      "year": 1978,
+      "note": "Best Picture winner, 1979 ceremony",
+      "won": true
+    },
+    {
+      "title": "Coming Home",
+      "year": 1978,
+      "note": "Best Picture nominee, 1979 ceremony",
+      "won": false
+    },
+    {
+      "title": "Heaven Can Wait",
+      "year": 1978,
+      "note": "Best Picture nominee, 1979 ceremony",
+      "won": false
+    },
+    {
+      "title": "Midnight Express",
+      "year": 1978,
+      "note": "Best Picture nominee, 1979 ceremony",
+      "won": false
+    },
+    {
+      "title": "An Unmarried Woman",
+      "year": 1978,
+      "note": "Best Picture nominee, 1979 ceremony",
+      "won": false
+    },
+    {
+      "title": "Kramer vs. Kramer",
+      "year": 1979,
+      "note": "Best Picture winner, 1980 ceremony",
+      "won": true
+    },
+    {
+      "title": "All That Jazz",
+      "year": 1979,
+      "note": "Best Picture nominee, 1980 ceremony",
+      "won": false
+    },
+    {
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "note": "Best Picture nominee, 1980 ceremony",
+      "won": false
+    },
+    {
+      "title": "Breaking Away",
+      "year": 1979,
+      "note": "Best Picture nominee, 1980 ceremony",
+      "won": false
+    },
+    {
+      "title": "Norma Rae",
+      "year": 1979,
+      "note": "Best Picture nominee, 1980 ceremony",
+      "won": false
+    },
+    {
+      "title": "Ordinary People",
+      "year": 1980,
+      "note": "Best Picture winner, 1981 ceremony",
+      "won": true
+    },
+    {
+      "title": "Coal Miner's Daughter",
+      "year": 1980,
+      "note": "Best Picture nominee, 1981 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Elephant Man",
+      "year": 1980,
+      "note": "Best Picture nominee, 1981 ceremony",
+      "won": false
+    },
+    {
+      "title": "Raging Bull",
+      "year": 1980,
+      "note": "Best Picture nominee, 1981 ceremony",
+      "won": false
+    },
+    {
+      "title": "Tess",
+      "year": 1979,
+      "note": "Best Picture nominee, 1981 ceremony",
+      "won": false
+    },
+    {
+      "title": "Chariots of Fire",
+      "year": 1981,
+      "note": "Best Picture winner, 1982 ceremony",
+      "won": true
+    },
+    {
+      "title": "Atlantic City",
+      "year": 1980,
+      "note": "Best Picture nominee, 1982 ceremony",
+      "won": false
+    },
+    {
+      "title": "On Golden Pond",
+      "year": 1981,
+      "note": "Best Picture nominee, 1982 ceremony",
+      "won": false
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "note": "Best Picture nominee, 1982 ceremony",
+      "won": false
+    },
+    {
+      "title": "Reds",
+      "year": 1981,
+      "note": "Best Picture nominee, 1982 ceremony",
+      "won": false
+    },
+    {
+      "title": "Gandhi",
+      "year": 1982,
+      "note": "Best Picture winner, 1983 ceremony",
+      "won": true
+    },
+    {
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "note": "Best Picture nominee, 1983 ceremony",
+      "won": false
+    },
+    {
+      "title": "Missing",
+      "year": 1982,
+      "note": "Best Picture nominee, 1983 ceremony",
+      "won": false
+    },
+    {
+      "title": "Tootsie",
+      "year": 1982,
+      "note": "Best Picture nominee, 1983 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Verdict",
+      "year": 1982,
+      "note": "Best Picture nominee, 1983 ceremony",
+      "won": false
+    },
+    {
+      "title": "Terms of Endearment",
+      "year": 1983,
+      "note": "Best Picture winner, 1984 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Big Chill",
+      "year": 1983,
+      "note": "Best Picture nominee, 1984 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Dresser",
+      "year": 1983,
+      "note": "Best Picture nominee, 1984 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Right Stuff",
+      "year": 1983,
+      "note": "Best Picture nominee, 1984 ceremony",
+      "won": false
+    },
+    {
+      "title": "Tender Mercies",
+      "year": 1983,
+      "note": "Best Picture nominee, 1984 ceremony",
+      "won": false
+    },
+    {
+      "title": "Amadeus",
+      "year": 1984,
+      "note": "Best Picture winner, 1985 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Killing Fields",
+      "year": 1984,
+      "note": "Best Picture nominee, 1985 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Passage to India",
+      "year": 1984,
+      "note": "Best Picture nominee, 1985 ceremony",
+      "won": false
+    },
+    {
+      "title": "Places in the Heart",
+      "year": 1984,
+      "note": "Best Picture nominee, 1985 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Soldier's Story",
+      "year": 1984,
+      "note": "Best Picture nominee, 1985 ceremony",
+      "won": false
+    },
+    {
+      "title": "Out of Africa",
+      "year": 1985,
+      "note": "Best Picture winner, 1986 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Color Purple",
+      "year": 1985,
+      "note": "Best Picture nominee, 1986 ceremony",
+      "won": false
+    },
+    {
+      "title": "Kiss of the Spider Woman",
+      "year": 1985,
+      "note": "Best Picture nominee, 1986 ceremony",
+      "won": false
+    },
+    {
+      "title": "Prizzi's Honor",
+      "year": 1985,
+      "note": "Best Picture nominee, 1986 ceremony",
+      "won": false
+    },
+    {
+      "title": "Witness",
+      "year": 1985,
+      "note": "Best Picture nominee, 1986 ceremony",
+      "won": false
+    },
+    {
+      "title": "Platoon",
+      "year": 1986,
+      "note": "Best Picture winner, 1987 ceremony",
+      "won": true
+    },
+    {
+      "title": "Children of a Lesser God",
+      "year": 1986,
+      "note": "Best Picture nominee, 1987 ceremony",
+      "won": false
+    },
+    {
+      "title": "Hannah and Her Sisters",
+      "year": 1986,
+      "note": "Best Picture nominee, 1987 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Mission",
+      "year": 1986,
+      "note": "Best Picture nominee, 1987 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Room with a View",
+      "year": 1985,
+      "note": "Best Picture nominee, 1987 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Last Emperor",
+      "year": 1987,
+      "note": "Best Picture winner, 1988 ceremony",
+      "won": true
+    },
+    {
+      "title": "Broadcast News",
+      "year": 1987,
+      "note": "Best Picture nominee, 1988 ceremony",
+      "won": false
+    },
+    {
+      "title": "Fatal Attraction",
+      "year": 1987,
+      "note": "Best Picture nominee, 1988 ceremony",
+      "won": false
+    },
+    {
+      "title": "Hope and Glory",
+      "year": 1987,
+      "note": "Best Picture nominee, 1988 ceremony",
+      "won": false
+    },
+    {
+      "title": "Moonstruck",
+      "year": 1987,
+      "note": "Best Picture nominee, 1988 ceremony",
+      "won": false
+    },
+    {
+      "title": "Rain Man",
+      "year": 1988,
+      "note": "Best Picture winner, 1989 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Accidental Tourist",
+      "year": 1988,
+      "note": "Best Picture nominee, 1989 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dangerous Liaisons",
+      "year": 1988,
+      "note": "Best Picture nominee, 1989 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mississippi Burning",
+      "year": 1988,
+      "note": "Best Picture nominee, 1989 ceremony",
+      "won": false
+    },
+    {
+      "title": "Working Girl",
+      "year": 1988,
+      "note": "Best Picture nominee, 1989 ceremony",
+      "won": false
+    },
+    {
+      "title": "Driving Miss Daisy",
+      "year": 1989,
+      "note": "Best Picture winner, 1990 ceremony",
+      "won": true
+    },
+    {
+      "title": "Born on the Fourth of July",
+      "year": 1989,
+      "note": "Best Picture nominee, 1990 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dead Poets Society",
+      "year": 1989,
+      "note": "Best Picture nominee, 1990 ceremony",
+      "won": false
+    },
+    {
+      "title": "Field of Dreams",
+      "year": 1989,
+      "note": "Best Picture nominee, 1990 ceremony",
+      "won": false
+    },
+    {
+      "title": "My Left Foot",
+      "year": 1989,
+      "note": "Best Picture nominee, 1990 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dances With Wolves",
+      "year": 1990,
+      "note": "Best Picture winner, 1991 ceremony",
+      "won": true
+    },
+    {
+      "title": "Awakenings",
+      "year": 1990,
+      "note": "Best Picture nominee, 1991 ceremony",
+      "won": false
+    },
+    {
+      "title": "Ghost",
+      "year": 1990,
+      "note": "Best Picture nominee, 1991 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Godfather Part III",
+      "year": 1990,
+      "note": "Best Picture nominee, 1991 ceremony",
+      "won": false
+    },
+    {
+      "title": "Goodfellas",
+      "year": 1990,
+      "note": "Best Picture nominee, 1991 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "note": "Best Picture winner, 1992 ceremony",
+      "won": true
+    },
+    {
+      "title": "Beauty and the Beast",
+      "year": 1991,
+      "note": "Best Picture nominee, 1992 ceremony",
+      "won": false
+    },
+    {
+      "title": "Bugsy",
+      "year": 1991,
+      "note": "Best Picture nominee, 1992 ceremony",
+      "won": false
+    },
+    {
+      "title": "JFK",
+      "year": 1991,
+      "note": "Best Picture nominee, 1992 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Prince of Tides",
+      "year": 1991,
+      "note": "Best Picture nominee, 1992 ceremony",
+      "won": false
+    },
+    {
+      "title": "Unforgiven",
+      "year": 1992,
+      "note": "Best Picture winner, 1993 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Crying Game",
+      "year": 1992,
+      "note": "Best Picture nominee, 1993 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Few Good Men",
+      "year": 1992,
+      "note": "Best Picture nominee, 1993 ceremony",
+      "won": false
+    },
+    {
+      "title": "Howards End",
+      "year": 1992,
+      "note": "Best Picture nominee, 1993 ceremony",
+      "won": false
+    },
+    {
+      "title": "Scent of a Woman",
+      "year": 1992,
+      "note": "Best Picture nominee, 1993 ceremony",
+      "won": false
+    },
+    {
+      "title": "Schindler's List",
+      "year": 1993,
+      "note": "Best Picture winner, 1994 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Fugitive",
+      "year": 1993,
+      "note": "Best Picture nominee, 1994 ceremony",
+      "won": false
+    },
+    {
+      "title": "In the Name of the Father",
+      "year": 1993,
+      "note": "Best Picture nominee, 1994 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Piano",
+      "year": 1993,
+      "note": "Best Picture nominee, 1994 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Remains of the Day",
+      "year": 1993,
+      "note": "Best Picture nominee, 1994 ceremony",
+      "won": false
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994,
+      "note": "Best Picture winner, 1995 ceremony",
+      "won": true
+    },
+    {
+      "title": "Four Weddings and a Funeral",
+      "year": 1994,
+      "note": "Best Picture nominee, 1995 ceremony",
+      "won": false
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "note": "Best Picture nominee, 1995 ceremony",
+      "won": false
+    },
+    {
+      "title": "Quiz Show",
+      "year": 1994,
+      "note": "Best Picture nominee, 1995 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "note": "Best Picture nominee, 1995 ceremony",
+      "won": false
+    },
+    {
+      "title": "Braveheart",
+      "year": 1995,
+      "note": "Best Picture winner, 1996 ceremony",
+      "won": true
+    },
+    {
+      "title": "Apollo 13",
+      "year": 1995,
+      "note": "Best Picture nominee, 1996 ceremony",
+      "won": false
+    },
+    {
+      "title": "Babe",
+      "year": 1995,
+      "note": "Best Picture nominee, 1996 ceremony",
+      "won": false
+    },
+    {
+      "title": "Il Postino: The Postman",
+      "year": 1994,
+      "note": "Best Picture nominee, 1996 ceremony",
+      "won": false
+    },
+    {
+      "title": "Sense and Sensibility",
+      "year": 1995,
+      "note": "Best Picture nominee, 1996 ceremony",
+      "won": false
+    },
+    {
+      "title": "The English Patient",
+      "year": 1996,
+      "note": "Best Picture winner, 1997 ceremony",
+      "won": true
+    },
+    {
+      "title": "Fargo",
+      "year": 1996,
+      "note": "Best Picture nominee, 1997 ceremony",
+      "won": false
+    },
+    {
+      "title": "Jerry Maguire",
+      "year": 1996,
+      "note": "Best Picture nominee, 1997 ceremony",
+      "won": false
+    },
+    {
+      "title": "Secrets & Lies",
+      "year": 1996,
+      "note": "Best Picture nominee, 1997 ceremony",
+      "won": false
+    },
+    {
+      "title": "Shine",
+      "year": 1996,
+      "note": "Best Picture nominee, 1997 ceremony",
+      "won": false
+    },
+    {
+      "title": "Titanic",
+      "year": 1997,
+      "note": "Best Picture winner, 1998 ceremony",
+      "won": true
+    },
+    {
+      "title": "As Good as It Gets",
+      "year": 1997,
+      "note": "Best Picture nominee, 1998 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Full Monty",
+      "year": 1997,
+      "note": "Best Picture nominee, 1998 ceremony",
+      "won": false
+    },
+    {
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "note": "Best Picture nominee, 1998 ceremony",
+      "won": false
+    },
+    {
+      "title": "L.A. Confidential",
+      "year": 1997,
+      "note": "Best Picture nominee, 1998 ceremony",
+      "won": false
+    },
+    {
+      "title": "Shakespeare in Love",
+      "year": 1998,
+      "note": "Best Picture winner, 1999 ceremony",
+      "won": true
+    },
+    {
+      "title": "Elizabeth",
+      "year": 1998,
+      "note": "Best Picture nominee, 1999 ceremony",
+      "won": false
+    },
+    {
+      "title": "Life Is Beautiful",
+      "year": 1997,
+      "note": "Best Picture nominee, 1999 ceremony",
+      "won": false
+    },
+    {
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "note": "Best Picture nominee, 1999 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Thin Red Line",
+      "year": 1998,
+      "note": "Best Picture nominee, 1999 ceremony",
+      "won": false
+    },
+    {
+      "title": "American Beauty",
+      "year": 1999,
+      "note": "Best Picture winner, 2000 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Cider House Rules",
+      "year": 1999,
+      "note": "Best Picture nominee, 2000 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Green Mile",
+      "year": 1999,
+      "note": "Best Picture nominee, 2000 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Insider",
+      "year": 1999,
+      "note": "Best Picture nominee, 2000 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Sixth Sense",
+      "year": 1999,
+      "note": "Best Picture nominee, 2000 ceremony",
+      "won": false
+    },
+    {
+      "title": "Gladiator",
+      "year": 2000,
+      "note": "Best Picture winner, 2001 ceremony",
+      "won": true
+    },
+    {
+      "title": "Chocolat",
+      "year": 2000,
+      "note": "Best Picture nominee, 2001 ceremony",
+      "won": false
+    },
+    {
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000,
+      "note": "Best Picture nominee, 2001 ceremony",
+      "won": false
+    },
+    {
+      "title": "Erin Brockovich",
+      "year": 2000,
+      "note": "Best Picture nominee, 2001 ceremony",
+      "won": false
+    },
+    {
+      "title": "Traffic",
+      "year": 2000,
+      "note": "Best Picture nominee, 2001 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Beautiful Mind",
+      "year": 2001,
+      "note": "Best Picture winner, 2002 ceremony",
+      "won": true
+    },
+    {
+      "title": "Gosford Park",
+      "year": 2001,
+      "note": "Best Picture nominee, 2002 ceremony",
+      "won": false
+    },
+    {
+      "title": "In the Bedroom",
+      "year": 2001,
+      "note": "Best Picture nominee, 2002 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "note": "Best Picture nominee, 2002 ceremony",
+      "won": false
+    },
+    {
+      "title": "Moulin Rouge!",
+      "year": 2001,
+      "note": "Best Picture nominee, 2002 ceremony",
+      "won": false
+    },
+    {
+      "title": "Chicago",
+      "year": 2002,
+      "note": "Best Picture winner, 2003 ceremony",
+      "won": true
+    },
+    {
+      "title": "Gangs of New York",
+      "year": 2002,
+      "note": "Best Picture nominee, 2003 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Hours",
+      "year": 2002,
+      "note": "Best Picture nominee, 2003 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "note": "Best Picture nominee, 2003 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Pianist",
+      "year": 2002,
+      "note": "Best Picture nominee, 2003 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "note": "Best Picture winner, 2004 ceremony",
+      "won": true
+    },
+    {
+      "title": "Lost in Translation",
+      "year": 2003,
+      "note": "Best Picture nominee, 2004 ceremony",
+      "won": false
+    },
+    {
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003,
+      "note": "Best Picture nominee, 2004 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mystic River",
+      "year": 2003,
+      "note": "Best Picture nominee, 2004 ceremony",
+      "won": false
+    },
+    {
+      "title": "Seabiscuit",
+      "year": 2003,
+      "note": "Best Picture nominee, 2004 ceremony",
+      "won": false
+    },
+    {
+      "title": "Million Dollar Baby",
+      "year": 2004,
+      "note": "Best Picture winner, 2005 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Aviator",
+      "year": 2004,
+      "note": "Best Picture nominee, 2005 ceremony",
+      "won": false
+    },
+    {
+      "title": "Finding Neverland",
+      "year": 2004,
+      "note": "Best Picture nominee, 2005 ceremony",
+      "won": false
+    },
+    {
+      "title": "Ray",
+      "year": 2004,
+      "note": "Best Picture nominee, 2005 ceremony",
+      "won": false
+    },
+    {
+      "title": "Sideways",
+      "year": 2004,
+      "note": "Best Picture nominee, 2005 ceremony",
+      "won": false
+    },
+    {
+      "title": "Crash",
+      "year": 2004,
+      "note": "Best Picture winner, 2006 ceremony",
+      "won": true
+    },
+    {
+      "title": "Brokeback Mountain",
+      "year": 2005,
+      "note": "Best Picture nominee, 2006 ceremony",
+      "won": false
+    },
+    {
+      "title": "Capote",
+      "year": 2005,
+      "note": "Best Picture nominee, 2006 ceremony",
+      "won": false
+    },
+    {
+      "title": "Good Night, and Good Luck",
+      "year": 2005,
+      "note": "Best Picture nominee, 2006 ceremony",
+      "won": false
+    },
+    {
+      "title": "Munich",
+      "year": 2005,
+      "note": "Best Picture nominee, 2006 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Departed",
+      "year": 2006,
+      "note": "Best Picture winner, 2007 ceremony",
+      "won": true
+    },
+    {
+      "title": "Babel",
+      "year": 2006,
+      "note": "Best Picture nominee, 2007 ceremony",
+      "won": false
+    },
+    {
+      "title": "Letters from Iwo Jima",
+      "year": 2006,
+      "note": "Best Picture nominee, 2007 ceremony",
+      "won": false
+    },
+    {
+      "title": "Little Miss Sunshine",
+      "year": 2006,
+      "note": "Best Picture nominee, 2007 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Queen",
+      "year": 2006,
+      "note": "Best Picture nominee, 2007 ceremony",
+      "won": false
+    },
+    {
+      "title": "No Country for Old Men",
+      "year": 2007,
+      "note": "Best Picture winner, 2008 ceremony",
+      "won": true
+    },
+    {
+      "title": "Atonement",
+      "year": 2007,
+      "note": "Best Picture nominee, 2008 ceremony",
+      "won": false
+    },
+    {
+      "title": "Juno",
+      "year": 2007,
+      "note": "Best Picture nominee, 2008 ceremony",
+      "won": false
+    },
+    {
+      "title": "Michael Clayton",
+      "year": 2007,
+      "note": "Best Picture nominee, 2008 ceremony",
+      "won": false
+    },
+    {
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "note": "Best Picture nominee, 2008 ceremony",
+      "won": false
+    },
+    {
+      "title": "Slumdog Millionaire",
+      "year": 2008,
+      "note": "Best Picture winner, 2009 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008,
+      "note": "Best Picture nominee, 2009 ceremony",
+      "won": false
+    },
+    {
+      "title": "Frost/Nixon",
+      "year": 2008,
+      "note": "Best Picture nominee, 2009 ceremony",
+      "won": false
+    },
+    {
+      "title": "Milk",
+      "year": 2008,
+      "note": "Best Picture nominee, 2009 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Reader",
+      "year": 2008,
+      "note": "Best Picture nominee, 2009 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Hurt Locker",
+      "year": 2008,
+      "note": "Best Picture winner, 2010 ceremony",
+      "won": true
+    },
+    {
+      "title": "Avatar",
+      "year": 2009,
+      "note": "Best Picture nominee, 2010 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Blind Side",
+      "year": 2009,
+      "note": "Best Picture nominee, 2010 ceremony",
+      "won": false
+    },
+    {
+      "title": "District 9",
+      "year": 2009,
+      "note": "Best Picture nominee, 2010 ceremony",
+      "won": false
+    },
+    {
+      "title": "An Education",
+      "year": 2009,
+      "note": "Best Picture nominee, 2010 ceremony",
+      "won": false
+    },
+    {
+      "title": "Inglourious Basterds",
+      "year": 2009,
+      "note": "Best Picture nominee, 2010 ceremony",
+      "won": false
+    },
+    {
+      "title": "Precious: Based on the Novel \"Push\" by Sapphire",
+      "year": 2009,
+      "note": "Best Picture nominee, 2010 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Serious Man",
+      "year": 2009,
+      "note": "Best Picture nominee, 2010 ceremony",
+      "won": false
+    },
+    {
+      "title": "Up",
+      "year": 2009,
+      "note": "Best Picture nominee, 2010 ceremony",
+      "won": false
+    },
+    {
+      "title": "Up in the Air",
+      "year": 2009,
+      "note": "Best Picture nominee, 2010 ceremony",
+      "won": false
+    },
+    {
+      "title": "The King's Speech",
+      "year": 2010,
+      "note": "Best Picture winner, 2011 ceremony",
+      "won": true
+    },
+    {
+      "title": "Black Swan",
+      "year": 2010,
+      "note": "Best Picture nominee, 2011 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Fighter",
+      "year": 2010,
+      "note": "Best Picture nominee, 2011 ceremony",
+      "won": false
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "note": "Best Picture nominee, 2011 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Kids Are All Right",
+      "year": 2010,
+      "note": "Best Picture nominee, 2011 ceremony",
+      "won": false
+    },
+    {
+      "title": "127 Hours",
+      "year": 2010,
+      "note": "Best Picture nominee, 2011 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Social Network",
+      "year": 2010,
+      "note": "Best Picture nominee, 2011 ceremony",
+      "won": false
+    },
+    {
+      "title": "Toy Story 3",
+      "year": 2010,
+      "note": "Best Picture nominee, 2011 ceremony",
+      "won": false
+    },
+    {
+      "title": "True Grit",
+      "year": 2010,
+      "note": "Best Picture nominee, 2011 ceremony",
+      "won": false
+    },
+    {
+      "title": "Winter's Bone",
+      "year": 2010,
+      "note": "Best Picture nominee, 2011 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Artist",
+      "year": 2011,
+      "note": "Best Picture winner, 2012 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Descendants",
+      "year": 2011,
+      "note": "Best Picture nominee, 2012 ceremony",
+      "won": false
+    },
+    {
+      "title": "Extremely Loud & Incredibly Close",
+      "year": 2011,
+      "note": "Best Picture nominee, 2012 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Help",
+      "year": 2011,
+      "note": "Best Picture nominee, 2012 ceremony",
+      "won": false
+    },
+    {
+      "title": "Hugo",
+      "year": 2011,
+      "note": "Best Picture nominee, 2012 ceremony",
+      "won": false
+    },
+    {
+      "title": "Midnight in Paris",
+      "year": 2011,
+      "note": "Best Picture nominee, 2012 ceremony",
+      "won": false
+    },
+    {
+      "title": "Moneyball",
+      "year": 2011,
+      "note": "Best Picture nominee, 2012 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Tree of Life",
+      "year": 2011,
+      "note": "Best Picture nominee, 2012 ceremony",
+      "won": false
+    },
+    {
+      "title": "War Horse",
+      "year": 2011,
+      "note": "Best Picture nominee, 2012 ceremony",
+      "won": false
+    },
+    {
+      "title": "Argo",
+      "year": 2012,
+      "note": "Best Picture winner, 2013 ceremony",
+      "won": true
+    },
+    {
+      "title": "Amour",
+      "year": 2012,
+      "note": "Best Picture nominee, 2013 ceremony",
+      "won": false
+    },
+    {
+      "title": "Beasts of the Southern Wild",
+      "year": 2012,
+      "note": "Best Picture nominee, 2013 ceremony",
+      "won": false
+    },
+    {
+      "title": "Django Unchained",
+      "year": 2012,
+      "note": "Best Picture nominee, 2013 ceremony",
+      "won": false
+    },
+    {
+      "title": "Life of Pi",
+      "year": 2012,
+      "note": "Best Picture nominee, 2013 ceremony",
+      "won": false
+    },
+    {
+      "title": "Lincoln",
+      "year": 2012,
+      "note": "Best Picture nominee, 2013 ceremony",
+      "won": false
+    },
+    {
+      "title": "Les Misérables",
+      "year": 2012,
+      "note": "Best Picture nominee, 2013 ceremony",
+      "won": false
+    },
+    {
+      "title": "Silver Linings Playbook",
+      "year": 2012,
+      "note": "Best Picture nominee, 2013 ceremony",
+      "won": false
+    },
+    {
+      "title": "Zero Dark Thirty",
+      "year": 2012,
+      "note": "Best Picture nominee, 2013 ceremony",
+      "won": false
+    },
+    {
+      "title": "12 Years a Slave",
+      "year": 2013,
+      "note": "Best Picture winner, 2014 ceremony",
+      "won": true
+    },
+    {
+      "title": "American Hustle",
+      "year": 2013,
+      "note": "Best Picture nominee, 2014 ceremony",
+      "won": false
+    },
+    {
+      "title": "Captain Phillips",
+      "year": 2013,
+      "note": "Best Picture nominee, 2014 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dallas Buyers Club",
+      "year": 2013,
+      "note": "Best Picture nominee, 2014 ceremony",
+      "won": false
+    },
+    {
+      "title": "Gravity",
+      "year": 2013,
+      "note": "Best Picture nominee, 2014 ceremony",
+      "won": false
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "note": "Best Picture nominee, 2014 ceremony",
+      "won": false
+    },
+    {
+      "title": "Nebraska",
+      "year": 2013,
+      "note": "Best Picture nominee, 2014 ceremony",
+      "won": false
+    },
+    {
+      "title": "Philomena",
+      "year": 2013,
+      "note": "Best Picture nominee, 2014 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "note": "Best Picture nominee, 2014 ceremony",
+      "won": false
+    },
+    {
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014,
+      "note": "Best Picture winner, 2015 ceremony",
+      "won": true
+    },
+    {
+      "title": "American Sniper",
+      "year": 2014,
+      "note": "Best Picture nominee, 2015 ceremony",
+      "won": false
+    },
+    {
+      "title": "Boyhood",
+      "year": 2014,
+      "note": "Best Picture nominee, 2015 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "note": "Best Picture nominee, 2015 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Imitation Game",
+      "year": 2014,
+      "note": "Best Picture nominee, 2015 ceremony",
+      "won": false
+    },
+    {
+      "title": "Selma",
+      "year": 2014,
+      "note": "Best Picture nominee, 2015 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Theory of Everything",
+      "year": 2014,
+      "note": "Best Picture nominee, 2015 ceremony",
+      "won": false
+    },
+    {
+      "title": "Whiplash",
+      "year": 2014,
+      "note": "Best Picture nominee, 2015 ceremony",
+      "won": false
+    },
+    {
+      "title": "Spotlight",
+      "year": 2015,
+      "note": "Best Picture winner, 2016 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Big Short",
+      "year": 2015,
+      "note": "Best Picture nominee, 2016 ceremony",
+      "won": false
+    },
+    {
+      "title": "Bridge of Spies",
+      "year": 2015,
+      "note": "Best Picture nominee, 2016 ceremony",
+      "won": false
+    },
+    {
+      "title": "Brooklyn",
+      "year": 2015,
+      "note": "Best Picture nominee, 2016 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "note": "Best Picture nominee, 2016 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Martian",
+      "year": 2015,
+      "note": "Best Picture nominee, 2016 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Revenant",
+      "year": 2015,
+      "note": "Best Picture nominee, 2016 ceremony",
+      "won": false
+    },
+    {
+      "title": "Room",
+      "year": 2015,
+      "note": "Best Picture nominee, 2016 ceremony",
+      "won": false
+    },
+    {
+      "title": "Moonlight",
+      "year": 2016,
+      "note": "Best Picture winner, 2017 ceremony",
+      "won": true
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "note": "Best Picture nominee, 2017 ceremony",
+      "won": false
+    },
+    {
+      "title": "Fences",
+      "year": 2016,
+      "note": "Best Picture nominee, 2017 ceremony",
+      "won": false
+    },
+    {
+      "title": "Hacksaw Ridge",
+      "year": 2016,
+      "note": "Best Picture nominee, 2017 ceremony",
+      "won": false
+    },
+    {
+      "title": "Hell or High Water",
+      "year": 2016,
+      "note": "Best Picture nominee, 2017 ceremony",
+      "won": false
+    },
+    {
+      "title": "Hidden Figures",
+      "year": 2016,
+      "note": "Best Picture nominee, 2017 ceremony",
+      "won": false
+    },
+    {
+      "title": "La La Land",
+      "year": 2016,
+      "note": "Best Picture nominee, 2017 ceremony",
+      "won": false
+    },
+    {
+      "title": "Lion",
+      "year": 2016,
+      "note": "Best Picture nominee, 2017 ceremony",
+      "won": false
+    },
+    {
+      "title": "Manchester by the Sea",
+      "year": 2016,
+      "note": "Best Picture nominee, 2017 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Shape of Water",
+      "year": 2017,
+      "note": "Best Picture winner, 2018 ceremony",
+      "won": true
+    },
+    {
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "note": "Best Picture nominee, 2018 ceremony",
+      "won": false
+    },
+    {
+      "title": "Darkest Hour",
+      "year": 2017,
+      "note": "Best Picture nominee, 2018 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dunkirk",
+      "year": 2017,
+      "note": "Best Picture nominee, 2018 ceremony",
+      "won": false
+    },
+    {
+      "title": "Get Out",
+      "year": 2017,
+      "note": "Best Picture nominee, 2018 ceremony",
+      "won": false
+    },
+    {
+      "title": "Lady Bird",
+      "year": 2017,
+      "note": "Best Picture nominee, 2018 ceremony",
+      "won": false
+    },
+    {
+      "title": "Phantom Thread",
+      "year": 2017,
+      "note": "Best Picture nominee, 2018 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Post",
+      "year": 2017,
+      "note": "Best Picture nominee, 2018 ceremony",
+      "won": false
+    },
+    {
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017,
+      "note": "Best Picture nominee, 2018 ceremony",
+      "won": false
+    },
+    {
+      "title": "Green Book",
+      "year": 2018,
+      "note": "Best Picture winner, 2019 ceremony",
+      "won": true
+    },
+    {
+      "title": "Black Panther",
+      "year": 2018,
+      "note": "Best Picture nominee, 2019 ceremony",
+      "won": false
+    },
+    {
+      "title": "BlacKkKlansman",
+      "year": 2018,
+      "note": "Best Picture nominee, 2019 ceremony",
+      "won": false
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "year": 2018,
+      "note": "Best Picture nominee, 2019 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Favourite",
+      "year": 2018,
+      "note": "Best Picture nominee, 2019 ceremony",
+      "won": false
+    },
+    {
+      "title": "Roma",
+      "year": 2018,
+      "note": "Best Picture nominee, 2019 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Star Is Born",
+      "year": 2018,
+      "note": "Best Picture nominee, 2019 ceremony",
+      "won": false
+    },
+    {
+      "title": "Vice",
+      "year": 2018,
+      "note": "Best Picture nominee, 2019 ceremony",
+      "won": false
+    },
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "note": "Best Picture winner, 2020 ceremony",
+      "won": true
+    },
+    {
+      "title": "Ford v Ferrari",
+      "year": 2019,
+      "note": "Best Picture nominee, 2020 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Irishman",
+      "year": 2019,
+      "note": "Best Picture nominee, 2020 ceremony",
+      "won": false
+    },
+    {
+      "title": "Jojo Rabbit",
+      "year": 2019,
+      "note": "Best Picture nominee, 2020 ceremony",
+      "won": false
+    },
+    {
+      "title": "Joker",
+      "year": 2019,
+      "note": "Best Picture nominee, 2020 ceremony",
+      "won": false
+    },
+    {
+      "title": "Little Women",
+      "year": 2019,
+      "note": "Best Picture nominee, 2020 ceremony",
+      "won": false
+    },
+    {
+      "title": "Marriage Story",
+      "year": 2019,
+      "note": "Best Picture nominee, 2020 ceremony",
+      "won": false
+    },
+    {
+      "title": "1917",
+      "year": 2019,
+      "note": "Best Picture nominee, 2020 ceremony",
+      "won": false
+    },
+    {
+      "title": "Once Upon a Time in Hollywood",
+      "year": 2019,
+      "note": "Best Picture nominee, 2020 ceremony",
+      "won": false
+    },
+    {
+      "title": "Nomadland",
+      "year": 2020,
+      "note": "Best Picture winner, 2021 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Father",
+      "year": 2020,
+      "note": "Best Picture nominee, 2021 ceremony",
+      "won": false
+    },
+    {
+      "title": "Judas and the Black Messiah",
+      "year": 2021,
+      "note": "Best Picture nominee, 2021 ceremony",
+      "won": false
+    },
+    {
+      "title": "Mank",
+      "year": 2020,
+      "note": "Best Picture nominee, 2021 ceremony",
+      "won": false
+    },
+    {
+      "title": "Minari",
+      "year": 2020,
+      "note": "Best Picture nominee, 2021 ceremony",
+      "won": false
+    },
+    {
+      "title": "Promising Young Woman",
+      "year": 2020,
+      "note": "Best Picture nominee, 2021 ceremony",
+      "won": false
+    },
+    {
+      "title": "Sound of Metal",
+      "year": 2019,
+      "note": "Best Picture nominee, 2021 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Trial of the Chicago 7",
+      "year": 2020,
+      "note": "Best Picture nominee, 2021 ceremony",
+      "won": false
+    },
+    {
+      "title": "CODA",
+      "year": 2021,
+      "note": "Best Picture winner, 2022 ceremony",
+      "won": true
+    },
+    {
+      "title": "Belfast",
+      "year": 2021,
+      "note": "Best Picture nominee, 2022 ceremony",
+      "won": false
+    },
+    {
+      "title": "Don't Look Up",
+      "year": 2021,
+      "note": "Best Picture nominee, 2022 ceremony",
+      "won": false
+    },
+    {
+      "title": "Drive My Car",
+      "year": 2021,
+      "note": "Best Picture nominee, 2022 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dune",
+      "year": 2021,
+      "note": "Best Picture nominee, 2022 ceremony",
+      "won": false
+    },
+    {
+      "title": "King Richard",
+      "year": 2021,
+      "note": "Best Picture nominee, 2022 ceremony",
+      "won": false
+    },
+    {
+      "title": "Licorice Pizza",
+      "year": 2021,
+      "note": "Best Picture nominee, 2022 ceremony",
+      "won": false
+    },
+    {
+      "title": "Nightmare Alley",
+      "year": 2021,
+      "note": "Best Picture nominee, 2022 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Power of the Dog",
+      "year": 2021,
+      "note": "Best Picture nominee, 2022 ceremony",
+      "won": false
+    },
+    {
+      "title": "West Side Story",
+      "year": 2021,
+      "note": "Best Picture nominee, 2022 ceremony",
+      "won": false
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "note": "Best Picture winner, 2023 ceremony",
+      "won": true
+    },
+    {
+      "title": "All Quiet on the Western Front",
+      "year": 2022,
+      "note": "Best Picture nominee, 2023 ceremony",
+      "won": false
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "year": 2022,
+      "note": "Best Picture nominee, 2023 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Banshees of Inisherin",
+      "year": 2022,
+      "note": "Best Picture nominee, 2023 ceremony",
+      "won": false
+    },
+    {
+      "title": "Elvis",
+      "year": 2022,
+      "note": "Best Picture nominee, 2023 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Fabelmans",
+      "year": 2022,
+      "note": "Best Picture nominee, 2023 ceremony",
+      "won": false
+    },
+    {
+      "title": "Tár",
+      "year": 2022,
+      "note": "Best Picture nominee, 2023 ceremony",
+      "won": false
+    },
+    {
+      "title": "Top Gun: Maverick",
+      "year": 2022,
+      "note": "Best Picture nominee, 2023 ceremony",
+      "won": false
+    },
+    {
+      "title": "Triangle of Sadness",
+      "year": 2022,
+      "note": "Best Picture nominee, 2023 ceremony",
+      "won": false
+    },
+    {
+      "title": "Women Talking",
+      "year": 2022,
+      "note": "Best Picture nominee, 2023 ceremony",
+      "won": false
+    },
+    {
+      "title": "Oppenheimer",
+      "year": 2023,
+      "note": "Best Picture winner, 2024 ceremony",
+      "won": true
+    },
+    {
+      "title": "American Fiction",
+      "year": 2023,
+      "note": "Best Picture nominee, 2024 ceremony",
+      "won": false
+    },
+    {
+      "title": "Anatomy of a Fall",
+      "year": 2023,
+      "note": "Best Picture nominee, 2024 ceremony",
+      "won": false
+    },
+    {
+      "title": "Barbie",
+      "year": 2023,
+      "note": "Best Picture nominee, 2024 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Holdovers",
+      "year": 2023,
+      "note": "Best Picture nominee, 2024 ceremony",
+      "won": false
+    },
+    {
+      "title": "Killers of the Flower Moon",
+      "year": 2023,
+      "note": "Best Picture nominee, 2024 ceremony",
+      "won": false
+    },
+    {
+      "title": "Maestro",
+      "year": 2023,
+      "note": "Best Picture nominee, 2024 ceremony",
+      "won": false
+    },
+    {
+      "title": "Past Lives",
+      "year": 2023,
+      "note": "Best Picture nominee, 2024 ceremony",
+      "won": false
+    },
+    {
+      "title": "Poor Things",
+      "year": 2023,
+      "note": "Best Picture nominee, 2024 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Zone of Interest",
+      "year": 2023,
+      "note": "Best Picture nominee, 2024 ceremony",
+      "won": false
+    },
+    {
+      "title": "Anora",
+      "year": 2024,
+      "note": "Best Picture winner, 2025 ceremony",
+      "won": true
+    },
+    {
+      "title": "The Brutalist",
+      "year": 2024,
+      "note": "Best Picture nominee, 2025 ceremony",
+      "won": false
+    },
+    {
+      "title": "A Complete Unknown",
+      "year": 2024,
+      "note": "Best Picture nominee, 2025 ceremony",
+      "won": false
+    },
+    {
+      "title": "Conclave",
+      "year": 2024,
+      "note": "Best Picture nominee, 2025 ceremony",
+      "won": false
+    },
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "note": "Best Picture nominee, 2025 ceremony",
+      "won": false
+    },
+    {
+      "title": "Emilia Pérez",
+      "year": 2024,
+      "note": "Best Picture nominee, 2025 ceremony",
+      "won": false
+    },
+    {
+      "title": "I'm Still Here",
+      "year": 2024,
+      "note": "Best Picture nominee, 2025 ceremony",
+      "won": false
+    },
+    {
+      "title": "Nickel Boys",
+      "year": 2024,
+      "note": "Best Picture nominee, 2025 ceremony",
+      "won": false
+    },
+    {
+      "title": "The Substance",
+      "year": 2024,
+      "note": "Best Picture nominee, 2025 ceremony",
+      "won": false
+    },
+    {
+      "title": "Wicked",
+      "year": 2024,
+      "note": "Best Picture nominee, 2025 ceremony",
+      "won": false
+    }
+  ]
+}

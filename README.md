@@ -3,13 +3,25 @@
 A small web app that turns a **Letterboxd diary export** into a picture of your
 film-watching taste:
 
+**Act I — Your Diary**
+
 - 🌍 **Countries** your films come from
 - 🗣️ **Languages** you watch in
 - 📅 **Decades & years** your taste lives in
 - 🏆 **Coverage of famous lists** — how many you've seen from:
-  - Sight & Sound _Greatest Films of All Time_ (2022 critics' poll)
-  - The New York Times _100 Best Movies of the 21st Century_ (2025)
-  - IndieWire _Best Films of 2025_
+  - _Critics & canon:_ Sight & Sound (2022), NYT 100 Best of the 21st Century (2025), IndieWire Best of 2025
+  - _Festivals:_ Cannes, Berlinale, and Venice major award winners (with award records)
+  - _National & regional awards:_ Oscars Best Picture (winners + nominees), BAFTA Best Film,
+    European Film Awards, Golden Horse Awards (Chinese-language cinema), Blue Dragon / Grand Bell /
+    Baeksang (South Korea), and the Kinema Junpo Best Ten (Japan)
+
+**Act II — Your World Cinema Diet**
+
+- 🗺️ A **world map** shaded by where your watched films were produced
+- 🥧 **Same-size regional plates**: every region's canon is normalized to 100%, so Hollywood's
+  plate is exactly as big as Taiwan's. Coverage = how much of _that region's own canon_ you've seen
+- 🧑‍🍳 A verdict on what your cinematic diet is rich in, what you've been skipping,
+  and award-winning suggestions from the cuisines you're missing
 
 Country and language metadata comes from the [TMDb API](https://www.themoviedb.org/).
 
@@ -28,7 +40,8 @@ src/
   tmdb.js          TMDb client: search + details, caching, language-name lookup
   analyze.js       Enrich films + aggregate countries/languages/decades/years
   lists.js         Load + fuzzy-match the famous lists
-data/              The famous lists as JSON ({ title, year })
+  diet.js          "World cinema diet": per-region canon coverage (Act II)
+data/lists/        The lists/awards as JSON ({ id, name, category, entries })
 sample/            A sample diary CSV you can try immediately
 ```
 
@@ -72,9 +85,15 @@ CSVs. This app works with any of them that have `Name` and `Year` columns —
 - **Matching isn't perfect.** Films are matched to TMDb by title + year; the
   occasional title won't resolve (shown under _"Not found on TMDb"_) and rare
   ambiguous titles may match the wrong film.
-- **List data is curated** and stored in `data/*.json`. Lists change and ties
-  make exact counts fuzzy — treat coverage as approximate. Edit those files to
-  update or add your own lists.
+- **List/award data is curated** and stored in `data/lists/*.json`
+  (`{ id, name, category, entries: [{ title, year, note, won }] }`). Award rolls
+  were compiled from Wikipedia and may contain the occasional title/year quirk —
+  treat coverage as approximate. Drop a new JSON file in that folder to add your
+  own list; it's picked up automatically.
+- **The diet model is opinionated.** Each region is scored against its own canon
+  (e.g. Japan = Kinema Junpo Best Ten, Chinese-language = Golden Horse), so every
+  region's "plate" is the same size regardless of industry output. What counts as
+  a canon is defined in `src/diet.js` — tweak it to taste.
 - **The TMDb key stays on the server** and is never exposed to the browser.
 
 ## License

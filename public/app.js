@@ -1,4 +1,4 @@
-/* global Chart */
+/* global Chart, ChartGeo */
 
 const els = {
   dropzone: document.getElementById('dropzone'),
@@ -7,21 +7,26 @@ const els = {
   fileName: document.getElementById('file-name'),
   analyzeBtn: document.getElementById('analyze-btn'),
   configWarning: document.getElementById('config-warning'),
-  uploadSection: document.getElementById('upload-section'),
   progressSection: document.getElementById('progress-section'),
   progressText: document.getElementById('progress-text'),
   progressFill: document.getElementById('progress-fill'),
   errorSection: document.getElementById('error-section'),
   errorText: document.getElementById('error-text'),
-  results: document.getElementById('results'),
+  actTabs: document.getElementById('act-tabs'),
+  act1: document.getElementById('act-1'),
+  act2: document.getElementById('act-2'),
   summary: document.getElementById('summary'),
   listsContainer: document.getElementById('lists-container'),
   unmatchedCard: document.getElementById('unmatched-card'),
   unmatchedList: document.getElementById('unmatched-list'),
+  dietVerdict: document.getElementById('diet-verdict'),
+  dietPlates: document.getElementById('diet-plates'),
+  dietSuggestions: document.getElementById('diet-suggestions'),
 };
 
 let selectedFile = null;
 const charts = {};
+let worldGeoPromise = null;
 
 // ---- Config check ----------------------------------------------------------
 fetch('/api/health')
@@ -34,6 +39,16 @@ fetch('/api/health')
     }
   })
   .catch(() => {});
+
+// ---- Tabs ------------------------------------------------------------------
+els.actTabs.querySelectorAll('.act-tab').forEach((tab) => {
+  tab.addEventListener('click', () => {
+    els.actTabs.querySelectorAll('.act-tab').forEach((t) => t.classList.remove('active'));
+    tab.classList.add('active');
+    els.act1.hidden = tab.dataset.act !== 'act-1';
+    els.act2.hidden = tab.dataset.act !== 'act-2';
+  });
+});
 
 // ---- File selection --------------------------------------------------------
 function setFile(file) {
@@ -76,7 +91,9 @@ els.analyzeBtn.addEventListener('click', analyze);
 async function analyze() {
   if (!selectedFile) return;
   hideError();
-  els.results.hidden = true;
+  els.actTabs.hidden = true;
+  els.act1.hidden = true;
+  els.act2.hidden = true;
   els.progressSection.hidden = false;
   els.analyzeBtn.disabled = true;
   setProgress(0, 0, 'Reading your file…');
@@ -104,7 +121,6 @@ async function analyze() {
 }
 
 // Read the newline-delimited JSON stream, updating progress as it arrives.
-// Returns the final `result` payload, or throws on an `error` event.
 async function readNdjsonStream(stream) {
   const reader = stream.getReader();
   const decoder = new TextDecoder();
@@ -144,12 +160,19 @@ function setProgress(done, total, text) {
 
 // ---- Rendering -------------------------------------------------------------
 function render(r) {
-  els.results.hidden = false;
+  els.actTabs.hidden = false;
+  els.act1.hidden = false;
+  els.act2.hidden = true;
+  els.actTabs.querySelectorAll('.act-tab').forEach((t) =>
+    t.classList.toggle('active', t.dataset.act === 'act-1')
+  );
+
   renderSummary(r);
-  renderLists(r.lists);
   renderCharts(r);
+  renderLists(r.lists);
   renderUnmatched(r.unmatched);
-  els.results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  renderDiet(r);
+  els.actTabs.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 function tile(num, label) {
@@ -169,41 +192,18 @@ function renderSummary(r) {
   ].join('');
 }
 
-function renderLists(lists) {
-  els.listsContainer.innerHTML = lists
-    .map((list, i) => {
-      const pct = list.total ? Math.round((list.watchedCount / list.total) * 100) : 0;
-      const watchedChips = list.watched
-        .map((f) => `<span class="chip seen">✓ ${escapeHtml(f.title)}</span>`)
-        .join('');
-      const missingChips = list.missing
-        .map((f) => `<span class="chip">${escapeHtml(f.title)}</span>`)
-        .join('');
-      return `
-        <div class="list-row">
-          <div class="list-head">
-            <span class="list-name">${escapeHtml(list.name)}</span>
-            <span class="list-score"><strong>${list.watchedCount}</strong> / ${list.total} (${pct}%)</span>
-          </div>
-          <div class="bar"><div class="bar-fill" style="width:${pct}%"></div></div>
-          <button class="toggle-btn" data-target="list-detail-${i}">Show films</button>
-          <div class="watched-list" id="list-detail-${i}" hidden>
-            <div class="chips">${watchedChips}${missingChips}</div>
-          </div>
-        </div>`;
-    })
-    .join('');
-
-  els.listsContainer.querySelectorAll('.toggle-btn').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      const detail = document.getElementById(btn.dataset.target);
-      detail.hidden = !detail.hidden;
-      btn.textContent = detail.hidden ? 'Show films' : 'Hide films';
-    });
-  });
+// Generate n visually-distinct colors by stepping the hue with the golden
+// angle — no two slices share a color no matter how many languages you watch.
+function distinctColors(n) {
+  const colors = [];
+  for (let i = 0; i < n; i++) {
+    const hue = Math.round((i * 137.508 + 24) % 360);
+    const sat = 62 + (i % 3) * 8;       // 62 / 70 / 78%
+    const light = 52 + ((i >> 1) % 3) * 6; // 52 / 58 / 64%
+    colors.push(`hsl(${hue} ${sat}% ${light}%)`);
+  }
+  return colors;
 }
-
-const PALETTE = ['#ff8000', '#00b020', '#40bcf4', '#e0679d', '#f5c518', '#9b7bff', '#4be0c0', '#ff6b6b'];
 
 function destroyChart(key) {
   if (charts[key]) {
@@ -228,13 +228,19 @@ function renderCharts(r) {
     options: horizontalBarOpts(),
   });
 
-  const topLanguages = r.languages.slice(0, 10);
+  const topLanguages = r.languages.slice(0, 14);
   destroyChart('languages');
   charts.languages = new Chart(document.getElementById('languages-chart'), {
     type: 'doughnut',
     data: {
       labels: topLanguages.map((l) => l.name),
-      datasets: [{ data: topLanguages.map((l) => l.count), backgroundColor: PALETTE, borderWidth: 0 }],
+      datasets: [
+        {
+          data: topLanguages.map((l) => l.count),
+          backgroundColor: distinctColors(topLanguages.length),
+          borderWidth: 0,
+        },
+      ],
     },
     options: {
       responsive: true,
@@ -291,6 +297,66 @@ function verticalBarOpts() {
   };
 }
 
+// ---- Famous lists (grouped by category) -------------------------------------
+const MISSING_CHIP_CAP = 40;
+
+function chipFor(entry, seen) {
+  const medal = entry.won ? '<span class="medal">🏆</span>' : '';
+  const note = entry.note ? ` title="${escapeHtml(entry.note)}"` : '';
+  const mark = seen ? '✓ ' : '';
+  return `<span class="chip${seen ? ' seen' : ''}"${note}>${mark}${medal}${escapeHtml(entry.title)} (${entry.year})</span>`;
+}
+
+function renderLists(lists) {
+  // Group by category label, preserving server order.
+  const groups = [];
+  for (const list of lists) {
+    let group = groups.find((g) => g.label === list.categoryLabel);
+    if (!group) groups.push((group = { label: list.categoryLabel, lists: [] }));
+    group.lists.push(list);
+  }
+
+  let i = 0;
+  els.listsContainer.innerHTML = groups
+    .map(
+      (group) => `
+      <div class="list-group-title">${escapeHtml(group.label)}</div>
+      ${group.lists
+        .map((list) => {
+          const idx = i++;
+          const pct = list.total ? Math.round((list.watchedCount / list.total) * 100) : 0;
+          const watchedChips = list.watched.map((f) => chipFor(f, true)).join('');
+          const shownMissing = list.missing.slice(0, MISSING_CHIP_CAP);
+          const hiddenCount = list.missing.length - shownMissing.length;
+          const missingChips =
+            shownMissing.map((f) => chipFor(f, false)).join('') +
+            (hiddenCount > 0 ? `<span class="more-note">…and ${hiddenCount} more unseen</span>` : '');
+          return `
+          <div class="list-row">
+            <div class="list-head">
+              <span class="list-name">${escapeHtml(list.name)}</span>
+              <span class="list-score"><strong>${list.watchedCount}</strong> / ${list.total} (${pct}%)</span>
+            </div>
+            <div class="bar"><div class="bar-fill" style="width:${pct}%"></div></div>
+            <button class="toggle-btn" data-target="list-detail-${idx}">Show films</button>
+            <div class="watched-list" id="list-detail-${idx}" hidden>
+              <div class="chips">${watchedChips}${missingChips}</div>
+            </div>
+          </div>`;
+        })
+        .join('')}`
+    )
+    .join('');
+
+  els.listsContainer.querySelectorAll('.toggle-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const detail = document.getElementById(btn.dataset.target);
+      detail.hidden = !detail.hidden;
+      btn.textContent = detail.hidden ? 'Show films' : 'Hide films';
+    });
+  });
+}
+
 function renderUnmatched(unmatched) {
   if (!unmatched || unmatched.length === 0) {
     els.unmatchedCard.hidden = true;
@@ -299,6 +365,159 @@ function renderUnmatched(unmatched) {
   els.unmatchedCard.hidden = false;
   els.unmatchedList.innerHTML = unmatched
     .map((f) => `<span class="chip">${escapeHtml(f.title)}${f.year ? ` (${f.year})` : ''}</span>`)
+    .join('');
+}
+
+// ---- Act II — World Cinema Diet ---------------------------------------------
+// TMDb country names that differ from the world-atlas (Natural Earth) names.
+const GEO_ALIASES = {
+  'United States of America': 'United States of America',
+  'United Kingdom': 'United Kingdom',
+  'Czech Republic': 'Czechia',
+  'Bosnia and Herzegovina': 'Bosnia and Herz.',
+  'Dominican Republic': 'Dominican Rep.',
+  'Central African Republic': 'Central African Rep.',
+  'South Korea': 'South Korea',
+  'North Korea': 'North Korea',
+  'Democratic Republic of the Congo': 'Dem. Rep. Congo',
+  'Republic of the Congo': 'Congo',
+  'United Arab Emirates': 'United Arab Emirates',
+  'Soviet Union': 'Russia',
+  'Serbia and Montenegro': 'Serbia',
+  Yugoslavia: 'Serbia',
+  'East Germany': 'Germany',
+  'West Germany': 'Germany',
+};
+
+function loadWorldGeo() {
+  if (!worldGeoPromise) {
+    worldGeoPromise = fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json')
+      .then((r) => r.json())
+      .then((topo) => ChartGeo.topojson.feature(topo, topo.objects.countries).features);
+  }
+  return worldGeoPromise;
+}
+
+function renderDiet(r) {
+  const diet = r.diet;
+  if (!diet || !diet.regions || diet.regions.length === 0) {
+    els.dietVerdict.textContent = 'No canon data available yet.';
+    return;
+  }
+
+  els.dietVerdict.textContent = diet.verdict || '';
+  renderWorldMap(r.countries);
+  renderPlates(diet.regions);
+  renderSuggestions(diet.regions);
+}
+
+async function renderWorldMap(countries) {
+  try {
+    const features = await loadWorldGeo();
+    const counts = new Map();
+    for (const c of countries) {
+      const name = GEO_ALIASES[c.name] || c.name;
+      counts.set(name, (counts.get(name) || 0) + c.count);
+    }
+
+    destroyChart('map');
+    charts.map = new Chart(document.getElementById('world-map'), {
+      type: 'choropleth',
+      data: {
+        labels: features.map((f) => f.properties.name),
+        datasets: [
+          {
+            label: 'Films',
+            outline: features,
+            data: features.map((f) => ({
+              feature: f,
+              value: counts.get(f.properties.name) || 0,
+            })),
+            borderColor: '#2a313c',
+            borderWidth: 0.5,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        showOutline: false,
+        showGraticule: false,
+        plugins: { legend: { display: false } },
+        scales: {
+          projection: { axis: 'x', projection: 'equalEarth' },
+          color: {
+            axis: 'x',
+            interpolate: (v) => {
+              // Dark base -> Letterboxd green ramp.
+              const t = Math.max(0, Math.min(1, v));
+              if (t === 0) return '#1f242d';
+              const g = Math.round(80 + t * 150);
+              return `rgb(${Math.round(20 + t * 30)}, ${g}, ${Math.round(50 + t * 40)})`;
+            },
+            quantize: 6,
+            legend: { position: 'bottom-right', align: 'bottom' },
+          },
+        },
+      },
+    });
+  } catch (err) {
+    document.querySelector('.map-wrap').innerHTML =
+      '<p class="section-sub">Could not load the world map (offline?). The plates below still work.</p>';
+  }
+}
+
+function renderPlates(regions) {
+  els.dietPlates.innerHTML = regions
+    .map(
+      (reg, i) => `
+      <div class="plate">
+        <h3>${reg.emoji} ${escapeHtml(reg.name)}</h3>
+        <p class="plate-sub">canon: ${reg.total} films</p>
+        <div class="plate-chart"><canvas id="plate-${i}"></canvas></div>
+        <p class="plate-score">${Math.round(reg.coverage * 100)}% <span style="color:var(--text-dim);font-weight:400">· ${reg.watchedCount}/${reg.total}</span></p>
+      </div>`
+    )
+    .join('');
+
+  regions.forEach((reg, i) => {
+    destroyChart(`plate-${i}`);
+    charts[`plate-${i}`] = new Chart(document.getElementById(`plate-${i}`), {
+      type: 'doughnut',
+      data: {
+        labels: ['Seen', 'Not yet'],
+        datasets: [
+          {
+            data: [reg.watchedCount, reg.total - reg.watchedCount],
+            backgroundColor: ['#00b020', '#2a313c'],
+            borderWidth: 0,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        cutout: '68%',
+        plugins: { legend: { display: false } },
+      },
+    });
+  });
+}
+
+function renderSuggestions(regions) {
+  // Serve the least-covered cuisines first.
+  const starving = [...regions].sort((a, b) => a.coverage - b.coverage).slice(0, 4);
+  els.dietSuggestions.innerHTML = starving
+    .filter((reg) => reg.suggestions.length > 0)
+    .map(
+      (reg) => `
+      <div class="suggestion-region">
+        <h3>${reg.emoji} ${escapeHtml(reg.name)} — ${Math.round(reg.coverage * 100)}% covered</h3>
+        <div class="chips">
+          ${reg.suggestions.map((f) => chipFor(f, false)).join('')}
+        </div>
+      </div>`
+    )
     .join('');
 }
 

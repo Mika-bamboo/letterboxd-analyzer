@@ -1,0 +1,407 @@
+{
+  "id": "sight-and-sound",
+  "name": "Sight & Sound Greatest Films of All Time (2022)",
+  "category": "critics",
+  "entries": [
+    {
+      "title": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
+      "year": 1975
+    },
+    {
+      "title": "Vertigo",
+      "year": 1958
+    },
+    {
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    {
+      "title": "Tokyo Story",
+      "year": 1953
+    },
+    {
+      "title": "In the Mood for Love",
+      "year": 2000
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    {
+      "title": "Beau Travail",
+      "year": 1999
+    },
+    {
+      "title": "Mulholland Drive",
+      "year": 2001
+    },
+    {
+      "title": "Man with a Movie Camera",
+      "year": 1929
+    },
+    {
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    {
+      "title": "Sunrise: A Song of Two Humans",
+      "year": 1927
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972
+    },
+    {
+      "title": "The Rules of the Game",
+      "year": 1939
+    },
+    {
+      "title": "Cléo from 5 to 7",
+      "year": 1962
+    },
+    {
+      "title": "The Searchers",
+      "year": 1956
+    },
+    {
+      "title": "Meshes of the Afternoon",
+      "year": 1943
+    },
+    {
+      "title": "Close-Up",
+      "year": 1990
+    },
+    {
+      "title": "Persona",
+      "year": 1966
+    },
+    {
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    {
+      "title": "Seven Samurai",
+      "year": 1954
+    },
+    {
+      "title": "The Passion of Joan of Arc",
+      "year": 1928
+    },
+    {
+      "title": "Late Spring",
+      "year": 1949
+    },
+    {
+      "title": "Playtime",
+      "year": 1967
+    },
+    {
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    {
+      "title": "Au Hasard Balthazar",
+      "year": 1966
+    },
+    {
+      "title": "The Night of the Hunter",
+      "year": 1955
+    },
+    {
+      "title": "Shoah",
+      "year": 1985
+    },
+    {
+      "title": "Daisies",
+      "year": 1966
+    },
+    {
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    {
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019
+    },
+    {
+      "title": "Mirror",
+      "year": 1975
+    },
+    {
+      "title": "8½",
+      "year": 1963
+    },
+    {
+      "title": "Psycho",
+      "year": 1960
+    },
+    {
+      "title": "L'Atalante",
+      "year": 1934
+    },
+    {
+      "title": "Pather Panchali",
+      "year": 1955
+    },
+    {
+      "title": "City Lights",
+      "year": 1931
+    },
+    {
+      "title": "M",
+      "year": 1931
+    },
+    {
+      "title": "Breathless",
+      "year": 1960
+    },
+    {
+      "title": "Some Like It Hot",
+      "year": 1959
+    },
+    {
+      "title": "Rear Window",
+      "year": 1954
+    },
+    {
+      "title": "Bicycle Thieves",
+      "year": 1948
+    },
+    {
+      "title": "Rashomon",
+      "year": 1950
+    },
+    {
+      "title": "Stalker",
+      "year": 1979
+    },
+    {
+      "title": "Killer of Sheep",
+      "year": 1978
+    },
+    {
+      "title": "North by Northwest",
+      "year": 1959
+    },
+    {
+      "title": "The Battle of Algiers",
+      "year": 1966
+    },
+    {
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    {
+      "title": "Wanda",
+      "year": 1970
+    },
+    {
+      "title": "Ordet",
+      "year": 1955
+    },
+    {
+      "title": "The 400 Blows",
+      "year": 1959
+    },
+    {
+      "title": "The Piano",
+      "year": 1993
+    },
+    {
+      "title": "News from Home",
+      "year": 1977
+    },
+    {
+      "title": "Ali: Fear Eats the Soul",
+      "year": 1974
+    },
+    {
+      "title": "The Apartment",
+      "year": 1960
+    },
+    {
+      "title": "Battleship Potemkin",
+      "year": 1925
+    },
+    {
+      "title": "Sherlock Jr.",
+      "year": 1924
+    },
+    {
+      "title": "Contempt",
+      "year": 1963
+    },
+    {
+      "title": "Blade Runner",
+      "year": 1982
+    },
+    {
+      "title": "Sans Soleil",
+      "year": 1983
+    },
+    {
+      "title": "Daughters of the Dust",
+      "year": 1991
+    },
+    {
+      "title": "La Dolce Vita",
+      "year": 1960
+    },
+    {
+      "title": "Moonlight",
+      "year": 2016
+    },
+    {
+      "title": "Casablanca",
+      "year": 1942
+    },
+    {
+      "title": "Goodfellas",
+      "year": 1990
+    },
+    {
+      "title": "The Third Man",
+      "year": 1949
+    },
+    {
+      "title": "Touki Bouki",
+      "year": 1973
+    },
+    {
+      "title": "The Gleaners and I",
+      "year": 2000
+    },
+    {
+      "title": "Metropolis",
+      "year": 1927
+    },
+    {
+      "title": "Andrei Rublev",
+      "year": 1966
+    },
+    {
+      "title": "The Red Shoes",
+      "year": 1948
+    },
+    {
+      "title": "La Jetée",
+      "year": 1962
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "year": 1988
+    },
+    {
+      "title": "Journey to Italy",
+      "year": 1954
+    },
+    {
+      "title": "L'Avventura",
+      "year": 1960
+    },
+    {
+      "title": "Imitation of Life",
+      "year": 1959
+    },
+    {
+      "title": "Sansho the Bailiff",
+      "year": 1954
+    },
+    {
+      "title": "Spirited Away",
+      "year": 2001
+    },
+    {
+      "title": "A Brighter Summer Day",
+      "year": 1991
+    },
+    {
+      "title": "Sátántangó",
+      "year": 1994
+    },
+    {
+      "title": "Céline and Julie Go Boating",
+      "year": 1974
+    },
+    {
+      "title": "Modern Times",
+      "year": 1936
+    },
+    {
+      "title": "Sunset Boulevard",
+      "year": 1950
+    },
+    {
+      "title": "A Matter of Life and Death",
+      "year": 1946
+    },
+    {
+      "title": "Blue Velvet",
+      "year": 1986
+    },
+    {
+      "title": "Pierrot le Fou",
+      "year": 1965
+    },
+    {
+      "title": "Histoire(s) du cinéma",
+      "year": 1998
+    },
+    {
+      "title": "The Spirit of the Beehive",
+      "year": 1973
+    },
+    {
+      "title": "The Shining",
+      "year": 1980
+    },
+    {
+      "title": "Chungking Express",
+      "year": 1994
+    },
+    {
+      "title": "The Earrings of Madame de...",
+      "year": 1953
+    },
+    {
+      "title": "The Leopard",
+      "year": 1963
+    },
+    {
+      "title": "Ugetsu",
+      "year": 1953
+    },
+    {
+      "title": "Parasite",
+      "year": 2019
+    },
+    {
+      "title": "Yi Yi",
+      "year": 2000
+    },
+    {
+      "title": "A Man Escaped",
+      "year": 1956
+    },
+    {
+      "title": "The General",
+      "year": 1926
+    },
+    {
+      "title": "Once Upon a Time in the West",
+      "year": 1968
+    },
+    {
+      "title": "Get Out",
+      "year": 2017
+    },
+    {
+      "title": "Black Girl",
+      "year": 1966
+    },
+    {
+      "title": "Tropical Malady",
+      "year": 2004
+    }
+  ]
+}

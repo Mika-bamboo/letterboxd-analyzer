@@ -3,6 +3,7 @@
 
 import { getFilmMetadata, getLanguageMap } from './tmdb.js';
 import { matchLists } from './lists.js';
+import { computeDiet } from './diet.js';
 
 const CONCURRENCY = 8;
 
@@ -79,6 +80,7 @@ export async function analyzeDiary(films, { onProgress } = {}) {
     .sort((a, b) => a.decadeStart - b.decadeStart);
 
   const lists = await matchLists(films);
+  const diet = await computeDiet(films);
 
   return {
     totalFilms: films.length,
@@ -90,5 +92,6 @@ export async function analyzeDiary(films, { onProgress } = {}) {
     decades,
     years,
     lists,
+    diet,
   };
 }

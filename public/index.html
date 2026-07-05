@@ -12,7 +12,7 @@
       <h1>🎬 Letterboxd Analyzer</h1>
       <p class="tagline">
         Upload your Letterboxd diary export and see where your taste really lives —
-        countries, languages, eras, and how much of the canon you've covered.
+        countries, languages, eras, and how much of world cinema you've covered.
       </p>
     </header>
 
@@ -46,14 +46,14 @@
         <p id="error-text"></p>
       </section>
 
-      <section id="results" hidden>
-        <div id="summary" class="summary-grid"></div>
+      <nav id="act-tabs" class="act-tabs" hidden>
+        <button class="act-tab active" data-act="act-1">Act I · Your Diary</button>
+        <button class="act-tab" data-act="act-2">Act II · World Cinema Diet</button>
+      </nav>
 
-        <div class="card">
-          <h2>🏆 Famous-list coverage</h2>
-          <p class="section-sub">How many films from each canon you've already seen.</p>
-          <div id="lists-container"></div>
-        </div>
+      <!-- ═══════════ ACT I — the diary analysis ═══════════ -->
+      <section id="act-1" hidden>
+        <div id="summary" class="summary-grid"></div>
 
         <div class="grid-2">
           <div class="card">
@@ -79,6 +79,12 @@
           </div>
         </div>
 
+        <div class="card">
+          <h2>🏆 Famous-list coverage</h2>
+          <p class="section-sub">How many films from each canon, festival, and award roll you've already seen.</p>
+          <div id="lists-container"></div>
+        </div>
+
         <div class="card" id="unmatched-card" hidden>
           <h2>❓ Not found on TMDb</h2>
           <p class="section-sub">
@@ -86,6 +92,37 @@
             charts (they still count toward decades and list coverage where possible).
           </p>
           <div id="unmatched-list" class="chips"></div>
+        </div>
+      </section>
+
+      <!-- ═══════════ ACT II — the world cinema diet ═══════════ -->
+      <section id="act-2" hidden>
+        <div class="card">
+          <h2>🍽️ Your cinema diet</h2>
+          <p class="section-sub">
+            Every region's canon is a same-size plate — Hollywood's plate is exactly as big as
+            Taiwan's. Coverage means: of the films <em>that region's own canon</em> celebrates,
+            how many have you seen?
+          </p>
+          <p id="diet-verdict" class="verdict"></p>
+        </div>
+
+        <div class="card">
+          <h2>🗺️ Where your films come from</h2>
+          <p class="section-sub">Countries shaded by how many of your watched films they produced.</p>
+          <div class="map-wrap"><canvas id="world-map"></canvas></div>
+        </div>
+
+        <div class="card">
+          <h2>🥧 Regional plates — equal-size canons</h2>
+          <p class="section-sub">Each plate = that region's canon, normalized to 100%.</p>
+          <div id="diet-plates" class="plates-grid"></div>
+        </div>
+
+        <div class="card">
+          <h2>🧑‍🍳 What to order next</h2>
+          <p class="section-sub">Award-winning films from the cuisines you've been skipping.</p>
+          <div id="diet-suggestions"></div>
         </div>
       </section>
     </main>
@@ -99,6 +136,7 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4.3.1/build/index.umd.min.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

@@ -124,6 +124,35 @@ code {
 .error-card { border-color: rgba(255, 92, 92, 0.4); background: rgba(255, 92, 92, 0.08); }
 #error-text { margin: 0; color: var(--danger); }
 
+/* Act tabs */
+.act-tabs {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-top: 0.5rem;
+}
+.act-tab {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 99px;
+  padding: 0.6rem 1.4rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+.act-tab:hover { color: var(--text); }
+.act-tab.active {
+  background: linear-gradient(135deg, rgba(255, 128, 0, 0.18), rgba(64, 188, 244, 0.18));
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+/* Sections inside an act stack like <main> does */
+#act-1, #act-2 { display: flex; flex-direction: column; gap: 1.5rem; }
+#act-1[hidden], #act-2[hidden] { display: none; }
+
 /* Summary tiles */
 .summary-grid {
   display: grid;
@@ -137,8 +166,15 @@ code {
   padding: 1.25rem;
   text-align: center;
 }
-.tile .num { font-size: 2rem; font-weight: 800; color: var(--accent); }
+.tile .num { font-size: 2rem; font-weight: 800; }
 .tile .label { color: var(--text-dim); font-size: 0.85rem; }
+/* Varied tile accent colors instead of all-orange */
+.tile:nth-child(6n + 1) .num { color: #40bcf4; }
+.tile:nth-child(6n + 2) .num { color: #00b020; }
+.tile:nth-child(6n + 3) .num { color: #f5c518; }
+.tile:nth-child(6n + 4) .num { color: #e0679d; }
+.tile:nth-child(6n + 5) .num { color: #9b7bff; }
+.tile:nth-child(6n + 6) .num { color: #4be0c0; }
 
 .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
 .chart-wrap { position: relative; height: 320px; }
@@ -168,6 +204,51 @@ code {
   color: var(--text-dim);
 }
 .chip.seen { color: var(--accent-2); border-color: rgba(0, 176, 32, 0.4); }
+
+/* Lists grouped by category */
+.list-group-title {
+  margin: 1.5rem 0 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.4rem;
+}
+.list-group-title:first-child { margin-top: 0; }
+.chip .medal { margin-right: 0.15rem; }
+.more-note { color: var(--text-dim); font-size: 0.8rem; align-self: center; }
+
+/* Act II — diet */
+.verdict {
+  margin: 0;
+  padding: 1rem 1.25rem;
+  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(0, 176, 32, 0.1), rgba(64, 188, 244, 0.1));
+  border: 1px solid var(--border);
+  font-size: 1.05rem;
+}
+.map-wrap { position: relative; height: 430px; }
+.plates-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+.plate {
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem;
+  text-align: center;
+}
+.plate h3 { margin: 0 0 0.25rem; font-size: 0.95rem; }
+.plate .plate-sub { color: var(--text-dim); font-size: 0.78rem; margin: 0 0 0.75rem; }
+.plate-chart { position: relative; height: 150px; }
+.plate .plate-score { margin: 0.6rem 0 0; font-weight: 700; font-size: 1.05rem; }
+.suggestion-region { margin-bottom: 1rem; }
+.suggestion-region:last-child { margin-bottom: 0; }
+.suggestion-region h3 { margin: 0 0 0.5rem; font-size: 0.95rem; }
 
 .site-footer {
   text-align: center;

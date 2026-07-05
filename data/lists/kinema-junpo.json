@@ -1,0 +1,5755 @@
+{
+  "id": "kinema-junpo",
+  "name": "Kinema Junpo Best Ten (Japanese films)",
+  "category": "critics",
+  "entries": [
+    {
+      "title": "The Woman Who Touched The Legs",
+      "year": 1926,
+      "note": "Best Ten #1, 1926",
+      "won": true
+    },
+    {
+      "title": "The Sun",
+      "year": 1925,
+      "note": "Best Ten #2, 1926",
+      "won": false
+    },
+    {
+      "title": "A Mermaid on Land",
+      "year": 1926,
+      "note": "Best Ten #3, 1926",
+      "won": false
+    },
+    {
+      "title": "A Page of Madness",
+      "year": 1926,
+      "note": "Best Ten #4, 1926",
+      "won": false
+    },
+    {
+      "title": "Useless Button",
+      "year": 1926,
+      "note": "Best Ten #5, 1926",
+      "won": false
+    },
+    {
+      "title": "Junange",
+      "year": 1926,
+      "note": "Best Ten #6, 1926",
+      "won": false
+    },
+    {
+      "title": "A Paper Doll's Whisper of Spring",
+      "year": 1926,
+      "note": "Best Ten #7, 1926",
+      "won": false
+    },
+    {
+      "title": "Tenraku",
+      "year": 1926,
+      "note": "Best Ten #8, 1926",
+      "won": false
+    },
+    {
+      "title": "Mito Kōmon",
+      "year": 1926,
+      "note": "Best Ten #9, 1926",
+      "won": false
+    },
+    {
+      "title": "Kumo",
+      "year": 1926,
+      "note": "Best Ten #10, 1926",
+      "won": false
+    },
+    {
+      "title": "Chuji's Travel Diary: Story of Bloody Shinshu",
+      "year": 1927,
+      "note": "Best Ten #1, 1927",
+      "won": true
+    },
+    {
+      "title": "Five Women Around Him",
+      "year": 1927,
+      "note": "Best Ten #2, 1927",
+      "won": false
+    },
+    {
+      "title": "Sonno Joi",
+      "year": 1927,
+      "note": "Best Ten #3, 1927",
+      "won": false
+    },
+    {
+      "title": "Chuji's Travel Diary: The Chuji Patrol Episode",
+      "year": 1927,
+      "note": "Best Ten #4, 1927",
+      "won": false
+    },
+    {
+      "title": "Umi mo yusha",
+      "year": 1927,
+      "note": "Best Ten #5, 1927",
+      "won": false
+    },
+    {
+      "title": "Karakuri musume",
+      "year": 1927,
+      "note": "Best Ten #6, 1927",
+      "won": false
+    },
+    {
+      "title": "Jihishincho",
+      "year": 1927,
+      "note": "Best Ten #7, 1927",
+      "won": false
+    },
+    {
+      "title": "Akuma no hoshî no shita nî",
+      "year": 1927,
+      "note": "Best Ten #8, 1927",
+      "won": false
+    },
+    {
+      "title": "Gerou",
+      "year": 1927,
+      "note": "Best Ten #9, 1927",
+      "won": false
+    },
+    {
+      "title": "Dochu hiki",
+      "year": 1927,
+      "note": "Best Ten #10, 1927",
+      "won": false
+    },
+    {
+      "title": "Samurai Town Story Part I",
+      "year": 1928,
+      "note": "Best Ten #1, 1928",
+      "won": true
+    },
+    {
+      "title": "King of the Land",
+      "year": 1928,
+      "note": "Best Ten #2, 1928",
+      "won": false
+    },
+    {
+      "title": "Shinpan Ôoka seidan; Daisanpen: Kaikatsuhen",
+      "year": 1928,
+      "note": "Best Ten #3, 1928",
+      "won": false
+    },
+    {
+      "title": "Sozenji Baba",
+      "year": 1928,
+      "note": "Best Ten #4, 1928",
+      "won": false
+    },
+    {
+      "title": "Kare to Tokyo",
+      "year": 1928,
+      "note": "Best Ten #5, 1928",
+      "won": false
+    },
+    {
+      "title": "The Village Bride",
+      "year": 1928,
+      "note": "Best Ten #6, 1928",
+      "won": false
+    },
+    {
+      "title": "Keai-dori",
+      "year": 1928,
+      "note": "Best Ten #7, 1928",
+      "won": false
+    },
+    {
+      "title": "Kekkon nijuso: zenpen",
+      "year": 1928,
+      "note": "Best Ten #8, 1928",
+      "won": false
+    },
+    {
+      "title": "Hiratemiki",
+      "year": 1928,
+      "note": "Best Ten #9, 1928",
+      "won": false
+    },
+    {
+      "title": "Crossroads",
+      "year": 1928,
+      "note": "Best Ten #10, 1928",
+      "won": false
+    },
+    {
+      "title": "Beheading Place",
+      "year": 1929,
+      "note": "Best Ten #1, 1929",
+      "won": true
+    },
+    {
+      "title": "Ashes",
+      "year": 1929,
+      "note": "Best Ten #2, 1929",
+      "won": false
+    },
+    {
+      "title": "Rônin-gai - Dai-san-wa: Tsukareta hitobito",
+      "year": 1929,
+      "note": "Best Ten #3, 1929",
+      "won": false
+    },
+    {
+      "title": "A Living Puppet",
+      "year": 1929,
+      "note": "Best Ten #4, 1929",
+      "won": false
+    },
+    {
+      "title": "Matenro sôtohen",
+      "year": 1929,
+      "note": "Best Ten #5, 1929",
+      "won": false
+    },
+    {
+      "title": "Man-Slashing Horse-Piercing Sword",
+      "year": 1929,
+      "note": "Best Ten #6, 1929",
+      "won": false
+    },
+    {
+      "title": "Pipe no Sankichi",
+      "year": 1929,
+      "note": "Best Ten #7, 1929",
+      "won": false
+    },
+    {
+      "title": "Muriyari sanzengoku",
+      "year": 1929,
+      "note": "Best Ten #8, 1929",
+      "won": false
+    },
+    {
+      "title": "The Big City: Labor",
+      "year": 1929,
+      "note": "Best Ten #9, 1929",
+      "won": false
+    },
+    {
+      "title": "Metropolitan Symphony",
+      "year": 1929,
+      "note": "Best Ten #10, 1929",
+      "won": false
+    },
+    {
+      "title": "What Made Her Do It?",
+      "year": 1930,
+      "note": "Best Ten #1, 1930",
+      "won": true
+    },
+    {
+      "title": "Youth, Why Do You Cry?",
+      "year": 1930,
+      "note": "Best Ten #2, 1930",
+      "won": false
+    },
+    {
+      "title": "Young Lady",
+      "year": 1930,
+      "note": "Best Ten #2, 1930",
+      "won": false
+    },
+    {
+      "title": "Ōoka Cases Devil's Image - Part One",
+      "year": 1930,
+      "note": "Best Ten #1, 1930",
+      "won": true
+    },
+    {
+      "title": "Senpū jidai",
+      "year": 1930,
+      "note": "Best Ten #2, 1930",
+      "won": false
+    },
+    {
+      "title": "Suronin Chuya",
+      "year": 1930,
+      "note": "Best Ten #3, 1930",
+      "won": false
+    },
+    {
+      "title": "The Neighbour's Wife and Mine",
+      "year": 1931,
+      "note": "Best Ten #1, 1931",
+      "won": true
+    },
+    {
+      "title": "Kokoro no jitsugetsu: Retsujitsu hen - Gekko hen",
+      "year": 1931,
+      "note": "Best Ten #2, 1931",
+      "won": false
+    },
+    {
+      "title": "Tokyo Chorus",
+      "year": 1931,
+      "note": "Best Ten #3, 1931",
+      "won": false
+    },
+    {
+      "title": "Ippon-gatana dohyo iri",
+      "year": 1931,
+      "note": "Best Ten #4, 1931",
+      "won": false
+    },
+    {
+      "title": "Hakurai Bunmeigai",
+      "year": 1931,
+      "note": "Best Ten #5, 1931",
+      "won": false
+    },
+    {
+      "title": "The Revenge Champion",
+      "year": 1931,
+      "note": "Best Ten #6, 1931",
+      "won": false
+    },
+    {
+      "title": "Nani ga kanojo o koroshita ka",
+      "year": 1931,
+      "note": "Best Ten #7, 1931",
+      "won": false
+    },
+    {
+      "title": "Rogoku no hanayome zenpen",
+      "year": 1931,
+      "note": "Best Ten #8, 1931",
+      "won": false
+    },
+    {
+      "title": "Zuku ôoka seidan mazo kaiketsu-hen",
+      "year": 1931,
+      "note": "Best Ten #9, 1931",
+      "won": false
+    },
+    {
+      "title": "ABC Lifeline",
+      "year": 1931,
+      "note": "Best Ten #10, 1931",
+      "won": false
+    },
+    {
+      "title": "I Was Born, But...",
+      "year": 1932,
+      "note": "Best Ten #1, 1932",
+      "won": true
+    },
+    {
+      "title": "Arashi no naka no shojo",
+      "year": 1932,
+      "note": "Best Ten #2, 1932",
+      "won": false
+    },
+    {
+      "title": "The Loyal 47 Ronin",
+      "year": 1932,
+      "note": "Best Ten #3, 1932",
+      "won": false
+    },
+    {
+      "title": "Jirokichi the Rat",
+      "year": 1931,
+      "note": "Best Ten #4, 1932",
+      "won": false
+    },
+    {
+      "title": "Yataro's Hat - Comings and Goings",
+      "year": 1932,
+      "note": "Best Ten #4, 1932",
+      "won": false
+    },
+    {
+      "title": "The Greatest Man in the World",
+      "year": 1932,
+      "note": "Best Ten #6, 1932",
+      "won": false
+    },
+    {
+      "title": "Moth-eaten Spring",
+      "year": 1932,
+      "note": "Best Ten #6, 1932",
+      "won": false
+    },
+    {
+      "title": "Banquet Under the Midnight Sun",
+      "year": 1932,
+      "note": "Best Ten #8, 1932",
+      "won": false
+    },
+    {
+      "title": "Daughter and Springtime",
+      "year": 1932,
+      "note": "Best Ten #8, 1932",
+      "won": false
+    },
+    {
+      "title": "Iso-no-genta's Sword",
+      "year": 1932,
+      "note": "Best Ten #8, 1932",
+      "won": false
+    },
+    {
+      "title": "First Steps Ashore",
+      "year": 1932,
+      "note": "Best Ten #8, 1932",
+      "won": false
+    },
+    {
+      "title": "Passing Fancy",
+      "year": 1933,
+      "note": "Best Ten #1, 1933",
+      "won": true
+    },
+    {
+      "title": "The Water Magician",
+      "year": 1933,
+      "note": "Best Ten #2, 1933",
+      "won": false
+    },
+    {
+      "title": "Every-Night Dreams",
+      "year": 1933,
+      "note": "Best Ten #3, 1933",
+      "won": false
+    },
+    {
+      "title": "Two Lanterns",
+      "year": 1933,
+      "note": "Best Ten #4, 1933",
+      "won": false
+    },
+    {
+      "title": "Apart from You",
+      "year": 1933,
+      "note": "Best Ten #4, 1933",
+      "won": false
+    },
+    {
+      "title": "Tange Sazen - Dai-ippen",
+      "year": 1933,
+      "note": "Best Ten #6, 1933",
+      "won": false
+    },
+    {
+      "title": "Bangaku no issho",
+      "year": 1933,
+      "note": "Best Ten #7, 1933",
+      "won": false
+    },
+    {
+      "title": "Jirokichi the Rat-Kid: The Journey",
+      "year": 1933,
+      "note": "Best Ten #8, 1933",
+      "won": false
+    },
+    {
+      "title": "The Dancing Girl of Izu",
+      "year": 1933,
+      "note": "Best Ten #9, 1933",
+      "won": false
+    },
+    {
+      "title": "Hotta Hayato",
+      "year": 1933,
+      "note": "Best Ten #9, 1933",
+      "won": false
+    },
+    {
+      "title": "Genpei the Carp",
+      "year": 1933,
+      "note": "Best Ten #9, 1933",
+      "won": false
+    },
+    {
+      "title": "A Story of Floating Weeds",
+      "year": 1934,
+      "note": "Best Ten #1, 1934",
+      "won": true
+    },
+    {
+      "title": "Our Neighbor, Miss Yae",
+      "year": 1934,
+      "note": "Best Ten #2, 1934",
+      "won": false
+    },
+    {
+      "title": "Living Things",
+      "year": 1934,
+      "note": "Best Ten #3, 1934",
+      "won": false
+    },
+    {
+      "title": "Martial Arts Encyclopedia",
+      "year": 1934,
+      "note": "Best Ten #4, 1934",
+      "won": false
+    },
+    {
+      "title": "The Elegant Swordsman",
+      "year": 1934,
+      "note": "Best Ten #5, 1934",
+      "won": false
+    },
+    {
+      "title": "Hokushin Japan",
+      "year": 1934,
+      "note": "Best Ten #6, 1934",
+      "won": false
+    },
+    {
+      "title": "That Night's Woman",
+      "year": 1934,
+      "note": "Best Ten #7, 1934",
+      "won": false
+    },
+    {
+      "title": "With a Single Sword Bale",
+      "year": 1934,
+      "note": "Best Ten #8, 1934",
+      "won": false
+    },
+    {
+      "title": "The Foghorn",
+      "year": 1934,
+      "note": "Best Ten #9, 1934",
+      "won": false
+    },
+    {
+      "title": "Gantaro Path",
+      "year": 1934,
+      "note": "Best Ten #10, 1934",
+      "won": false
+    },
+    {
+      "title": "Wife! Be Like a Rose!",
+      "year": 1935,
+      "note": "Best Ten #1, 1935",
+      "won": true
+    },
+    {
+      "title": "The Village Tattooed Man",
+      "year": 1935,
+      "note": "Best Ten #2, 1935",
+      "won": false
+    },
+    {
+      "title": "Okoto and Sasuke",
+      "year": 1935,
+      "note": "Best Ten #3, 1935",
+      "won": false
+    },
+    {
+      "title": "Chuji for Sale",
+      "year": 1935,
+      "note": "Best Ten #4, 1935",
+      "won": false
+    },
+    {
+      "title": "Kunisada Chūji",
+      "year": 1935,
+      "note": "Best Ten #5, 1935",
+      "won": false
+    },
+    {
+      "title": "Burden of Life",
+      "year": 1935,
+      "note": "Best Ten #6, 1935",
+      "won": false
+    },
+    {
+      "title": "If You Throw This Child Away",
+      "year": 1935,
+      "note": "Best Ten #7, 1935",
+      "won": false
+    },
+    {
+      "title": "The Girl in the Rumor",
+      "year": 1935,
+      "note": "Best Ten #8, 1935",
+      "won": false
+    },
+    {
+      "title": "An Inn in Tokyo",
+      "year": 1935,
+      "note": "Best Ten #9, 1935",
+      "won": false
+    },
+    {
+      "title": "An Actor's Revenge",
+      "year": 1935,
+      "note": "Best Ten #10, 1935",
+      "won": false
+    },
+    {
+      "title": "Sisters of the Gion",
+      "year": 1936,
+      "note": "Best Ten #1, 1936",
+      "won": true
+    },
+    {
+      "title": "Theater of Life: Youth Version",
+      "year": 1936,
+      "note": "Best Ten #2, 1936",
+      "won": false
+    },
+    {
+      "title": "Osaka Elegy",
+      "year": 1936,
+      "note": "Best Ten #3, 1936",
+      "won": false
+    },
+    {
+      "title": "The Only Son",
+      "year": 1936,
+      "note": "Best Ten #4, 1936",
+      "won": false
+    },
+    {
+      "title": "The Letter",
+      "year": 1936,
+      "note": "Best Ten #5, 1936",
+      "won": false
+    },
+    {
+      "title": "Family Meeting",
+      "year": 1936,
+      "note": "Best Ten #6, 1936",
+      "won": false
+    },
+    {
+      "title": "Brother and Sister",
+      "year": 1936,
+      "note": "Best Ten #7, 1936",
+      "won": false
+    },
+    {
+      "title": "Hikoroku Laughs a lot",
+      "year": 1936,
+      "note": "Best Ten #8, 1936",
+      "won": false
+    },
+    {
+      "title": "Passionate Poet Ishikawa Takuboku - Hometown",
+      "year": 1936,
+      "note": "Best Ten #9, 1936",
+      "won": false
+    },
+    {
+      "title": "Hidden Nekka",
+      "year": 1936,
+      "note": "Best Ten #10, 1936",
+      "won": false
+    },
+    {
+      "title": "Unending Advance",
+      "year": 1937,
+      "note": "Best Ten #1, 1937",
+      "won": true
+    },
+    {
+      "title": "Sōbō",
+      "year": 1937,
+      "note": "Best Ten #2, 1937",
+      "won": false
+    },
+    {
+      "title": "The Straits of Love and Hate",
+      "year": 1937,
+      "note": "Best Ten #3, 1937",
+      "won": false
+    },
+    {
+      "title": "Children in the Wind",
+      "year": 1937,
+      "note": "Best Ten #4, 1937",
+      "won": false
+    },
+    {
+      "title": "The Naked Town",
+      "year": 1937,
+      "note": "Best Ten #5, 1937",
+      "won": false
+    },
+    {
+      "title": "Young People",
+      "year": 1937,
+      "note": "Best Ten #6, 1937",
+      "won": false
+    },
+    {
+      "title": "Humanity and Paper Balloons",
+      "year": 1937,
+      "note": "Best Ten #7, 1937",
+      "won": false
+    },
+    {
+      "title": "What Did the Lady Forget?",
+      "year": 1937,
+      "note": "Best Ten #8, 1937",
+      "won": false
+    },
+    {
+      "title": "The Siege of Osaka",
+      "year": 1937,
+      "note": "Best Ten #9, 1937",
+      "won": false
+    },
+    {
+      "title": "The Lights of Asakusa",
+      "year": 1937,
+      "note": "Best Ten #10, 1937",
+      "won": false
+    },
+    {
+      "title": "Five Scouts",
+      "year": 1938,
+      "note": "Best Ten #1, 1938",
+      "won": true
+    },
+    {
+      "title": "A Pebble by the Wayside",
+      "year": 1938,
+      "note": "Best Ten #2, 1938",
+      "won": false
+    },
+    {
+      "title": "Mother and Child",
+      "year": 1938,
+      "note": "Best Ten #3, 1938",
+      "won": false
+    },
+    {
+      "title": "Shanghai",
+      "year": 1938,
+      "note": "Best Ten #4, 1938",
+      "won": false
+    },
+    {
+      "title": "Composition Class",
+      "year": 1938,
+      "note": "Best Ten #5, 1938",
+      "won": false
+    },
+    {
+      "title": "Nightingale",
+      "year": 1938,
+      "note": "Best Ten #6, 1938",
+      "won": false
+    },
+    {
+      "title": "Crybaby Apprentice",
+      "year": 1938,
+      "note": "Best Ten #7, 1938",
+      "won": false
+    },
+    {
+      "title": "The Abe Clan",
+      "year": 1938,
+      "note": "Best Ten #8, 1938",
+      "won": false
+    },
+    {
+      "title": "Ah, My Hometown",
+      "year": 1938,
+      "note": "Best Ten #9, 1938",
+      "won": false
+    },
+    {
+      "title": "Children of the Sun",
+      "year": 1938,
+      "note": "Best Ten #10, 1938",
+      "won": false
+    },
+    {
+      "title": "Earth",
+      "year": 1939,
+      "note": "Best Ten #1, 1939",
+      "won": true
+    },
+    {
+      "title": "The Story of the Last Chrysanthemum",
+      "year": 1939,
+      "note": "Best Ten #2, 1939",
+      "won": false
+    },
+    {
+      "title": "Mud and Soldiers",
+      "year": 1939,
+      "note": "Best Ten #3, 1939",
+      "won": false
+    },
+    {
+      "title": "A Brother and His Younger Sister",
+      "year": 1939,
+      "note": "Best Ten #4, 1939",
+      "won": false
+    },
+    {
+      "title": "Shanghai Landing Party",
+      "year": 1939,
+      "note": "Best Ten #5, 1939",
+      "won": false
+    },
+    {
+      "title": "Four Seasons of Children",
+      "year": 1939,
+      "note": "Best Ten #6, 1939",
+      "won": false
+    },
+    {
+      "title": "Warm Current",
+      "year": 1939,
+      "note": "Best Ten #7, 1939",
+      "won": false
+    },
+    {
+      "title": "Explosion!",
+      "year": 1939,
+      "note": "Best Ten #8, 1939",
+      "won": false
+    },
+    {
+      "title": "Weeds with flowers",
+      "year": 1939,
+      "note": "Best Ten #9, 1939",
+      "won": false
+    },
+    {
+      "title": "Sea Raiding Unit",
+      "year": 1939,
+      "note": "Best Ten #10, 1939",
+      "won": false
+    },
+    {
+      "title": "Spring on Leper's Island",
+      "year": 1940,
+      "note": "Best Ten #1, 1940",
+      "won": true
+    },
+    {
+      "title": "The Story of Tank Commander Nishizumi",
+      "year": 1940,
+      "note": "Best Ten #2, 1940",
+      "won": false
+    },
+    {
+      "title": "Kaze no Matasaburô",
+      "year": 1940,
+      "note": "Best Ten #3, 1940",
+      "won": false
+    },
+    {
+      "title": "Osaka Woman",
+      "year": 1940,
+      "note": "Best Ten #4, 1940",
+      "won": false
+    },
+    {
+      "title": "Wide and Fertile Land",
+      "year": 1940,
+      "note": "Best Ten #5, 1940",
+      "won": false
+    },
+    {
+      "title": "Okumura Ioka",
+      "year": 1940,
+      "note": "Best Ten #6, 1940",
+      "won": false
+    },
+    {
+      "title": "History - Part I",
+      "year": 1940,
+      "note": "Best Ten #7, 1940",
+      "won": false
+    },
+    {
+      "title": "The Burning Sky",
+      "year": 1940,
+      "note": "Best Ten #8, 1940",
+      "won": false
+    },
+    {
+      "title": "Second Generation Married Couple",
+      "year": 1940,
+      "note": "Best Ten #9, 1940",
+      "won": false
+    },
+    {
+      "title": "Wood and Stone",
+      "year": 1940,
+      "note": "Best Ten #10, 1940",
+      "won": false
+    },
+    {
+      "title": "Brothers and Sisters of the Toda Family",
+      "year": 1941,
+      "note": "Best Ten #1, 1941",
+      "won": true
+    },
+    {
+      "title": "Horse",
+      "year": 1941,
+      "note": "Best Ten #2, 1941",
+      "won": false
+    },
+    {
+      "title": "Introspection Tower",
+      "year": 1941,
+      "note": "Best Ten #3, 1941",
+      "won": false
+    },
+    {
+      "title": "A Man of the Arts",
+      "year": 1941,
+      "note": "Best Ten #4, 1941",
+      "won": false
+    },
+    {
+      "title": "Last Days of Edo",
+      "year": 1941,
+      "note": "Best Ten #5, 1941",
+      "won": false
+    },
+    {
+      "title": "The Tale of Jiro",
+      "year": 1941,
+      "note": "Best Ten #6, 1941",
+      "won": false
+    },
+    {
+      "title": "Family of Love",
+      "year": 1941,
+      "note": "Best Ten #7, 1941",
+      "won": false
+    },
+    {
+      "title": "Festival Across the Sea",
+      "year": 1941,
+      "note": "Best Ten #8, 1941",
+      "won": false
+    },
+    {
+      "title": "Passion to Soar",
+      "year": 1941,
+      "note": "Best Ten #9, 1941",
+      "won": false
+    },
+    {
+      "title": "Story of Leadership",
+      "year": 1941,
+      "note": "Best Ten #10, 1941",
+      "won": false
+    },
+    {
+      "title": "The War at Sea from Hawaii to Malaya",
+      "year": 1942,
+      "note": "Best Ten #1, 1942",
+      "won": true
+    },
+    {
+      "title": "There Was a Father",
+      "year": 1942,
+      "note": "Best Ten #2, 1942",
+      "won": false
+    },
+    {
+      "title": "The General, Staff and Soldiers",
+      "year": 1942,
+      "note": "Best Ten #3, 1942",
+      "won": false
+    },
+    {
+      "title": "Mother and Child Grass",
+      "year": 1942,
+      "note": "Best Ten #4, 1942",
+      "won": false
+    },
+    {
+      "title": "Bouquet of the South Seas",
+      "year": 1942,
+      "note": "Best Ten #5, 1942",
+      "won": false
+    },
+    {
+      "title": "New Snow",
+      "year": 1942,
+      "note": "Best Ten #6, 1942",
+      "won": false
+    },
+    {
+      "title": "The 47 Ronin",
+      "year": 1941,
+      "note": "Best Ten #7, 1942",
+      "won": false
+    },
+    {
+      "title": "Date Masamune the One-Eyed Dragon",
+      "year": 1942,
+      "note": "Best Ten #8, 1942",
+      "won": false
+    },
+    {
+      "title": "Masujiro Omura",
+      "year": 1942,
+      "note": "Best Ten #9, 1942",
+      "won": false
+    },
+    {
+      "title": "The Day England Falls",
+      "year": 1942,
+      "note": "Best Ten #10, 1942",
+      "won": false
+    },
+    {
+      "title": "Morning for the Osone Family",
+      "year": 1946,
+      "note": "Best Ten #1, 1946",
+      "won": true
+    },
+    {
+      "title": "No Regrets for Our Youth",
+      "year": 1946,
+      "note": "Best Ten #2, 1946",
+      "won": false
+    },
+    {
+      "title": "Lord for a Night",
+      "year": 1946,
+      "note": "Best Ten #3, 1946",
+      "won": false
+    },
+    {
+      "title": "Waiting Woman",
+      "year": 1946,
+      "note": "Best Ten #4, 1946",
+      "won": false
+    },
+    {
+      "title": "The Girl I Loved",
+      "year": 1946,
+      "note": "Best Ten #5, 1946",
+      "won": false
+    },
+    {
+      "title": "The Ball at the Anjo House",
+      "year": 1947,
+      "note": "Best Ten #1, 1947",
+      "won": true
+    },
+    {
+      "title": "War and Peace",
+      "year": 1947,
+      "note": "Best Ten #2, 1947",
+      "won": false
+    },
+    {
+      "title": "Once More",
+      "year": 1947,
+      "note": "Best Ten #3, 1947",
+      "won": false
+    },
+    {
+      "title": "Record of a Tenement Gentleman",
+      "year": 1947,
+      "note": "Best Ten #4, 1947",
+      "won": false
+    },
+    {
+      "title": "Actress",
+      "year": 1947,
+      "note": "Best Ten #5, 1947",
+      "won": false
+    },
+    {
+      "title": "One Wonderful Sunday",
+      "year": 1947,
+      "note": "Best Ten #6, 1947",
+      "won": false
+    },
+    {
+      "title": "Snow Trail",
+      "year": 1947,
+      "note": "Best Ten #7, 1947",
+      "won": false
+    },
+    {
+      "title": "Four Love Stories",
+      "year": 1947,
+      "note": "Best Ten #8, 1947",
+      "won": false
+    },
+    {
+      "title": "The Hopeful Family",
+      "year": 1947,
+      "note": "Best Ten #9, 1947",
+      "won": false
+    },
+    {
+      "title": "Invitation to Happiness",
+      "year": 1947,
+      "note": "Best Ten #10, 1947",
+      "won": false
+    },
+    {
+      "title": "Drunken Angel",
+      "year": 1948,
+      "note": "Best Ten #1, 1948",
+      "won": true
+    },
+    {
+      "title": "Children Hand in Hand",
+      "year": 1948,
+      "note": "Best Ten #2, 1948",
+      "won": false
+    },
+    {
+      "title": "Women of the Night",
+      "year": 1948,
+      "note": "Best Ten #3, 1948",
+      "won": false
+    },
+    {
+      "title": "Children of the Beehive",
+      "year": 1948,
+      "note": "Best Ten #4, 1948",
+      "won": false
+    },
+    {
+      "title": "The Most Beautiful Day of My Life",
+      "year": 1948,
+      "note": "Best Ten #5, 1948",
+      "won": false
+    },
+    {
+      "title": "Apostasy",
+      "year": 1948,
+      "note": "Best Ten #6, 1948",
+      "won": false
+    },
+    {
+      "title": "A Hen in the Wind",
+      "year": 1948,
+      "note": "Best Ten #7, 1948",
+      "won": false
+    },
+    {
+      "title": "The Grand Master",
+      "year": 1948,
+      "note": "Best Ten #8, 1948",
+      "won": false
+    },
+    {
+      "title": "Living Image",
+      "year": 1948,
+      "note": "Best Ten #9, 1948",
+      "won": false
+    },
+    {
+      "title": "A Second Life",
+      "year": 1948,
+      "note": "Best Ten #10, 1948",
+      "won": false
+    },
+    {
+      "title": "Late Spring",
+      "year": 1949,
+      "note": "Best Ten #1, 1949",
+      "won": true
+    },
+    {
+      "title": "The Blue Mountains: Part I",
+      "year": 1949,
+      "note": "Best Ten #2, 1949",
+      "won": false
+    },
+    {
+      "title": "Stray Dog",
+      "year": 1949,
+      "note": "Best Ten #3, 1949",
+      "won": false
+    },
+    {
+      "title": "Broken Drum",
+      "year": 1949,
+      "note": "Best Ten #4, 1949",
+      "won": false
+    },
+    {
+      "title": "Forgotten Children",
+      "year": 1949,
+      "note": "Best Ten #5, 1949",
+      "won": false
+    },
+    {
+      "title": "Here's to the Young Lady",
+      "year": 1949,
+      "note": "Best Ten #6, 1949",
+      "won": false
+    },
+    {
+      "title": "A Woman's Life",
+      "year": 1949,
+      "note": "Best Ten #7, 1949",
+      "won": false
+    },
+    {
+      "title": "The Quiet Duel",
+      "year": 1949,
+      "note": "Best Ten #7, 1949",
+      "won": false
+    },
+    {
+      "title": "Ishimatsu of the Forest",
+      "year": 1949,
+      "note": "Best Ten #9, 1949",
+      "won": false
+    },
+    {
+      "title": "Mr. Shosuke Ohara",
+      "year": 1949,
+      "note": "Best Ten #10, 1949",
+      "won": false
+    },
+    {
+      "title": "Till We Meet Again",
+      "year": 1950,
+      "note": "Best Ten #1, 1950",
+      "won": true
+    },
+    {
+      "title": "Homecoming",
+      "year": 1950,
+      "note": "Best Ten #2, 1950",
+      "won": false
+    },
+    {
+      "title": "Escape at Dawn",
+      "year": 1950,
+      "note": "Best Ten #3, 1950",
+      "won": false
+    },
+    {
+      "title": "Probation",
+      "year": 1950,
+      "note": "Best Ten #4, 1950",
+      "won": false
+    },
+    {
+      "title": "Rashomon",
+      "year": 1950,
+      "note": "Best Ten #5, 1950",
+      "won": false
+    },
+    {
+      "title": "Scandal",
+      "year": 1950,
+      "note": "Best Ten #6, 1950",
+      "won": false
+    },
+    {
+      "title": "The Munekata Sisters",
+      "year": 1950,
+      "note": "Best Ten #7, 1950",
+      "won": false
+    },
+    {
+      "title": "Town of Violence",
+      "year": 1950,
+      "note": "Best Ten #8, 1950",
+      "won": false
+    },
+    {
+      "title": "Snow-Flake",
+      "year": 1950,
+      "note": "Best Ten #9, 1950",
+      "won": false
+    },
+    {
+      "title": "The Rainbow-Colored Flower",
+      "year": 1950,
+      "note": "Best Ten #10, 1950",
+      "won": false
+    },
+    {
+      "title": "Early Summer",
+      "year": 1951,
+      "note": "Best Ten #1, 1951",
+      "won": true
+    },
+    {
+      "title": "Repast",
+      "year": 1951,
+      "note": "Best Ten #2, 1951",
+      "won": false
+    },
+    {
+      "title": "Clothes of Deception",
+      "year": 1951,
+      "note": "Best Ten #3, 1951",
+      "won": false
+    },
+    {
+      "title": "Carmen Comes Home",
+      "year": 1951,
+      "note": "Best Ten #4, 1951",
+      "won": false
+    },
+    {
+      "title": "Still I Live On",
+      "year": 1951,
+      "note": "Best Ten #5, 1951",
+      "won": false
+    },
+    {
+      "title": "The Stormy Era of Twenty Years",
+      "year": 1951,
+      "note": "Best Ten #6, 1951",
+      "won": false
+    },
+    {
+      "title": "The Tale of Genji",
+      "year": 1951,
+      "note": "Best Ten #7, 1951",
+      "won": false
+    },
+    {
+      "title": "Ah,  Youth",
+      "year": 1951,
+      "note": "Best Ten #8, 1951",
+      "won": false
+    },
+    {
+      "title": "Beauty of Life",
+      "year": 1951,
+      "note": "Best Ten #9, 1951",
+      "won": false
+    },
+    {
+      "title": "Story of a Beloved Wife",
+      "year": 1951,
+      "note": "Best Ten #10, 1951",
+      "won": false
+    },
+    {
+      "title": "Ikiru",
+      "year": 1952,
+      "note": "Best Ten #1, 1952",
+      "won": true
+    },
+    {
+      "title": "Lightning",
+      "year": 1952,
+      "note": "Best Ten #2, 1952",
+      "won": false
+    },
+    {
+      "title": "Doctor's Day Off",
+      "year": 1952,
+      "note": "Best Ten #3, 1952",
+      "won": false
+    },
+    {
+      "title": "Modern People",
+      "year": 1952,
+      "note": "Best Ten #4, 1952",
+      "won": false
+    },
+    {
+      "title": "Carmen's Innocent Love",
+      "year": 1952,
+      "note": "Best Ten #5, 1952",
+      "won": false
+    },
+    {
+      "title": "Vacuum Zone",
+      "year": 1952,
+      "note": "Best Ten #6, 1952",
+      "won": false
+    },
+    {
+      "title": "Mother",
+      "year": 1952,
+      "note": "Best Ten #7, 1952",
+      "won": false
+    },
+    {
+      "title": "The Yamabiko School",
+      "year": 1952,
+      "note": "Best Ten #8, 1952",
+      "won": false
+    },
+    {
+      "title": "The Life of Oharu",
+      "year": 1952,
+      "note": "Best Ten #9, 1952",
+      "won": false
+    },
+    {
+      "title": "Dôkoku",
+      "year": 1952,
+      "note": "Best Ten #10, 1952",
+      "won": false
+    },
+    {
+      "title": "An Inlet of Muddy Water",
+      "year": 1953,
+      "note": "Best Ten #1, 1953",
+      "won": true
+    },
+    {
+      "title": "Tokyo Story",
+      "year": 1953,
+      "note": "Best Ten #2, 1953",
+      "won": false
+    },
+    {
+      "title": "Ugetsu",
+      "year": 1953,
+      "note": "Best Ten #3, 1953",
+      "won": false
+    },
+    {
+      "title": "Where Chimneys Are Seen",
+      "year": 1953,
+      "note": "Best Ten #4, 1953",
+      "won": false
+    },
+    {
+      "title": "Brother and Sister",
+      "year": 1953,
+      "note": "Best Ten #5, 1953",
+      "won": false
+    },
+    {
+      "title": "A Japanese Tragedy",
+      "year": 1953,
+      "note": "Best Ten #6, 1953",
+      "won": false
+    },
+    {
+      "title": "Tower of Lilies",
+      "year": 1953,
+      "note": "Best Ten #7, 1953",
+      "won": false
+    },
+    {
+      "title": "The Wild Geese",
+      "year": 1953,
+      "note": "Best Ten #8, 1953",
+      "won": false
+    },
+    {
+      "title": "A Geisha",
+      "year": 1953,
+      "note": "Best Ten #9, 1953",
+      "won": false
+    },
+    {
+      "title": "Miniature",
+      "year": 1953,
+      "note": "Best Ten #10, 1953",
+      "won": false
+    },
+    {
+      "title": "Twenty-Four Eyes",
+      "year": 1954,
+      "note": "Best Ten #1, 1954",
+      "won": true
+    },
+    {
+      "title": "The Garden of Women",
+      "year": 1954,
+      "note": "Best Ten #2, 1954",
+      "won": false
+    },
+    {
+      "title": "Seven Samurai",
+      "year": 1954,
+      "note": "Best Ten #3, 1954",
+      "won": false
+    },
+    {
+      "title": "The Black Current",
+      "year": 1954,
+      "note": "Best Ten #4, 1954",
+      "won": false
+    },
+    {
+      "title": "Chikamatsu Monogatari",
+      "year": 1954,
+      "note": "Best Ten #5, 1954",
+      "won": false
+    },
+    {
+      "title": "Sound of the Mountain",
+      "year": 1954,
+      "note": "Best Ten #6, 1954",
+      "won": false
+    },
+    {
+      "title": "Late Chrysanthemums",
+      "year": 1954,
+      "note": "Best Ten #7, 1954",
+      "won": false
+    },
+    {
+      "title": "The Glorious Days",
+      "year": 1954,
+      "note": "Best Ten #8, 1954",
+      "won": false
+    },
+    {
+      "title": "Sansho the Bailiff",
+      "year": 1954,
+      "note": "Best Ten #9, 1954",
+      "won": false
+    },
+    {
+      "title": "An Inn at Osaka",
+      "year": 1954,
+      "note": "Best Ten #10, 1954",
+      "won": false
+    },
+    {
+      "title": "Floating Clouds",
+      "year": 1955,
+      "note": "Best Ten #1, 1955",
+      "won": true
+    },
+    {
+      "title": "Marital Relations",
+      "year": 1955,
+      "note": "Best Ten #2, 1955",
+      "won": false
+    },
+    {
+      "title": "She Was Like a Wild Chrysanthemum",
+      "year": 1955,
+      "note": "Best Ten #3, 1955",
+      "won": false
+    },
+    {
+      "title": "I Live in Fear",
+      "year": 1955,
+      "note": "Best Ten #4, 1955",
+      "won": false
+    },
+    {
+      "title": "Here Is a Spring",
+      "year": 1955,
+      "note": "Best Ten #5, 1955",
+      "won": false
+    },
+    {
+      "title": "Policeman's Diary",
+      "year": 1955,
+      "note": "Best Ten #6, 1955",
+      "won": false
+    },
+    {
+      "title": "The Maid's Kid",
+      "year": 1955,
+      "note": "Best Ten #7, 1955",
+      "won": false
+    },
+    {
+      "title": "Bloody Spear at Mount Fuji",
+      "year": 1955,
+      "note": "Best Ten #8, 1955",
+      "won": false
+    },
+    {
+      "title": "Floating Weeds Diary",
+      "year": 1955,
+      "note": "Best Ten #9, 1955",
+      "won": false
+    },
+    {
+      "title": "The Beauty and the Dragon",
+      "year": 1955,
+      "note": "Best Ten #10, 1955",
+      "won": false
+    },
+    {
+      "title": "Darkness at Noon",
+      "year": 1956,
+      "note": "Best Ten #1, 1956",
+      "won": true
+    },
+    {
+      "title": "Undercurrent",
+      "year": 1956,
+      "note": "Best Ten #2, 1956",
+      "won": false
+    },
+    {
+      "title": "Karakoram",
+      "year": 1956,
+      "note": "Best Ten #3, 1956",
+      "won": false
+    },
+    {
+      "title": "Shozo, a Cat and Two Women",
+      "year": 1956,
+      "note": "Best Ten #4, 1956",
+      "won": false
+    },
+    {
+      "title": "The Burmese Harp",
+      "year": 1956,
+      "note": "Best Ten #5, 1956",
+      "won": false
+    },
+    {
+      "title": "Early Spring",
+      "year": 1956,
+      "note": "Best Ten #6, 1956",
+      "won": false
+    },
+    {
+      "title": "Typhoon Furor",
+      "year": 1956,
+      "note": "Best Ten #7, 1956",
+      "won": false
+    },
+    {
+      "title": "Flowing",
+      "year": 1956,
+      "note": "Best Ten #8, 1956",
+      "won": false
+    },
+    {
+      "title": "The Rose on His Arm",
+      "year": 1956,
+      "note": "Best Ten #9, 1956",
+      "won": false
+    },
+    {
+      "title": "I Will Buy You",
+      "year": 1956,
+      "note": "Best Ten #10, 1956",
+      "won": false
+    },
+    {
+      "title": "Rice",
+      "year": 1957,
+      "note": "Best Ten #1, 1957",
+      "won": true
+    },
+    {
+      "title": "The Story of Pure Love",
+      "year": 1957,
+      "note": "Best Ten #2, 1957",
+      "won": false
+    },
+    {
+      "title": "Times of Joy and Sorrow",
+      "year": 1957,
+      "note": "Best Ten #3, 1957",
+      "won": false
+    },
+    {
+      "title": "A Sun-Tribe Myth from the Bakumatsu Era",
+      "year": 1957,
+      "note": "Best Ten #4, 1957",
+      "won": false
+    },
+    {
+      "title": "Throne of Blood",
+      "year": 1957,
+      "note": "Best Ten #4, 1957",
+      "won": false
+    },
+    {
+      "title": "The Unbalanced Wheel",
+      "year": 1957,
+      "note": "Best Ten #6, 1957",
+      "won": false
+    },
+    {
+      "title": "The Eleventh Hour",
+      "year": 1957,
+      "note": "Best Ten #7, 1957",
+      "won": false
+    },
+    {
+      "title": "Roar and Earth",
+      "year": 1957,
+      "note": "Best Ten #8, 1957",
+      "won": false
+    },
+    {
+      "title": "Stepbrothers",
+      "year": 1957,
+      "note": "Best Ten #9, 1957",
+      "won": false
+    },
+    {
+      "title": "The Lower Depths",
+      "year": 1957,
+      "note": "Best Ten #10, 1957",
+      "won": false
+    },
+    {
+      "title": "The Ballad of Narayama",
+      "year": 1958,
+      "note": "Best Ten #1, 1958",
+      "won": true
+    },
+    {
+      "title": "The Hidden Fortress",
+      "year": 1958,
+      "note": "Best Ten #2, 1958",
+      "won": false
+    },
+    {
+      "title": "Equinox Flower",
+      "year": 1958,
+      "note": "Best Ten #3, 1958",
+      "won": false
+    },
+    {
+      "title": "Conflagration",
+      "year": 1958,
+      "note": "Best Ten #4, 1958",
+      "won": false
+    },
+    {
+      "title": "The Naked Sun",
+      "year": 1958,
+      "note": "Best Ten #5, 1958",
+      "won": false
+    },
+    {
+      "title": "Night Drum",
+      "year": 1958,
+      "note": "Best Ten #6, 1958",
+      "won": false
+    },
+    {
+      "title": "The Rickshaw Man",
+      "year": 1958,
+      "note": "Best Ten #7, 1958",
+      "won": false
+    },
+    {
+      "title": "Stakeout",
+      "year": 1958,
+      "note": "Best Ten #8, 1958",
+      "won": false
+    },
+    {
+      "title": "The Naked General",
+      "year": 1958,
+      "note": "Best Ten #9, 1958",
+      "won": false
+    },
+    {
+      "title": "Giants and Toys",
+      "year": 1958,
+      "note": "Best Ten #10, 1958",
+      "won": false
+    },
+    {
+      "title": "Kiku and Isamu: Two Siblings Born in Japan",
+      "year": 1959,
+      "note": "Best Ten #1, 1959",
+      "won": true
+    },
+    {
+      "title": "Fires on the Plain",
+      "year": 1959,
+      "note": "Best Ten #2, 1959",
+      "won": false
+    },
+    {
+      "title": "My Second Brother",
+      "year": 1959,
+      "note": "Best Ten #3, 1959",
+      "won": false
+    },
+    {
+      "title": "The Song of the Cart",
+      "year": 1959,
+      "note": "Best Ten #4, 1959",
+      "won": false
+    },
+    {
+      "title": "The Human Condition I: No Greater Love",
+      "year": 1959,
+      "note": "Best Ten #5, 1959",
+      "won": false
+    },
+    {
+      "title": "The Human Wall",
+      "year": 1959,
+      "note": "Best Ten #6, 1959",
+      "won": false
+    },
+    {
+      "title": "Chikamatsu's Love in Osaka",
+      "year": 1959,
+      "note": "Best Ten #7, 1959",
+      "won": false
+    },
+    {
+      "title": "Lucky Dragon No. 5",
+      "year": 1959,
+      "note": "Best Ten #8, 1959",
+      "won": false
+    },
+    {
+      "title": "Odd Obsession",
+      "year": 1959,
+      "note": "Best Ten #9, 1959",
+      "won": false
+    },
+    {
+      "title": "The Human Condition II: Road to Eternity",
+      "year": 1959,
+      "note": "Best Ten #10, 1959",
+      "won": false
+    },
+    {
+      "title": "Her Brother",
+      "year": 1960,
+      "note": "Best Ten #1, 1960",
+      "won": true
+    },
+    {
+      "title": "The Lost Alibi",
+      "year": 1960,
+      "note": "Best Ten #2, 1960",
+      "won": false
+    },
+    {
+      "title": "The Bad Sleep Well",
+      "year": 1960,
+      "note": "Best Ten #3, 1960",
+      "won": false
+    },
+    {
+      "title": "The River Fuefuki",
+      "year": 1960,
+      "note": "Best Ten #4, 1960",
+      "won": false
+    },
+    {
+      "title": "Late Autumn",
+      "year": 1960,
+      "note": "Best Ten #5, 1960",
+      "won": false
+    },
+    {
+      "title": "The Naked Island",
+      "year": 1960,
+      "note": "Best Ten #6, 1960",
+      "won": false
+    },
+    {
+      "title": "Pigs and Battleships",
+      "year": 1961,
+      "note": "Best Ten #7, 1960",
+      "won": false
+    },
+    {
+      "title": "The War Without Weapons",
+      "year": 1960,
+      "note": "Best Ten #8, 1960",
+      "won": false
+    },
+    {
+      "title": "Mystery of the Himalayas",
+      "year": 1960,
+      "note": "Best Ten #9, 1960",
+      "won": false
+    },
+    {
+      "title": "Night and Fog in Japan",
+      "year": 1960,
+      "note": "Best Ten #10, 1960",
+      "won": false
+    },
+    {
+      "title": "Bad Boys",
+      "year": 1961,
+      "note": "Best Ten #1, 1961",
+      "won": true
+    },
+    {
+      "title": "Yojimbo",
+      "year": 1961,
+      "note": "Best Ten #2, 1961",
+      "won": false
+    },
+    {
+      "title": "Immortal Love",
+      "year": 1961,
+      "note": "Best Ten #3, 1961",
+      "won": false
+    },
+    {
+      "title": "The Human Condition III: A Soldier's Prayer",
+      "year": 1961,
+      "note": "Best Ten #4, 1961",
+      "won": false
+    },
+    {
+      "title": "Happiness of Us Alone",
+      "year": 1961,
+      "note": "Best Ten #5, 1961",
+      "won": false
+    },
+    {
+      "title": "The Conspirator",
+      "year": 1961,
+      "note": "Best Ten #6, 1961",
+      "won": false
+    },
+    {
+      "title": "The Harbor Lights",
+      "year": 1961,
+      "note": "Best Ten #7, 1961",
+      "won": false
+    },
+    {
+      "title": "Run, Genta, Run!",
+      "year": 1961,
+      "note": "Best Ten #8, 1961",
+      "won": false
+    },
+    {
+      "title": "The Catch",
+      "year": 1961,
+      "note": "Best Ten #9, 1961",
+      "won": false
+    },
+    {
+      "title": "Ten Dark Women",
+      "year": 1961,
+      "note": "Best Ten #10, 1961",
+      "won": false
+    },
+    {
+      "title": "Being Two Isn't Easy",
+      "year": 1962,
+      "note": "Best Ten #1, 1962",
+      "won": true
+    },
+    {
+      "title": "Foundry Town",
+      "year": 1962,
+      "note": "Best Ten #2, 1962",
+      "won": false
+    },
+    {
+      "title": "Harakiri",
+      "year": 1962,
+      "note": "Best Ten #3, 1962",
+      "won": false
+    },
+    {
+      "title": "The Broken Commandment",
+      "year": 1962,
+      "note": "Best Ten #4, 1962",
+      "won": false
+    },
+    {
+      "title": "Sanjuro",
+      "year": 1962,
+      "note": "Best Ten #5, 1962",
+      "won": false
+    },
+    {
+      "title": "Human",
+      "year": 1962,
+      "note": "Best Ten #6, 1962",
+      "won": false
+    },
+    {
+      "title": "Pitfall",
+      "year": 1962,
+      "note": "Best Ten #7, 1962",
+      "won": false
+    },
+    {
+      "title": "An Autumn Afternoon",
+      "year": 1962,
+      "note": "Best Ten #8, 1962",
+      "won": false
+    },
+    {
+      "title": "Nippon no obaachan",
+      "year": 1962,
+      "note": "Best Ten #9, 1962",
+      "won": false
+    },
+    {
+      "title": "Akitsu Hot Springs",
+      "year": 1962,
+      "note": "Best Ten #10, 1962",
+      "won": false
+    },
+    {
+      "title": "The Insect Woman",
+      "year": 1963,
+      "note": "Best Ten #1, 1963",
+      "won": true
+    },
+    {
+      "title": "High and Low",
+      "year": 1963,
+      "note": "Best Ten #2, 1963",
+      "won": false
+    },
+    {
+      "title": "A House in the Quarter",
+      "year": 1963,
+      "note": "Best Ten #3, 1963",
+      "won": false
+    },
+    {
+      "title": "Alone Across the Pacific",
+      "year": 1963,
+      "note": "Best Ten #4, 1963",
+      "won": false
+    },
+    {
+      "title": "Bushido: The Cruel Code of the Samurai",
+      "year": 1963,
+      "note": "Best Ten #5, 1963",
+      "won": false
+    },
+    {
+      "title": "Elegant Beast",
+      "year": 1962,
+      "note": "Best Ten #6, 1963",
+      "won": false
+    },
+    {
+      "title": "She and He",
+      "year": 1963,
+      "note": "Best Ten #7, 1963",
+      "won": false
+    },
+    {
+      "title": "Mother",
+      "year": 1963,
+      "note": "Best Ten #8, 1963",
+      "won": false
+    },
+    {
+      "title": "Pressure of Guilt",
+      "year": 1963,
+      "note": "Best Ten #9, 1963",
+      "won": false
+    },
+    {
+      "title": "Bad Girl",
+      "year": 1963,
+      "note": "Best Ten #10, 1963",
+      "won": false
+    },
+    {
+      "title": "Woman in the Dunes",
+      "year": 1964,
+      "note": "Best Ten #1, 1964",
+      "won": true
+    },
+    {
+      "title": "Kwaidan",
+      "year": 1965,
+      "note": "Best Ten #2, 1964",
+      "won": false
+    },
+    {
+      "title": "The Scent of Incense",
+      "year": 1964,
+      "note": "Best Ten #3, 1964",
+      "won": false
+    },
+    {
+      "title": "Intentions of Murder",
+      "year": 1964,
+      "note": "Best Ten #4, 1964",
+      "won": false
+    },
+    {
+      "title": "A Fugitive from the Past",
+      "year": 1965,
+      "note": "Best Ten #5, 1964",
+      "won": false
+    },
+    {
+      "title": "A Story from Echigo",
+      "year": 1964,
+      "note": "Best Ten #6, 1964",
+      "won": false
+    },
+    {
+      "title": "A Public Benefactor",
+      "year": 1964,
+      "note": "Best Ten #7, 1964",
+      "won": false
+    },
+    {
+      "title": "Sweet Sweat",
+      "year": 1964,
+      "note": "Best Ten #8, 1964",
+      "won": false
+    },
+    {
+      "title": "Revenge",
+      "year": 1964,
+      "note": "Best Ten #9, 1964",
+      "won": false
+    },
+    {
+      "title": "Could I But Live",
+      "year": 1964,
+      "note": "Best Ten #10, 1964",
+      "won": false
+    },
+    {
+      "title": "Red Beard",
+      "year": 1965,
+      "note": "Best Ten #1, 1965",
+      "won": true
+    },
+    {
+      "title": "Tokyo Olympiad",
+      "year": 1965,
+      "note": "Best Ten #2, 1965",
+      "won": false
+    },
+    {
+      "title": "A Chain of Islands",
+      "year": 1965,
+      "note": "Best Ten #3, 1965",
+      "won": false
+    },
+    {
+      "title": "Tale of Japanese Burglars",
+      "year": 1965,
+      "note": "Best Ten #4, 1965",
+      "won": false
+    },
+    {
+      "title": "The Witness' Chair",
+      "year": 1965,
+      "note": "Best Ten #5, 1965",
+      "won": false
+    },
+    {
+      "title": "Cold Rice, Osan, Chan",
+      "year": 1965,
+      "note": "Best Ten #6, 1965",
+      "won": false
+    },
+    {
+      "title": "An Innocent Witch",
+      "year": 1965,
+      "note": "Best Ten #7, 1965",
+      "won": false
+    },
+    {
+      "title": "The Song of the Bwana Toshi",
+      "year": 1966,
+      "note": "Best Ten #8, 1965",
+      "won": false
+    },
+    {
+      "title": "Conquest",
+      "year": 1965,
+      "note": "Best Ten #9, 1965",
+      "won": false
+    },
+    {
+      "title": "A Story Written with Water",
+      "year": 1965,
+      "note": "Best Ten #10, 1965",
+      "won": false
+    },
+    {
+      "title": "The Great White Tower",
+      "year": 1966,
+      "note": "Best Ten #1, 1966",
+      "won": true
+    },
+    {
+      "title": "The Pornographers",
+      "year": 1966,
+      "note": "Best Ten #2, 1966",
+      "won": false
+    },
+    {
+      "title": "The Kii River",
+      "year": 1966,
+      "note": "Best Ten #3, 1966",
+      "won": false
+    },
+    {
+      "title": "Koto—The Lake of Tears",
+      "year": 1966,
+      "note": "Best Ten #4, 1966",
+      "won": false
+    },
+    {
+      "title": "The Face of Another",
+      "year": 1966,
+      "note": "Best Ten #5, 1966",
+      "won": false
+    },
+    {
+      "title": "Bride of the Andes",
+      "year": 1966,
+      "note": "Best Ten #6, 1966",
+      "won": false
+    },
+    {
+      "title": "Lost Sex",
+      "year": 1966,
+      "note": "Best Ten #7, 1966",
+      "won": false
+    },
+    {
+      "title": "Kokoro no sanmyaku",
+      "year": 1966,
+      "note": "Best Ten #8, 1966",
+      "won": false
+    },
+    {
+      "title": "Violence at Noon",
+      "year": 1966,
+      "note": "Best Ten #9, 1966",
+      "won": false
+    },
+    {
+      "title": "The Stranger Within a Woman",
+      "year": 1966,
+      "note": "Best Ten #10, 1966",
+      "won": false
+    },
+    {
+      "title": "Samurai Rebellion",
+      "year": 1967,
+      "note": "Best Ten #1, 1967",
+      "won": true
+    },
+    {
+      "title": "A Man Vanishes",
+      "year": 1967,
+      "note": "Best Ten #2, 1967",
+      "won": false
+    },
+    {
+      "title": "Japan's Longest Day",
+      "year": 1967,
+      "note": "Best Ten #3, 1967",
+      "won": false
+    },
+    {
+      "title": "Two in the Shadow",
+      "year": 1967,
+      "note": "Best Ten #4, 1967",
+      "won": false
+    },
+    {
+      "title": "The Wife of Seishu Hanaoka",
+      "year": 1967,
+      "note": "Best Ten #5, 1967",
+      "won": false
+    },
+    {
+      "title": "Portrait of Chieko",
+      "year": 1967,
+      "note": "Best Ten #6, 1967",
+      "won": false
+    },
+    {
+      "title": "Thirst for Love",
+      "year": 1967,
+      "note": "Best Ten #7, 1967",
+      "won": false
+    },
+    {
+      "title": "Clouds at Sunset",
+      "year": 1967,
+      "note": "Best Ten #8, 1967",
+      "won": false
+    },
+    {
+      "title": "Eyes, the Sea and a Ball",
+      "year": 1967,
+      "note": "Best Ten #9, 1967",
+      "won": false
+    },
+    {
+      "title": "Band of Ninja",
+      "year": 1967,
+      "note": "Best Ten #10, 1967",
+      "won": false
+    },
+    {
+      "title": "Profound Desires of the Gods",
+      "year": 1968,
+      "note": "Best Ten #1, 1968",
+      "won": true
+    },
+    {
+      "title": "The Human Bullet",
+      "year": 1968,
+      "note": "Best Ten #2, 1968",
+      "won": false
+    },
+    {
+      "title": "Death by Hanging",
+      "year": 1968,
+      "note": "Best Ten #3, 1968",
+      "won": false
+    },
+    {
+      "title": "The Sands of Kurobe",
+      "year": 1968,
+      "note": "Best Ten #4, 1968",
+      "won": false
+    },
+    {
+      "title": "Judge and Jeopardy",
+      "year": 1968,
+      "note": "Best Ten #5, 1968",
+      "won": false
+    },
+    {
+      "title": "Nanami: The Inferno of First Love",
+      "year": 1968,
+      "note": "Best Ten #6, 1968",
+      "won": false
+    },
+    {
+      "title": "Hymn to a Tired Man",
+      "year": 1968,
+      "note": "Best Ten #7, 1968",
+      "won": false
+    },
+    {
+      "title": "The Man Without a Map",
+      "year": 1968,
+      "note": "Best Ten #8, 1968",
+      "won": false
+    },
+    {
+      "title": "Hishakaku and Kiratsune: A Tale of Two Yakuza",
+      "year": 1968,
+      "note": "Best Ten #9, 1968",
+      "won": false
+    },
+    {
+      "title": "The Shy Deceiver",
+      "year": 1968,
+      "note": "Best Ten #10, 1968",
+      "won": false
+    },
+    {
+      "title": "Double Suicide",
+      "year": 1969,
+      "note": "Best Ten #1, 1969",
+      "won": true
+    },
+    {
+      "title": "The Girl I Abandoned",
+      "year": 1969,
+      "note": "Best Ten #2, 1969",
+      "won": false
+    },
+    {
+      "title": "Boy",
+      "year": 1969,
+      "note": "Best Ten #3, 1969",
+      "won": false
+    },
+    {
+      "title": "Heat Wave Island",
+      "year": 1969,
+      "note": "Best Ten #4, 1969",
+      "won": false
+    },
+    {
+      "title": "River Without a Bridge",
+      "year": 1969,
+      "note": "Best Ten #5, 1969",
+      "won": false
+    },
+    {
+      "title": "Tora-san, Our Lovable Tramp",
+      "year": 1969,
+      "note": "Best Ten #6, 1969",
+      "won": false
+    },
+    {
+      "title": "Vietnam",
+      "year": 1969,
+      "note": "Best Ten #7, 1969",
+      "won": false
+    },
+    {
+      "title": "Diary of a Shinjuku Thief",
+      "year": 1969,
+      "note": "Best Ten #8, 1969",
+      "won": false
+    },
+    {
+      "title": "Tora-san's Cherished Mother",
+      "year": 1969,
+      "note": "Best Ten #9, 1969",
+      "won": false
+    },
+    {
+      "title": "Samurai Banners",
+      "year": 1969,
+      "note": "Best Ten #10, 1969",
+      "won": false
+    },
+    {
+      "title": "Where Spring Comes Late",
+      "year": 1970,
+      "note": "Best Ten #1, 1970",
+      "won": true
+    },
+    {
+      "title": "Men and War I: Prelude to Destiny",
+      "year": 1970,
+      "note": "Best Ten #2, 1970",
+      "won": false
+    },
+    {
+      "title": "Dodes'ka-den",
+      "year": 1970,
+      "note": "Best Ten #3, 1970",
+      "won": false
+    },
+    {
+      "title": "Eros + Massacre",
+      "year": 1969,
+      "note": "Best Ten #4, 1970",
+      "won": false
+    },
+    {
+      "title": "Apart from Life",
+      "year": 1970,
+      "note": "Best Ten #5, 1970",
+      "won": false
+    },
+    {
+      "title": "This Transient Life",
+      "year": 1970,
+      "note": "Best Ten #6, 1970",
+      "won": false
+    },
+    {
+      "title": "The Shadow Within",
+      "year": 1970,
+      "note": "Best Ten #7, 1970",
+      "won": false
+    },
+    {
+      "title": "Tora-san's Runaway",
+      "year": 1970,
+      "note": "Best Ten #8, 1970",
+      "won": false
+    },
+    {
+      "title": "River Without a Bridge Part 2",
+      "year": 1970,
+      "note": "Best Ten #9, 1970",
+      "won": false
+    },
+    {
+      "title": "Live Today, Die Tomorrow!",
+      "year": 1970,
+      "note": "Best Ten #10, 1970",
+      "won": false
+    },
+    {
+      "title": "The Ceremony",
+      "year": 1971,
+      "note": "Best Ten #1, 1971",
+      "won": true
+    },
+    {
+      "title": "Silence",
+      "year": 1971,
+      "note": "Best Ten #2, 1971",
+      "won": false
+    },
+    {
+      "title": "A Woman Called En",
+      "year": 1971,
+      "note": "Best Ten #3, 1971",
+      "won": false
+    },
+    {
+      "title": "Men and War II: Land of Love and Sorrow",
+      "year": 1971,
+      "note": "Best Ten #4, 1971",
+      "won": false
+    },
+    {
+      "title": "Inn of Evil",
+      "year": 1971,
+      "note": "Best Ten #5, 1971",
+      "won": false
+    },
+    {
+      "title": "Miyamoto Musashi VI: Swords of Death",
+      "year": 1971,
+      "note": "Best Ten #6, 1971",
+      "won": false
+    },
+    {
+      "title": "The Gentle Japanese",
+      "year": 1971,
+      "note": "Best Ten #7, 1971",
+      "won": false
+    },
+    {
+      "title": "Tora-san's Love Call",
+      "year": 1971,
+      "note": "Best Ten #8, 1971",
+      "won": false
+    },
+    {
+      "title": "Throw Away Your Books, Rally in the Streets",
+      "year": 1971,
+      "note": "Best Ten #9, 1971",
+      "won": false
+    },
+    {
+      "title": "Wet Sand in August",
+      "year": 1971,
+      "note": "Best Ten #10, 1971",
+      "won": false
+    },
+    {
+      "title": "The Long Darkness",
+      "year": 1972,
+      "note": "Best Ten #1, 1972",
+      "won": true
+    },
+    {
+      "title": "Under the Flag of the Rising Sun",
+      "year": 1972,
+      "note": "Best Ten #2, 1972",
+      "won": false
+    },
+    {
+      "title": "Home from the Sea",
+      "year": 1972,
+      "note": "Best Ten #3, 1972",
+      "won": false
+    },
+    {
+      "title": "Journey Into Solitude",
+      "year": 1972,
+      "note": "Best Ten #4, 1972",
+      "won": false
+    },
+    {
+      "title": "The Rendezvous",
+      "year": 1972,
+      "note": "Best Ten #5, 1972",
+      "won": false
+    },
+    {
+      "title": "Tora-san's Dear Old Home",
+      "year": 1972,
+      "note": "Best Ten #6, 1972",
+      "won": false
+    },
+    {
+      "title": "Special Boy Soldiers of the Navy",
+      "year": 1972,
+      "note": "Best Ten #7, 1972",
+      "won": false
+    },
+    {
+      "title": "Ichijo's Wet Lust",
+      "year": 1972,
+      "note": "Best Ten #8, 1972",
+      "won": false
+    },
+    {
+      "title": "Summer Soldiers",
+      "year": 1972,
+      "note": "Best Ten #9, 1972",
+      "won": false
+    },
+    {
+      "title": "Playful White Fingers",
+      "year": 1972,
+      "note": "Best Ten #10, 1972",
+      "won": false
+    },
+    {
+      "title": "Tsugaru Folksong",
+      "year": 1973,
+      "note": "Best Ten #1, 1973",
+      "won": true
+    },
+    {
+      "title": "Battles Without Honor and Humanity",
+      "year": 1973,
+      "note": "Best Ten #2, 1973",
+      "won": false
+    },
+    {
+      "title": "Time Within Memory",
+      "year": 1973,
+      "note": "Best Ten #3, 1973",
+      "won": false
+    },
+    {
+      "title": "The Wanderers",
+      "year": 1973,
+      "note": "Best Ten #4, 1973",
+      "won": false
+    },
+    {
+      "title": "The Twilight Years",
+      "year": 1973,
+      "note": "Best Ten #5, 1973",
+      "won": false
+    },
+    {
+      "title": "The World of Geisha",
+      "year": 1973,
+      "note": "Best Ten #6, 1973",
+      "won": false
+    },
+    {
+      "title": "Coup d'Etat",
+      "year": 1973,
+      "note": "Best Ten #7, 1973",
+      "won": false
+    },
+    {
+      "title": "Battles Without Honor and Humanity: Proxy War",
+      "year": 1973,
+      "note": "Best Ten #8, 1973",
+      "won": false
+    },
+    {
+      "title": "Tora-san's Forget Me Not",
+      "year": 1973,
+      "note": "Best Ten #9, 1973",
+      "won": false
+    },
+    {
+      "title": "Men and War III: The Final Chapter",
+      "year": 1973,
+      "note": "Best Ten #10, 1973",
+      "won": false
+    },
+    {
+      "title": "Sandakan No. 8",
+      "year": 1974,
+      "note": "Best Ten #1, 1974",
+      "won": true
+    },
+    {
+      "title": "The Castle of Sand",
+      "year": 1974,
+      "note": "Best Ten #2, 1974",
+      "won": false
+    },
+    {
+      "title": "The Family",
+      "year": 1974,
+      "note": "Best Ten #3, 1974",
+      "won": false
+    },
+    {
+      "title": "Bitterness of Youth",
+      "year": 1974,
+      "note": "Best Ten #4, 1974",
+      "won": false
+    },
+    {
+      "title": "The Assassination of Ryoma",
+      "year": 1974,
+      "note": "Best Ten #5, 1974",
+      "won": false
+    },
+    {
+      "title": "My Way",
+      "year": 1974,
+      "note": "Best Ten #6, 1974",
+      "won": false
+    },
+    {
+      "title": "Battles Without Honor and Humanity: Police Tactics",
+      "year": 1974,
+      "note": "Best Ten #7, 1974",
+      "won": false
+    },
+    {
+      "title": "The Tattered Banner",
+      "year": 1974,
+      "note": "Best Ten #8, 1974",
+      "won": false
+    },
+    {
+      "title": "Red Paper Lantern",
+      "year": 1974,
+      "note": "Best Ten #9, 1974",
+      "won": false
+    },
+    {
+      "title": "Younger Sister",
+      "year": 1974,
+      "note": "Best Ten #10, 1974",
+      "won": false
+    },
+    {
+      "title": "Kenji Mizoguchi: The Life of a Film Director",
+      "year": 1975,
+      "note": "Best Ten #1, 1975",
+      "won": true
+    },
+    {
+      "title": "Preparation for the Festival",
+      "year": 1975,
+      "note": "Best Ten #2, 1975",
+      "won": false
+    },
+    {
+      "title": "Solar Eclipse",
+      "year": 1975,
+      "note": "Best Ten #3, 1975",
+      "won": false
+    },
+    {
+      "title": "The Fossil",
+      "year": 1975,
+      "note": "Best Ten #4, 1975",
+      "won": false
+    },
+    {
+      "title": "Tora-san Meets the Songstress Again",
+      "year": 1975,
+      "note": "Best Ten #5, 1975",
+      "won": false
+    },
+    {
+      "title": "Pastoral: To Die in the Country",
+      "year": 1974,
+      "note": "Best Ten #6, 1975",
+      "won": false
+    },
+    {
+      "title": "The Bullet Train",
+      "year": 1975,
+      "note": "Best Ten #7, 1975",
+      "won": false
+    },
+    {
+      "title": "Graveyard of Honor",
+      "year": 1975,
+      "note": "Best Ten #8, 1975",
+      "won": false
+    },
+    {
+      "title": "The Village",
+      "year": 1975,
+      "note": "Best Ten #9, 1975",
+      "won": false
+    },
+    {
+      "title": "A Woman Called Sada Abe",
+      "year": 1975,
+      "note": "Best Ten #10, 1975",
+      "won": false
+    },
+    {
+      "title": "The Youth Killer",
+      "year": 1976,
+      "note": "Best Ten #1, 1976",
+      "won": true
+    },
+    {
+      "title": "Tora-san's Sunrise and Sunset",
+      "year": 1976,
+      "note": "Best Ten #2, 1976",
+      "won": false
+    },
+    {
+      "title": "Lullaby of the Earth",
+      "year": 1976,
+      "note": "Best Ten #3, 1976",
+      "won": false
+    },
+    {
+      "title": "The Corporation",
+      "year": 1976,
+      "note": "Best Ten #4, 1976",
+      "won": false
+    },
+    {
+      "title": "The Inugami Family",
+      "year": 1976,
+      "note": "Best Ten #5, 1976",
+      "won": false
+    },
+    {
+      "title": "Brother and Sister",
+      "year": 1976,
+      "note": "Best Ten #6, 1976",
+      "won": false
+    },
+    {
+      "title": "Ah! That Pep Squad",
+      "year": 1976,
+      "note": "Best Ten #7, 1976",
+      "won": false
+    },
+    {
+      "title": "Yakuza Graveyard",
+      "year": 1976,
+      "note": "Best Ten #8, 1976",
+      "won": false
+    },
+    {
+      "title": "Light and Shade of Youth",
+      "year": 1976,
+      "note": "Best Ten #9, 1976",
+      "won": false
+    },
+    {
+      "title": "The Watcher in the Attic",
+      "year": 1976,
+      "note": "Best Ten #10, 1976",
+      "won": false
+    },
+    {
+      "title": "The Yellow Handkerchief",
+      "year": 1977,
+      "note": "Best Ten #1, 1977",
+      "won": true
+    },
+    {
+      "title": "The Life of Chikuzan",
+      "year": 1977,
+      "note": "Best Ten #2, 1977",
+      "won": false
+    },
+    {
+      "title": "Ballad of Orin",
+      "year": 1977,
+      "note": "Best Ten #3, 1977",
+      "won": false
+    },
+    {
+      "title": "Mount Hakkoda",
+      "year": 1977,
+      "note": "Best Ten #4, 1977",
+      "won": false
+    },
+    {
+      "title": "The Gate of Youth Part 2",
+      "year": 1977,
+      "note": "Best Ten #5, 1977",
+      "won": false
+    },
+    {
+      "title": "Lullaby to Kill",
+      "year": 1977,
+      "note": "Best Ten #6, 1977",
+      "won": false
+    },
+    {
+      "title": "Mother",
+      "year": 1977,
+      "note": "Best Ten #7, 1977",
+      "won": false
+    },
+    {
+      "title": "Boxer",
+      "year": 1977,
+      "note": "Best Ten #8, 1977",
+      "won": false
+    },
+    {
+      "title": "Suddenly, Like a Storm",
+      "year": 1977,
+      "note": "Best Ten #9, 1977",
+      "won": false
+    },
+    {
+      "title": "The Far Road",
+      "year": 1977,
+      "note": "Best Ten #10, 1977",
+      "won": false
+    },
+    {
+      "title": "Third Base",
+      "year": 1978,
+      "note": "Best Ten #1, 1978",
+      "won": true
+    },
+    {
+      "title": "Double Suicide of Sonezaki",
+      "year": 1978,
+      "note": "Best Ten #2, 1978",
+      "won": false
+    },
+    {
+      "title": "Empire of Passion",
+      "year": 1978,
+      "note": "Best Ten #3, 1978",
+      "won": false
+    },
+    {
+      "title": "The Incident",
+      "year": 1978,
+      "note": "Best Ten #4, 1978",
+      "won": false
+    },
+    {
+      "title": "The Days of No Return",
+      "year": 1978,
+      "note": "Best Ten #5, 1978",
+      "won": false
+    },
+    {
+      "title": "The Demon",
+      "year": 1978,
+      "note": "Best Ten #6, 1978",
+      "won": false
+    },
+    {
+      "title": "Dynamite Don-Don",
+      "year": 1978,
+      "note": "Best Ten #7, 1978",
+      "won": false
+    },
+    {
+      "title": "Winter's Flower",
+      "year": 1978,
+      "note": "Best Ten #8, 1978",
+      "won": false
+    },
+    {
+      "title": "Rape and Death of a Housewife",
+      "year": 1978,
+      "note": "Best Ten #9, 1978",
+      "won": false
+    },
+    {
+      "title": "Hakatakko Pure Heart",
+      "year": 1978,
+      "note": "Best Ten #10, 1978",
+      "won": false
+    },
+    {
+      "title": "Vengeance Is Mine",
+      "year": 1979,
+      "note": "Best Ten #1, 1979",
+      "won": true
+    },
+    {
+      "title": "The Man Who Stole the Sun",
+      "year": 1979,
+      "note": "Best Ten #2, 1979",
+      "won": false
+    },
+    {
+      "title": "Keiko",
+      "year": 1979,
+      "note": "Best Ten #3, 1979",
+      "won": false
+    },
+    {
+      "title": "The Woman with Red Hair",
+      "year": 1979,
+      "note": "Best Ten #4, 1979",
+      "won": false
+    },
+    {
+      "title": "Oh, My Son!",
+      "year": 1979,
+      "note": "Best Ten #5, 1979",
+      "won": false
+    },
+    {
+      "title": "Gassan",
+      "year": 1979,
+      "note": "Best Ten #6, 1979",
+      "won": false
+    },
+    {
+      "title": "The Nineteen-Year-Old's Map",
+      "year": 1979,
+      "note": "Best Ten #7, 1979",
+      "won": false
+    },
+    {
+      "title": "No More Easy Life",
+      "year": 1979,
+      "note": "Best Ten #8, 1979",
+      "won": false
+    },
+    {
+      "title": "Nomugi Pass",
+      "year": 1979,
+      "note": "Best Ten #9, 1979",
+      "won": false
+    },
+    {
+      "title": "Aftermath of Battles Without Honor and Humanity",
+      "year": 1979,
+      "note": "Best Ten #10, 1979",
+      "won": false
+    },
+    {
+      "title": "Zigeunerweisen",
+      "year": 1980,
+      "note": "Best Ten #1, 1980",
+      "won": true
+    },
+    {
+      "title": "Kagemusha",
+      "year": 1980,
+      "note": "Best Ten #2, 1980",
+      "won": false
+    },
+    {
+      "title": "Disciples of Hippocrates",
+      "year": 1980,
+      "note": "Best Ten #3, 1980",
+      "won": false
+    },
+    {
+      "title": "Heaven Sent",
+      "year": 1979,
+      "note": "Best Ten #4, 1980",
+      "won": false
+    },
+    {
+      "title": "A Distant Cry from Spring",
+      "year": 1980,
+      "note": "Best Ten #5, 1980",
+      "won": false
+    },
+    {
+      "title": "The Young Rebels",
+      "year": 1980,
+      "note": "Best Ten #6, 1980",
+      "won": false
+    },
+    {
+      "title": "Four Seasons: Natsuko",
+      "year": 1980,
+      "note": "Best Ten #7, 1980",
+      "won": false
+    },
+    {
+      "title": "Before Spring",
+      "year": 1980,
+      "note": "Best Ten #8, 1980",
+      "won": false
+    },
+    {
+      "title": "Crazy Thunder Road",
+      "year": 1980,
+      "note": "Best Ten #9, 1980",
+      "won": false
+    },
+    {
+      "title": "Child of the Sun",
+      "year": 1980,
+      "note": "Best Ten #10, 1980",
+      "won": false
+    },
+    {
+      "title": "Muddy River",
+      "year": 1981,
+      "note": "Best Ten #1, 1981",
+      "won": true
+    },
+    {
+      "title": "Distant Thunder",
+      "year": 1981,
+      "note": "Best Ten #2, 1981",
+      "won": false
+    },
+    {
+      "title": "Kagero-za",
+      "year": 1981,
+      "note": "Best Ten #3, 1981",
+      "won": false
+    },
+    {
+      "title": "Station",
+      "year": 1981,
+      "note": "Best Ten #4, 1981",
+      "won": false
+    },
+    {
+      "title": "Rolling on the Road",
+      "year": 1981,
+      "note": "Best Ten #5, 1981",
+      "won": false
+    },
+    {
+      "title": "Lonely Heart",
+      "year": 1981,
+      "note": "Best Ten #6, 1981",
+      "won": false
+    },
+    {
+      "title": "Empire of Kids",
+      "year": 1981,
+      "note": "Best Ten #7, 1981",
+      "won": false
+    },
+    {
+      "title": "Edo Porn",
+      "year": 1981,
+      "note": "Best Ten #8, 1981",
+      "won": false
+    },
+    {
+      "title": "Eijanaika",
+      "year": 1981,
+      "note": "Best Ten #9, 1981",
+      "won": false
+    },
+    {
+      "title": "At This Late Date, the Charleston",
+      "year": 1981,
+      "note": "Best Ten #10, 1981",
+      "won": false
+    },
+    {
+      "title": "Fall Guy",
+      "year": 1982,
+      "note": "Best Ten #1, 1982",
+      "won": true
+    },
+    {
+      "title": "Farewell to the Land",
+      "year": 1982,
+      "note": "Best Ten #2, 1982",
+      "won": false
+    },
+    {
+      "title": "I Are You, You Am Me",
+      "year": 1982,
+      "note": "Best Ten #3, 1982",
+      "won": false
+    },
+    {
+      "title": "Suspicion",
+      "year": 1982,
+      "note": "Best Ten #4, 1982",
+      "won": false
+    },
+    {
+      "title": "Furuyashiki: A Japanese Village",
+      "year": 1982,
+      "note": "Best Ten #5, 1982",
+      "won": false
+    },
+    {
+      "title": "Tattoo",
+      "year": 1982,
+      "note": "Best Ten #6, 1982",
+      "won": false
+    },
+    {
+      "title": "A Pool Without Water",
+      "year": 1982,
+      "note": "Best Ten #7, 1982",
+      "won": false
+    },
+    {
+      "title": "The Legend of Sayo",
+      "year": 1982,
+      "note": "Best Ten #8, 1982",
+      "won": false
+    },
+    {
+      "title": "To Trap a Kidnapper",
+      "year": 1982,
+      "note": "Best Ten #9, 1982",
+      "won": false
+    },
+    {
+      "title": "The Living Koheiji",
+      "year": 1982,
+      "note": "Best Ten #10, 1982",
+      "won": false
+    },
+    {
+      "title": "The Family Game",
+      "year": 1983,
+      "note": "Best Ten #1, 1983",
+      "won": true
+    },
+    {
+      "title": "The Makioka Sisters",
+      "year": 1983,
+      "note": "Best Ten #2, 1983",
+      "won": false
+    },
+    {
+      "title": "Merry Christmas, Mr. Lawrence",
+      "year": 1983,
+      "note": "Best Ten #3, 1983",
+      "won": false
+    },
+    {
+      "title": "Tokyo Trial",
+      "year": 1983,
+      "note": "Best Ten #4, 1983",
+      "won": false
+    },
+    {
+      "title": "The Ballad of Narayama",
+      "year": 1983,
+      "note": "Best Ten #5, 1983",
+      "won": false
+    },
+    {
+      "title": "Ryuji",
+      "year": 1983,
+      "note": "Best Ten #6, 1983",
+      "won": false
+    },
+    {
+      "title": "The Catch",
+      "year": 1983,
+      "note": "Best Ten #7, 1983",
+      "won": false
+    },
+    {
+      "title": "Amagi Pass",
+      "year": 1983,
+      "note": "Best Ten #8, 1983",
+      "won": false
+    },
+    {
+      "title": "The Mosquito on the Tenth Floor",
+      "year": 1983,
+      "note": "Best Ten #9, 1983",
+      "won": false
+    },
+    {
+      "title": "Hometown",
+      "year": 1983,
+      "note": "Best Ten #10, 1983",
+      "won": false
+    },
+    {
+      "title": "The Funeral",
+      "year": 1984,
+      "note": "Best Ten #1, 1984",
+      "won": true
+    },
+    {
+      "title": "W's Tragedy",
+      "year": 1984,
+      "note": "Best Ten #2, 1984",
+      "won": false
+    },
+    {
+      "title": "MacArthur's Children",
+      "year": 1984,
+      "note": "Best Ten #3, 1984",
+      "won": false
+    },
+    {
+      "title": "Mahjong Horoki",
+      "year": 1984,
+      "note": "Best Ten #4, 1984",
+      "won": false
+    },
+    {
+      "title": "Farewell to the Ark",
+      "year": 1984,
+      "note": "Best Ten #5, 1984",
+      "won": false
+    },
+    {
+      "title": "Ohan",
+      "year": 1984,
+      "note": "Best Ten #6, 1984",
+      "won": false
+    },
+    {
+      "title": "Warriors of the Wind",
+      "year": 1984,
+      "note": "Best Ten #7, 1984",
+      "won": false
+    },
+    {
+      "title": "For Kayako",
+      "year": 1984,
+      "note": "Best Ten #8, 1984",
+      "won": false
+    },
+    {
+      "title": "The Deserted City",
+      "year": 1984,
+      "note": "Best Ten #9, 1984",
+      "won": false
+    },
+    {
+      "title": "Chi-n-pi-ra",
+      "year": 1984,
+      "note": "Best Ten #10, 1984",
+      "won": false
+    },
+    {
+      "title": "And Then",
+      "year": 1985,
+      "note": "Best Ten #1, 1985",
+      "won": true
+    },
+    {
+      "title": "Ran",
+      "year": 1985,
+      "note": "Best Ten #2, 1985",
+      "won": false
+    },
+    {
+      "title": "Fire Festival",
+      "year": 1985,
+      "note": "Best Ten #3, 1985",
+      "won": false
+    },
+    {
+      "title": "Typhoon Club",
+      "year": 1985,
+      "note": "Best Ten #4, 1985",
+      "won": false
+    },
+    {
+      "title": "Lonely Heart",
+      "year": 1985,
+      "note": "Best Ten #5, 1985",
+      "won": false
+    },
+    {
+      "title": "Love Letter",
+      "year": 1985,
+      "note": "Best Ten #6, 1985",
+      "won": false
+    },
+    {
+      "title": "Nuclear Gypsies",
+      "year": 1985,
+      "note": "Best Ten #7, 1985",
+      "won": false
+    },
+    {
+      "title": "The Burmese Harp",
+      "year": 1985,
+      "note": "Best Ten #8, 1985",
+      "won": false
+    },
+    {
+      "title": "Early Spring Story",
+      "year": 1985,
+      "note": "Best Ten #9, 1985",
+      "won": false
+    },
+    {
+      "title": "Gray Sunset",
+      "year": 1985,
+      "note": "Best Ten #10, 1985",
+      "won": false
+    },
+    {
+      "title": "The Sea and Poison",
+      "year": 1986,
+      "note": "Best Ten #1, 1986",
+      "won": true
+    },
+    {
+      "title": "No More Comics!",
+      "year": 1986,
+      "note": "Best Ten #2, 1986",
+      "won": false
+    },
+    {
+      "title": "The House of Wedlock",
+      "year": 1986,
+      "note": "Best Ten #3, 1986",
+      "won": false
+    },
+    {
+      "title": "A Human Promise",
+      "year": 1986,
+      "note": "Best Ten #4, 1986",
+      "won": false
+    },
+    {
+      "title": "House on Fire",
+      "year": 1986,
+      "note": "Best Ten #5, 1986",
+      "won": false
+    },
+    {
+      "title": "Gonza the Spearman",
+      "year": 1986,
+      "note": "Best Ten #6, 1986",
+      "won": false
+    },
+    {
+      "title": "Young Girls in Love",
+      "year": 1986,
+      "note": "Best Ten #7, 1986",
+      "won": false
+    },
+    {
+      "title": "Castle in the Sky",
+      "year": 1986,
+      "note": "Best Ten #8, 1986",
+      "won": false
+    },
+    {
+      "title": "Final Take: The Golden Age of Movies",
+      "year": 1986,
+      "note": "Best Ten #9, 1986",
+      "won": false
+    },
+    {
+      "title": "Jazz Daimyo",
+      "year": 1986,
+      "note": "Best Ten #10, 1986",
+      "won": false
+    },
+    {
+      "title": "A Taxing Woman",
+      "year": 1987,
+      "note": "Best Ten #1, 1987",
+      "won": true
+    },
+    {
+      "title": "The Emperor's Naked Army Marches On",
+      "year": 1987,
+      "note": "Best Ten #2, 1987",
+      "won": false
+    },
+    {
+      "title": "Magino Village: A Tale",
+      "year": 1987,
+      "note": "Best Ten #3, 1987",
+      "won": false
+    },
+    {
+      "title": "Eien no 1/2",
+      "year": 1987,
+      "note": "Best Ten #4, 1987",
+      "won": false
+    },
+    {
+      "title": "Actress",
+      "year": 1987,
+      "note": "Best Ten #5, 1987",
+      "won": false
+    },
+    {
+      "title": "Tora-san Goes North",
+      "year": 1987,
+      "note": "Best Ten #6, 1987",
+      "won": false
+    },
+    {
+      "title": "Zegen",
+      "year": 1987,
+      "note": "Best Ten #7, 1987",
+      "won": false
+    },
+    {
+      "title": "BU・SU",
+      "year": 1987,
+      "note": "Best Ten #8, 1987",
+      "won": false
+    },
+    {
+      "title": "Luminous Woman",
+      "year": 1987,
+      "note": "Best Ten #9, 1987",
+      "won": false
+    },
+    {
+      "title": "Paper Lantern",
+      "year": 1987,
+      "note": "Best Ten #10, 1987",
+      "won": false
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "year": 1988,
+      "note": "Best Ten #1, 1988",
+      "won": true
+    },
+    {
+      "title": "Tomorrow",
+      "year": 1988,
+      "note": "Best Ten #2, 1988",
+      "won": false
+    },
+    {
+      "title": "The Discarnates",
+      "year": 1988,
+      "note": "Best Ten #3, 1988",
+      "won": false
+    },
+    {
+      "title": "Rock Requiem",
+      "year": 1988,
+      "note": "Best Ten #4, 1988",
+      "won": false
+    },
+    {
+      "title": "Remembrance",
+      "year": 1988,
+      "note": "Best Ten #5, 1988",
+      "won": false
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "year": 1988,
+      "note": "Best Ten #6, 1988",
+      "won": false
+    },
+    {
+      "title": "Sakura-tai Chiru",
+      "year": 1988,
+      "note": "Best Ten #7, 1988",
+      "won": false
+    },
+    {
+      "title": "The Yen Family",
+      "year": 1988,
+      "note": "Best Ten #8, 1988",
+      "won": false
+    },
+    {
+      "title": "Revolver",
+      "year": 1988,
+      "note": "Best Ten #9, 1988",
+      "won": false
+    },
+    {
+      "title": "Kaito Ruby",
+      "year": 1988,
+      "note": "Best Ten #10, 1988",
+      "won": false
+    },
+    {
+      "title": "Black Rain",
+      "year": 1989,
+      "note": "Best Ten #1, 1989",
+      "won": true
+    },
+    {
+      "title": "Knockout",
+      "year": 1989,
+      "note": "Best Ten #2, 1989",
+      "won": false
+    },
+    {
+      "title": "Death of a Tea Master",
+      "year": 1989,
+      "note": "Best Ten #3, 1989",
+      "won": false
+    },
+    {
+      "title": "Untamagiru",
+      "year": 1989,
+      "note": "Best Ten #4, 1989",
+      "won": false
+    },
+    {
+      "title": "Kiki's Delivery Service",
+      "year": 1989,
+      "note": "Best Ten #5, 1989",
+      "won": false
+    },
+    {
+      "title": "Beijing Watermelon",
+      "year": 1989,
+      "note": "Best Ten #6, 1989",
+      "won": false
+    },
+    {
+      "title": "Rikyu",
+      "year": 1989,
+      "note": "Best Ten #7, 1989",
+      "won": false
+    },
+    {
+      "title": "Violent Cop",
+      "year": 1989,
+      "note": "Best Ten #8, 1989",
+      "won": false
+    },
+    {
+      "title": "Company Executives",
+      "year": 1989,
+      "note": "Best Ten #9, 1989",
+      "won": false
+    },
+    {
+      "title": "Buddies",
+      "year": 1989,
+      "note": "Best Ten #10, 1989",
+      "won": false
+    },
+    {
+      "title": "The Cherry Orchard",
+      "year": 1990,
+      "note": "Best Ten #1, 1990",
+      "won": true
+    },
+    {
+      "title": "Takeshi: Childhood Days",
+      "year": 1990,
+      "note": "Best Ten #2, 1990",
+      "won": false
+    },
+    {
+      "title": "The Sting of Death",
+      "year": 1990,
+      "note": "Best Ten #3, 1990",
+      "won": false
+    },
+    {
+      "title": "Dreams",
+      "year": 1990,
+      "note": "Best Ten #4, 1990",
+      "won": false
+    },
+    {
+      "title": "Swimming Upstream",
+      "year": 1990,
+      "note": "Best Ten #5, 1990",
+      "won": false
+    },
+    {
+      "title": "Ready to Shoot",
+      "year": 1990,
+      "note": "Best Ten #6, 1990",
+      "won": false
+    },
+    {
+      "title": "Boiling Point",
+      "year": 1990,
+      "note": "Best Ten #7, 1990",
+      "won": false
+    },
+    {
+      "title": "Ronin-gai",
+      "year": 1990,
+      "note": "Best Ten #8, 1990",
+      "won": false
+    },
+    {
+      "title": "Tsugumi",
+      "year": 1990,
+      "note": "Best Ten #9, 1990",
+      "won": false
+    },
+    {
+      "title": "The Pale Hand",
+      "year": 1990,
+      "note": "Best Ten #10, 1990",
+      "won": false
+    },
+    {
+      "title": "My Sons",
+      "year": 1991,
+      "note": "Best Ten #1, 1991",
+      "won": true
+    },
+    {
+      "title": "Rainbow Kids",
+      "year": 1991,
+      "note": "Best Ten #2, 1991",
+      "won": false
+    },
+    {
+      "title": "Rhapsody in August",
+      "year": 1991,
+      "note": "Best Ten #3, 1991",
+      "won": false
+    },
+    {
+      "title": "Nowhere Man",
+      "year": 1991,
+      "note": "Best Ten #4, 1991",
+      "won": false
+    },
+    {
+      "title": "Chizuko's Younger Sister",
+      "year": 1991,
+      "note": "Best Ten #5, 1991",
+      "won": false
+    },
+    {
+      "title": "A Scene at the Sea",
+      "year": 1991,
+      "note": "Best Ten #6, 1991",
+      "won": false
+    },
+    {
+      "title": "The Gentle 12",
+      "year": 1991,
+      "note": "Best Ten #7, 1991",
+      "won": false
+    },
+    {
+      "title": "Check",
+      "year": 1991,
+      "note": "Best Ten #8, 1991",
+      "won": false
+    },
+    {
+      "title": "Only Yesterday",
+      "year": 1991,
+      "note": "Best Ten #9, 1991",
+      "won": false
+    },
+    {
+      "title": "Shimanto River",
+      "year": 1991,
+      "note": "Best Ten #10, 1991",
+      "won": false
+    },
+    {
+      "title": "Sumo Do, Sumo Don't",
+      "year": 1992,
+      "note": "Best Ten #1, 1992",
+      "won": true
+    },
+    {
+      "title": "The Rocking Horsemen",
+      "year": 1992,
+      "note": "Best Ten #2, 1992",
+      "won": false
+    },
+    {
+      "title": "Living on the River Agano",
+      "year": 1992,
+      "note": "Best Ten #3, 1992",
+      "won": false
+    },
+    {
+      "title": "Porco Rosso",
+      "year": 1992,
+      "note": "Best Ten #4, 1992",
+      "won": false
+    },
+    {
+      "title": "Original Sin",
+      "year": 1992,
+      "note": "Best Ten #5, 1992",
+      "won": false
+    },
+    {
+      "title": "The River with No Bridge",
+      "year": 1992,
+      "note": "Best Ten #6, 1992",
+      "won": false
+    },
+    {
+      "title": "The Triple Cross",
+      "year": 1992,
+      "note": "Best Ten #7, 1992",
+      "won": false
+    },
+    {
+      "title": "Sosuke Loses His Lover",
+      "year": 1992,
+      "note": "Best Ten #8, 1992",
+      "won": false
+    },
+    {
+      "title": "The Strange Tale of Oyuki",
+      "year": 1992,
+      "note": "Best Ten #9, 1992",
+      "won": false
+    },
+    {
+      "title": "Twinkle",
+      "year": 1992,
+      "note": "Best Ten #10, 1992",
+      "won": false
+    },
+    {
+      "title": "All Under the Moon",
+      "year": 1993,
+      "note": "Best Ten #1, 1993",
+      "won": true
+    },
+    {
+      "title": "Moving",
+      "year": 1993,
+      "note": "Best Ten #2, 1993",
+      "won": false
+    },
+    {
+      "title": "Dying at a Hospital",
+      "year": 1993,
+      "note": "Best Ten #3, 1993",
+      "won": false
+    },
+    {
+      "title": "Sonatine",
+      "year": 1993,
+      "note": "Best Ten #4, 1993",
+      "won": false
+    },
+    {
+      "title": "We Are Not Alone",
+      "year": 1993,
+      "note": "Best Ten #5, 1993",
+      "won": false
+    },
+    {
+      "title": "A Class to Remember",
+      "year": 1993,
+      "note": "Best Ten #6, 1993",
+      "won": false
+    },
+    {
+      "title": "About Love, Tokyo",
+      "year": 1992,
+      "note": "Best Ten #7, 1993",
+      "won": false
+    },
+    {
+      "title": "Bloom in the Moonlight “The Story of Rentaro Taki”",
+      "year": 1993,
+      "note": "Best Ten #8, 1993",
+      "won": false
+    },
+    {
+      "title": "A Night in Nude",
+      "year": 1993,
+      "note": "Best Ten #9, 1993",
+      "won": false
+    },
+    {
+      "title": "Madadayo",
+      "year": 1993,
+      "note": "Best Ten #10, 1993",
+      "won": false
+    },
+    {
+      "title": "A Dedicated Life",
+      "year": 1994,
+      "note": "Best Ten #1, 1994",
+      "won": true
+    },
+    {
+      "title": "Crest of Betrayal",
+      "year": 1994,
+      "note": "Best Ten #2, 1994",
+      "won": false
+    },
+    {
+      "title": "Ghost Pub",
+      "year": 1994,
+      "note": "Best Ten #3, 1994",
+      "won": false
+    },
+    {
+      "title": "Like a Rolling Stone",
+      "year": 1994,
+      "note": "Best Ten #4, 1994",
+      "won": false
+    },
+    {
+      "title": "The Friends",
+      "year": 1994,
+      "note": "Best Ten #5, 1994",
+      "won": false
+    },
+    {
+      "title": "119",
+      "year": 1994,
+      "note": "Best Ten #6, 1994",
+      "won": false
+    },
+    {
+      "title": "800 Two Lap Runners",
+      "year": 1994,
+      "note": "Best Ten #7, 1994",
+      "won": false
+    },
+    {
+      "title": "Pom Poko",
+      "year": 1994,
+      "note": "Best Ten #8, 1994",
+      "won": false
+    },
+    {
+      "title": "A New Love in Tokyo",
+      "year": 1994,
+      "note": "Best Ten #9, 1994",
+      "won": false
+    },
+    {
+      "title": "It's a Summer Vacation Everyday",
+      "year": 1994,
+      "note": "Best Ten #10, 1994",
+      "won": false
+    },
+    {
+      "title": "A Last Note",
+      "year": 1995,
+      "note": "Best Ten #1, 1995",
+      "won": true
+    },
+    {
+      "title": "The Tokyo Siblings",
+      "year": 1995,
+      "note": "Best Ten #2, 1995",
+      "won": false
+    },
+    {
+      "title": "Love Letter",
+      "year": 1995,
+      "note": "Best Ten #3, 1995",
+      "won": false
+    },
+    {
+      "title": "Maborosi",
+      "year": 1995,
+      "note": "Best Ten #4, 1995",
+      "won": false
+    },
+    {
+      "title": "Sharaku",
+      "year": 1995,
+      "note": "Best Ten #5, 1995",
+      "won": false
+    },
+    {
+      "title": "Gamera: Guardian of the Universe",
+      "year": 1995,
+      "note": "Best Ten #6, 1995",
+      "won": false
+    },
+    {
+      "title": "Deep River",
+      "year": 1995,
+      "note": "Best Ten #7, 1995",
+      "won": false
+    },
+    {
+      "title": "Kamikaze Taxi",
+      "year": 1995,
+      "note": "Best Ten #8, 1995",
+      "won": false
+    },
+    {
+      "title": "MARKS",
+      "year": 1995,
+      "note": "Best Ten #9, 1995",
+      "won": false
+    },
+    {
+      "title": "Tokyo Fist",
+      "year": 1995,
+      "note": "Best Ten #10, 1995",
+      "won": false
+    },
+    {
+      "title": "Like Grains of Sand",
+      "year": 1995,
+      "note": "Best Ten #10, 1995",
+      "won": false
+    },
+    {
+      "title": "Shall We Dance?",
+      "year": 1996,
+      "note": "Best Ten #1, 1996",
+      "won": true
+    },
+    {
+      "title": "Kids Return",
+      "year": 1996,
+      "note": "Best Ten #2, 1996",
+      "won": false
+    },
+    {
+      "title": "Sleeping Man",
+      "year": 1996,
+      "note": "Best Ten #3, 1996",
+      "won": false
+    },
+    {
+      "title": "Haru",
+      "year": 1996,
+      "note": "Best Ten #4, 1996",
+      "won": false
+    },
+    {
+      "title": "Village of Dreams",
+      "year": 1996,
+      "note": "Best Ten #5, 1996",
+      "won": false
+    },
+    {
+      "title": "Boys, Be Ambitious",
+      "year": 1996,
+      "note": "Best Ten #6, 1996",
+      "won": false
+    },
+    {
+      "title": "Tokiwa: The Manga Apartment",
+      "year": 1996,
+      "note": "Best Ten #7, 1996",
+      "won": false
+    },
+    {
+      "title": "A Class to Remember II",
+      "year": 1996,
+      "note": "Best Ten #8, 1996",
+      "won": false
+    },
+    {
+      "title": "Billiken",
+      "year": 1996,
+      "note": "Best Ten #9, 1996",
+      "won": false
+    },
+    {
+      "title": "Shabu",
+      "year": 1996,
+      "note": "Best Ten #10, 1996",
+      "won": false
+    },
+    {
+      "title": "The Eel",
+      "year": 1997,
+      "note": "Best Ten #1, 1997",
+      "won": true
+    },
+    {
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "note": "Best Ten #2, 1997",
+      "won": false
+    },
+    {
+      "title": "Welcome Back, Mr. McDonald",
+      "year": 1997,
+      "note": "Best Ten #3, 1997",
+      "won": false
+    },
+    {
+      "title": "Tokyo Lullaby",
+      "year": 1997,
+      "note": "Best Ten #4, 1997",
+      "won": false
+    },
+    {
+      "title": "Onibi: The Fire Within",
+      "year": 1997,
+      "note": "Best Ten #5, 1997",
+      "won": false
+    },
+    {
+      "title": "Bounce Ko Gals",
+      "year": 1997,
+      "note": "Best Ten #6, 1997",
+      "won": false
+    },
+    {
+      "title": "Abduction",
+      "year": 1997,
+      "note": "Best Ten #7, 1997",
+      "won": false
+    },
+    {
+      "title": "Body and Soul",
+      "year": 1997,
+      "note": "Best Ten #8, 1997",
+      "won": false
+    },
+    {
+      "title": "Tokyo Fair Weather",
+      "year": 1997,
+      "note": "Best Ten #9, 1997",
+      "won": false
+    },
+    {
+      "title": "Moonlight Serenade",
+      "year": 1997,
+      "note": "Best Ten #10, 1997",
+      "won": false
+    },
+    {
+      "title": "Suzaku",
+      "year": 1997,
+      "note": "Best Ten #10, 1997",
+      "won": false
+    },
+    {
+      "title": "Fireworks",
+      "year": 1997,
+      "note": "Best Ten #1, 1998",
+      "won": true
+    },
+    {
+      "title": "Begging for Love",
+      "year": 1998,
+      "note": "Best Ten #2, 1998",
+      "won": false
+    },
+    {
+      "title": "Give It All",
+      "year": 1998,
+      "note": "Best Ten #3, 1998",
+      "won": false
+    },
+    {
+      "title": "Dr. Akagi",
+      "year": 1998,
+      "note": "Best Ten #4, 1998",
+      "won": false
+    },
+    {
+      "title": "Cure",
+      "year": 1997,
+      "note": "Best Ten #5, 1998",
+      "won": false
+    },
+    {
+      "title": "A Class to Remember III: The New Voyage",
+      "year": 1998,
+      "note": "Best Ten #6, 1998",
+      "won": false
+    },
+    {
+      "title": "Dog Race",
+      "year": 1998,
+      "note": "Best Ten #7, 1998",
+      "won": false
+    },
+    {
+      "title": "The Goofball",
+      "year": 1998,
+      "note": "Best Ten #8, 1998",
+      "won": false
+    },
+    {
+      "title": "Diary of Early Winter Shower",
+      "year": 1998,
+      "note": "Best Ten #9, 1998",
+      "won": false
+    },
+    {
+      "title": "The Bird People in China",
+      "year": 1998,
+      "note": "Best Ten #10, 1998",
+      "won": false
+    },
+    {
+      "title": "Bonds",
+      "year": 1998,
+      "note": "Best Ten #10, 1998",
+      "won": false
+    },
+    {
+      "title": "Wait and See",
+      "year": 1998,
+      "note": "Best Ten #1, 1999",
+      "won": true
+    },
+    {
+      "title": "Jubaku: Spellbound",
+      "year": 1999,
+      "note": "Best Ten #2, 1999",
+      "won": false
+    },
+    {
+      "title": "Keiho",
+      "year": 1999,
+      "note": "Best Ten #3, 1999",
+      "won": false
+    },
+    {
+      "title": "Railroad Man",
+      "year": 1999,
+      "note": "Best Ten #4, 1999",
+      "won": false
+    },
+    {
+      "title": "M/Other",
+      "year": 1999,
+      "note": "Best Ten #5, 1999",
+      "won": false
+    },
+    {
+      "title": "Amateur Singing Contest",
+      "year": 1999,
+      "note": "Best Ten #6, 1999",
+      "won": false
+    },
+    {
+      "title": "Kikujiro",
+      "year": 1999,
+      "note": "Best Ten #7, 1999",
+      "won": false
+    },
+    {
+      "title": "Osaka Story",
+      "year": 1999,
+      "note": "Best Ten #8, 1999",
+      "won": false
+    },
+    {
+      "title": "Don't Look Back",
+      "year": 1999,
+      "note": "Best Ten #9, 1999",
+      "won": false
+    },
+    {
+      "title": "Coquille",
+      "year": 1999,
+      "note": "Best Ten #10, 1999",
+      "won": false
+    },
+    {
+      "title": "Face",
+      "year": 2000,
+      "note": "Best Ten #1, 2000",
+      "won": true
+    },
+    {
+      "title": "Nabbie's Love",
+      "year": 1999,
+      "note": "Best Ten #2, 2000",
+      "won": false
+    },
+    {
+      "title": "Taboo",
+      "year": 1999,
+      "note": "Best Ten #3, 2000",
+      "won": false
+    },
+    {
+      "title": "A Class to Remember IV: Fifteen",
+      "year": 2000,
+      "note": "Best Ten #4, 2000",
+      "won": false
+    },
+    {
+      "title": "Battle Royale",
+      "year": 2000,
+      "note": "Best Ten #5, 2000",
+      "won": false
+    },
+    {
+      "title": "By Player",
+      "year": 2000,
+      "note": "Best Ten #6, 2000",
+      "won": false
+    },
+    {
+      "title": "Pickpocket",
+      "year": 2000,
+      "note": "Best Ten #7, 2000",
+      "won": false
+    },
+    {
+      "title": "Boy's Choir",
+      "year": 2000,
+      "note": "Best Ten #8, 2000",
+      "won": false
+    },
+    {
+      "title": "After the Rain",
+      "year": 2000,
+      "note": "Best Ten #9, 2000",
+      "won": false
+    },
+    {
+      "title": "First Love",
+      "year": 2000,
+      "note": "Best Ten #10, 2000",
+      "won": false
+    },
+    {
+      "title": "GO",
+      "year": 2001,
+      "note": "Best Ten #1, 2001",
+      "won": true
+    },
+    {
+      "title": "Hush!",
+      "year": 2001,
+      "note": "Best Ten #2, 2001",
+      "won": false
+    },
+    {
+      "title": "Spirited Away",
+      "year": 2001,
+      "note": "Best Ten #3, 2001",
+      "won": false
+    },
+    {
+      "title": "Eureka",
+      "year": 2001,
+      "note": "Best Ten #4, 2001",
+      "won": false
+    },
+    {
+      "title": "Kaza-hana",
+      "year": 2001,
+      "note": "Best Ten #5, 2001",
+      "won": false
+    },
+    {
+      "title": "Bad Company",
+      "year": 2001,
+      "note": "Best Ten #6, 2001",
+      "won": false
+    },
+    {
+      "title": "All About Lily Chou-Chou",
+      "year": 2001,
+      "note": "Best Ten #7, 2001",
+      "won": false
+    },
+    {
+      "title": "Waterboys",
+      "year": 2001,
+      "note": "Best Ten #8, 2001",
+      "won": false
+    },
+    {
+      "title": "Rain of Light",
+      "year": 2001,
+      "note": "Best Ten #9, 2001",
+      "won": false
+    },
+    {
+      "title": "Warm Water Under a Red Bridge",
+      "year": 2001,
+      "note": "Best Ten #10, 2001",
+      "won": false
+    },
+    {
+      "title": "The Twilight Samurai",
+      "year": 2002,
+      "note": "Best Ten #1, 2002",
+      "won": true
+    },
+    {
+      "title": "Doing Time",
+      "year": 2002,
+      "note": "Best Ten #2, 2002",
+      "won": false
+    },
+    {
+      "title": "KT",
+      "year": 2002,
+      "note": "Best Ten #3, 2002",
+      "won": false
+    },
+    {
+      "title": "Out",
+      "year": 2002,
+      "note": "Best Ten #4, 2002",
+      "won": false
+    },
+    {
+      "title": "Aiki",
+      "year": 2002,
+      "note": "Best Ten #5, 2002",
+      "won": false
+    },
+    {
+      "title": "The Laughing Frog",
+      "year": 2002,
+      "note": "Best Ten #6, 2002",
+      "won": false
+    },
+    {
+      "title": "Letter from the Mountain",
+      "year": 2002,
+      "note": "Best Ten #7, 2002",
+      "won": false
+    },
+    {
+      "title": "Sorry",
+      "year": 2002,
+      "note": "Best Ten #7, 2002",
+      "won": false
+    },
+    {
+      "title": "Ping Pong",
+      "year": 2002,
+      "note": "Best Ten #9, 2002",
+      "won": false
+    },
+    {
+      "title": "Travail",
+      "year": 2002,
+      "note": "Best Ten #10, 2002",
+      "won": false
+    },
+    {
+      "title": "A Boy's Summer in 1945",
+      "year": 2002,
+      "note": "Best Ten #1, 2003",
+      "won": true
+    },
+    {
+      "title": "Akame 48 Waterfalls",
+      "year": 2003,
+      "note": "Best Ten #2, 2003",
+      "won": false
+    },
+    {
+      "title": "Vibrator",
+      "year": 2003,
+      "note": "Best Ten #3, 2003",
+      "won": false
+    },
+    {
+      "title": "Josee, the Tiger and the Fish",
+      "year": 2003,
+      "note": "Best Ten #4, 2003",
+      "won": false
+    },
+    {
+      "title": "Like Asura",
+      "year": 2003,
+      "note": "Best Ten #5, 2003",
+      "won": false
+    },
+    {
+      "title": "Women in the Mirror",
+      "year": 2003,
+      "note": "Best Ten #6, 2003",
+      "won": false
+    },
+    {
+      "title": "Zatoichi",
+      "year": 2003,
+      "note": "Best Ten #7, 2003",
+      "won": false
+    },
+    {
+      "title": "To the Bracken Fields",
+      "year": 2003,
+      "note": "Best Ten #8, 2003",
+      "won": false
+    },
+    {
+      "title": "Doppelgänger",
+      "year": 2003,
+      "note": "Best Ten #9, 2003",
+      "won": false
+    },
+    {
+      "title": "Bokunchi - My House",
+      "year": 2003,
+      "note": "Best Ten #10, 2003",
+      "won": false
+    },
+    {
+      "title": "Nobody Knows",
+      "year": 2004,
+      "note": "Best Ten #1, 2004",
+      "won": true
+    },
+    {
+      "title": "Blood and Bones",
+      "year": 2004,
+      "note": "Best Ten #2, 2004",
+      "won": false
+    },
+    {
+      "title": "Kamikaze Girls",
+      "year": 2004,
+      "note": "Best Ten #3, 2004",
+      "won": false
+    },
+    {
+      "title": "The Face of Jizo",
+      "year": 2004,
+      "note": "Best Ten #4, 2004",
+      "won": false
+    },
+    {
+      "title": "The Hidden Blade",
+      "year": 2004,
+      "note": "Best Ten #5, 2004",
+      "won": false
+    },
+    {
+      "title": "The Motive",
+      "year": 2004,
+      "note": "Best Ten #6, 2004",
+      "won": false
+    },
+    {
+      "title": "Swing Girls",
+      "year": 2004,
+      "note": "Best Ten #7, 2004",
+      "won": false
+    },
+    {
+      "title": "Chicken Is Barefoot",
+      "year": 2004,
+      "note": "Best Ten #8, 2004",
+      "won": false
+    },
+    {
+      "title": "The Stars Converge",
+      "year": 2004,
+      "note": "Best Ten #9, 2004",
+      "won": false
+    },
+    {
+      "title": "Translucent Tree",
+      "year": 2004,
+      "note": "Best Ten #10, 2004",
+      "won": false
+    },
+    {
+      "title": "We Shall Overcome Someday",
+      "year": 2005,
+      "note": "Best Ten #1, 2005",
+      "won": true
+    },
+    {
+      "title": "Always - Sunset on Third Street",
+      "year": 2005,
+      "note": "Best Ten #2, 2005",
+      "won": false
+    },
+    {
+      "title": "The Milkwoman",
+      "year": 2005,
+      "note": "Best Ten #3, 2005",
+      "won": false
+    },
+    {
+      "title": "La Maison de Himiko",
+      "year": 2005,
+      "note": "Best Ten #4, 2005",
+      "won": false
+    },
+    {
+      "title": "A Stranger of Mine",
+      "year": 2005,
+      "note": "Best Ten #5, 2005",
+      "won": false
+    },
+    {
+      "title": "Linda Linda Linda",
+      "year": 2005,
+      "note": "Best Ten #6, 2005",
+      "won": false
+    },
+    {
+      "title": "Canary",
+      "year": 2005,
+      "note": "Best Ten #7, 2005",
+      "won": false
+    },
+    {
+      "title": "Yamato",
+      "year": 2005,
+      "note": "Best Ten #8, 2005",
+      "won": false
+    },
+    {
+      "title": "Hanging Garden",
+      "year": 2005,
+      "note": "Best Ten #9, 2005",
+      "won": false
+    },
+    {
+      "title": "The Whispering of the Gods",
+      "year": 2005,
+      "note": "Best Ten #10, 2005",
+      "won": false
+    },
+    {
+      "title": "Hula Girls",
+      "year": 2006,
+      "note": "Best Ten #1, 2006",
+      "won": true
+    },
+    {
+      "title": "Sway",
+      "year": 2006,
+      "note": "Best Ten #2, 2006",
+      "won": false
+    },
+    {
+      "title": "What the Snow Brings",
+      "year": 2005,
+      "note": "Best Ten #3, 2006",
+      "won": false
+    },
+    {
+      "title": "The Blossoming of Etsuko Kamiya",
+      "year": 2006,
+      "note": "Best Ten #4, 2006",
+      "won": false
+    },
+    {
+      "title": "Love and Honor",
+      "year": 2006,
+      "note": "Best Ten #5, 2006",
+      "won": false
+    },
+    {
+      "title": "Memories of Matsuko",
+      "year": 2006,
+      "note": "Best Ten #6, 2006",
+      "won": false
+    },
+    {
+      "title": "The Professor and His Beloved Equation",
+      "year": 2006,
+      "note": "Best Ten #7, 2006",
+      "won": false
+    },
+    {
+      "title": "Memories of Tomorrow",
+      "year": 2006,
+      "note": "Best Ten #8, 2006",
+      "won": false
+    },
+    {
+      "title": "Kamome Diner",
+      "year": 2006,
+      "note": "Best Ten #9, 2006",
+      "won": false
+    },
+    {
+      "title": "Who's Camus Anyway?",
+      "year": 2005,
+      "note": "Best Ten #10, 2006",
+      "won": false
+    },
+    {
+      "title": "I Just Didn't Do It",
+      "year": 2007,
+      "note": "Best Ten #1, 2007",
+      "won": true
+    },
+    {
+      "title": "A Gentle Breeze in the Village",
+      "year": 2007,
+      "note": "Best Ten #2, 2007",
+      "won": false
+    },
+    {
+      "title": "Talk, Talk, Talk",
+      "year": 2007,
+      "note": "Best Ten #3, 2007",
+      "won": false
+    },
+    {
+      "title": "Sad Vacation",
+      "year": 2007,
+      "note": "Best Ten #4, 2007",
+      "won": false
+    },
+    {
+      "title": "Summer Days with Coo",
+      "year": 2007,
+      "note": "Best Ten #5, 2007",
+      "won": false
+    },
+    {
+      "title": "Dog in a Sidecar",
+      "year": 2007,
+      "note": "Best Ten #6, 2007",
+      "won": false
+    },
+    {
+      "title": "The Matsugane Potshot Affair",
+      "year": 2007,
+      "note": "Best Ten #7, 2007",
+      "won": false
+    },
+    {
+      "title": "Awakening",
+      "year": 2007,
+      "note": "Best Ten #8, 2007",
+      "won": false
+    },
+    {
+      "title": "Yunagi City, Sakura Country",
+      "year": 2007,
+      "note": "Best Ten #9, 2007",
+      "won": false
+    },
+    {
+      "title": "Funuke: Show Some Love, You Losers!",
+      "year": 2007,
+      "note": "Best Ten #10, 2007",
+      "won": false
+    },
+    {
+      "title": "Departures",
+      "year": 2008,
+      "note": "Best Ten #1, 2008",
+      "won": true
+    },
+    {
+      "title": "All Around Us",
+      "year": 2008,
+      "note": "Best Ten #2, 2008",
+      "won": false
+    },
+    {
+      "title": "United Red Army",
+      "year": 2007,
+      "note": "Best Ten #3, 2008",
+      "won": false
+    },
+    {
+      "title": "Tokyo Sonata",
+      "year": 2008,
+      "note": "Best Ten #4, 2008",
+      "won": false
+    },
+    {
+      "title": "Still Walking",
+      "year": 2008,
+      "note": "Best Ten #5, 2008",
+      "won": false
+    },
+    {
+      "title": "Children of the Dark",
+      "year": 2008,
+      "note": "Best Ten #6, 2008",
+      "won": false
+    },
+    {
+      "title": "Kabei: Our Mother",
+      "year": 2008,
+      "note": "Best Ten #7, 2008",
+      "won": false
+    },
+    {
+      "title": "Climber's High",
+      "year": 2008,
+      "note": "Best Ten #8, 2008",
+      "won": false
+    },
+    {
+      "title": "The Kiss",
+      "year": 2007,
+      "note": "Best Ten #9, 2008",
+      "won": false
+    },
+    {
+      "title": "After School",
+      "year": 2008,
+      "note": "Best Ten #10, 2008",
+      "won": false
+    },
+    {
+      "title": "Dear Doctor",
+      "year": 2009,
+      "note": "Best Ten #1, 2009",
+      "won": true
+    },
+    {
+      "title": "Villon's Wife",
+      "year": 2009,
+      "note": "Best Ten #2, 2009",
+      "won": false
+    },
+    {
+      "title": "The Summit: A Chronicle Of Stones to Serenity",
+      "year": 2009,
+      "note": "Best Ten #3, 2009",
+      "won": false
+    },
+    {
+      "title": "Love Exposure",
+      "year": 2008,
+      "note": "Best Ten #4, 2009",
+      "won": false
+    },
+    {
+      "title": "The Unbroken",
+      "year": 2009,
+      "note": "Best Ten #5, 2009",
+      "won": false
+    },
+    {
+      "title": "Air Doll",
+      "year": 2009,
+      "note": "Best Ten #6, 2009",
+      "won": false
+    },
+    {
+      "title": "Bare Essence of Life",
+      "year": 2009,
+      "note": "Best Ten #7, 2009",
+      "won": false
+    },
+    {
+      "title": "Summer Wars",
+      "year": 2009,
+      "note": "Best Ten #8, 2009",
+      "won": false
+    },
+    {
+      "title": "Nobody To Watch Over Me",
+      "year": 2009,
+      "note": "Best Ten #9, 2009",
+      "won": false
+    },
+    {
+      "title": "Feel the Wind",
+      "year": 2009,
+      "note": "Best Ten #10, 2009",
+      "won": false
+    },
+    {
+      "title": "Villain",
+      "year": 2010,
+      "note": "Best Ten #1, 2010",
+      "won": true
+    },
+    {
+      "title": "Confessions",
+      "year": 2010,
+      "note": "Best Ten #2, 2010",
+      "won": false
+    },
+    {
+      "title": "Heaven's Story",
+      "year": 2010,
+      "note": "Best Ten #3, 2010",
+      "won": false
+    },
+    {
+      "title": "13 Assassins",
+      "year": 2010,
+      "note": "Best Ten #4, 2010",
+      "won": false
+    },
+    {
+      "title": "Sawako Decides",
+      "year": 2010,
+      "note": "Best Ten #5, 2010",
+      "won": false
+    },
+    {
+      "title": "Caterpillar",
+      "year": 2010,
+      "note": "Best Ten #6, 2010",
+      "won": false
+    },
+    {
+      "title": "Sword of Desperation",
+      "year": 2010,
+      "note": "Best Ten #7, 2010",
+      "won": false
+    },
+    {
+      "title": "The Hero Show",
+      "year": 2010,
+      "note": "Best Ten #8, 2010",
+      "won": false
+    },
+    {
+      "title": "Sketches of Kaitan City",
+      "year": 2010,
+      "note": "Best Ten #9, 2010",
+      "won": false
+    },
+    {
+      "title": "A Night In Nude: Salvation",
+      "year": 2010,
+      "note": "Best Ten #10, 2010",
+      "won": false
+    },
+    {
+      "title": "Postcard",
+      "year": 2010,
+      "note": "Best Ten #1, 2011",
+      "won": true
+    },
+    {
+      "title": "Someday",
+      "year": 2011,
+      "note": "Best Ten #2, 2011",
+      "won": false
+    },
+    {
+      "title": "Cold Fish",
+      "year": 2011,
+      "note": "Best Ten #3, 2011",
+      "won": false
+    },
+    {
+      "title": "Tada's Do-It-All House",
+      "year": 2011,
+      "note": "Best Ten #4, 2011",
+      "won": false
+    },
+    {
+      "title": "Rebirth",
+      "year": 2011,
+      "note": "Best Ten #5, 2011",
+      "won": false
+    },
+    {
+      "title": "Saudade",
+      "year": 2011,
+      "note": "Best Ten #6, 2011",
+      "won": false
+    },
+    {
+      "title": "Tokyo Park",
+      "year": 2011,
+      "note": "Best Ten #7, 2011",
+      "won": false
+    },
+    {
+      "title": "Love Strikes!",
+      "year": 2011,
+      "note": "Best Ten #7, 2011",
+      "won": false
+    },
+    {
+      "title": "My Back Page",
+      "year": 2011,
+      "note": "Best Ten #9, 2011",
+      "won": false
+    },
+    {
+      "title": "Phone Call to the Bar",
+      "year": 2011,
+      "note": "Best Ten #10, 2011",
+      "won": false
+    },
+    {
+      "title": "Our Homeland",
+      "year": 2012,
+      "note": "Best Ten #1, 2012",
+      "won": true
+    },
+    {
+      "title": "The Kirishima Thing",
+      "year": 2012,
+      "note": "Best Ten #2, 2012",
+      "won": false
+    },
+    {
+      "title": "Beyond Outrage",
+      "year": 2012,
+      "note": "Best Ten #3, 2012",
+      "won": false
+    },
+    {
+      "title": "The Terminal Trust",
+      "year": 2012,
+      "note": "Best Ten #4, 2012",
+      "won": false
+    },
+    {
+      "title": "The Drudgery Train",
+      "year": 2012,
+      "note": "Best Ten #5, 2012",
+      "won": false
+    },
+    {
+      "title": "Chronicle of My Mother",
+      "year": 2012,
+      "note": "Best Ten #6, 2012",
+      "won": false
+    },
+    {
+      "title": "The Cowards Who Looked to the Sky",
+      "year": 2012,
+      "note": "Best Ten #7, 2012",
+      "won": false
+    },
+    {
+      "title": "Key of Life",
+      "year": 2012,
+      "note": "Best Ten #8, 2012",
+      "won": false
+    },
+    {
+      "title": "The Land of Hope",
+      "year": 2012,
+      "note": "Best Ten #9, 2012",
+      "won": false
+    },
+    {
+      "title": "Dreams for Sale",
+      "year": 2012,
+      "note": "Best Ten #10, 2012",
+      "won": false
+    },
+    {
+      "title": "Pecoross' Mother and Her Days",
+      "year": 2013,
+      "note": "Best Ten #1, 2013",
+      "won": true
+    },
+    {
+      "title": "The Great Passage",
+      "year": 2013,
+      "note": "Best Ten #2, 2013",
+      "won": false
+    },
+    {
+      "title": "The Devil's Path",
+      "year": 2013,
+      "note": "Best Ten #3, 2013",
+      "won": false
+    },
+    {
+      "title": "The Tale of The Princess Kaguya",
+      "year": 2013,
+      "note": "Best Ten #4, 2013",
+      "won": false
+    },
+    {
+      "title": "Backwater",
+      "year": 2013,
+      "note": "Best Ten #5, 2013",
+      "won": false
+    },
+    {
+      "title": "Like Father, Like Son",
+      "year": 2013,
+      "note": "Best Ten #6, 2013",
+      "won": false
+    },
+    {
+      "title": "The Wind Rises",
+      "year": 2013,
+      "note": "Best Ten #7, 2013",
+      "won": false
+    },
+    {
+      "title": "The Ravine of Goodbye",
+      "year": 2013,
+      "note": "Best Ten #8, 2013",
+      "won": false
+    },
+    {
+      "title": "Tamako in Moratorium",
+      "year": 2013,
+      "note": "Best Ten #9, 2013",
+      "won": false
+    },
+    {
+      "title": "Flashback Memories 3D",
+      "year": 2012,
+      "note": "Best Ten #10, 2013",
+      "won": false
+    },
+    {
+      "title": "The Light Shines Only There",
+      "year": 2014,
+      "note": "Best Ten #1, 2014",
+      "won": true
+    },
+    {
+      "title": "0.5 mm",
+      "year": 2014,
+      "note": "Best Ten #2, 2014",
+      "won": false
+    },
+    {
+      "title": "Pale Moon",
+      "year": 2014,
+      "note": "Best Ten #3, 2014",
+      "won": false
+    },
+    {
+      "title": "Seven Weeks",
+      "year": 2014,
+      "note": "Best Ten #4, 2014",
+      "won": false
+    },
+    {
+      "title": "Our Family",
+      "year": 2014,
+      "note": "Best Ten #5, 2014",
+      "won": false
+    },
+    {
+      "title": "The Little House",
+      "year": 2014,
+      "note": "Best Ten #6, 2014",
+      "won": false
+    },
+    {
+      "title": "My Man",
+      "year": 2014,
+      "note": "Best Ten #7, 2014",
+      "won": false
+    },
+    {
+      "title": "100 Yen Love",
+      "year": 2014,
+      "note": "Best Ten #8, 2014",
+      "won": false
+    },
+    {
+      "title": "The Voice of Water",
+      "year": 2014,
+      "note": "Best Ten #9, 2014",
+      "won": false
+    },
+    {
+      "title": "The Tale of Nishino",
+      "year": 2014,
+      "note": "Best Ten #10, 2014",
+      "won": false
+    },
+    {
+      "title": "A Samurai Chronicle",
+      "year": 2014,
+      "note": "Best Ten #10, 2014",
+      "won": false
+    },
+    {
+      "title": "Three Stories of Love",
+      "year": 2015,
+      "note": "Best Ten #1, 2015",
+      "won": true
+    },
+    {
+      "title": "Fires on the Plain",
+      "year": 2015,
+      "note": "Best Ten #2, 2015",
+      "won": false
+    },
+    {
+      "title": "Happy Hour",
+      "year": 2015,
+      "note": "Best Ten #3, 2015",
+      "won": false
+    },
+    {
+      "title": "Our Little Sister",
+      "year": 2015,
+      "note": "Best Ten #4, 2015",
+      "won": false
+    },
+    {
+      "title": "Journey to the Shore",
+      "year": 2015,
+      "note": "Best Ten #5, 2015",
+      "won": false
+    },
+    {
+      "title": "Gonin Saga",
+      "year": 2015,
+      "note": "Best Ten #6, 2015",
+      "won": false
+    },
+    {
+      "title": "This Country's Sky",
+      "year": 2015,
+      "note": "Best Ten #7, 2015",
+      "won": false
+    },
+    {
+      "title": "Solomon's Perjury 1: Suspicion",
+      "year": 2015,
+      "note": "Best Ten #8, 2015",
+      "won": false
+    },
+    {
+      "title": "Nagasaki: Memories of My Son",
+      "year": 2015,
+      "note": "Best Ten #9, 2015",
+      "won": false
+    },
+    {
+      "title": "Being Good",
+      "year": 2015,
+      "note": "Best Ten #10, 2015",
+      "won": false
+    },
+    {
+      "title": "Rolling",
+      "year": 2015,
+      "note": "Best Ten #10, 2015",
+      "won": false
+    },
+    {
+      "title": "In This Corner of the World",
+      "year": 2016,
+      "note": "Best Ten #1, 2016",
+      "won": true
+    },
+    {
+      "title": "Shin Godzilla",
+      "year": 2016,
+      "note": "Best Ten #2, 2016",
+      "won": false
+    },
+    {
+      "title": "Harmonium",
+      "year": 2016,
+      "note": "Best Ten #3, 2016",
+      "won": false
+    },
+    {
+      "title": "Destruction Babies",
+      "year": 2016,
+      "note": "Best Ten #4, 2016",
+      "won": false
+    },
+    {
+      "title": "The Long Excuse",
+      "year": 2016,
+      "note": "Best Ten #5, 2016",
+      "won": false
+    },
+    {
+      "title": "A Bride for Rip Van Winkle",
+      "year": 2016,
+      "note": "Best Ten #6, 2016",
+      "won": false
+    },
+    {
+      "title": "Her Love Boils Bathwater",
+      "year": 2016,
+      "note": "Best Ten #7, 2016",
+      "won": false
+    },
+    {
+      "title": "Creepy",
+      "year": 2016,
+      "note": "Best Ten #8, 2016",
+      "won": false
+    },
+    {
+      "title": "Over the Fence",
+      "year": 2016,
+      "note": "Best Ten #9, 2016",
+      "won": false
+    },
+    {
+      "title": "Rage",
+      "year": 2016,
+      "note": "Best Ten #10, 2016",
+      "won": false
+    },
+    {
+      "title": "The Tokyo Night Sky Is Always the Densest Shade of Blue",
+      "year": 2017,
+      "note": "Best Ten #1, 2017",
+      "won": true
+    },
+    {
+      "title": "Hanagatami",
+      "year": 2017,
+      "note": "Best Ten #2, 2017",
+      "won": false
+    },
+    {
+      "title": "Wilderness: Part 1",
+      "year": 2017,
+      "note": "Best Ten #3, 2017",
+      "won": false
+    },
+    {
+      "title": "Dear Etranger",
+      "year": 2017,
+      "note": "Best Ten #4, 2017",
+      "won": false
+    },
+    {
+      "title": "Before We Vanish",
+      "year": 2017,
+      "note": "Best Ten #5, 2017",
+      "won": false
+    },
+    {
+      "title": "Bangkok Nites",
+      "year": 2016,
+      "note": "Best Ten #6, 2017",
+      "won": false
+    },
+    {
+      "title": "Side Job",
+      "year": 2017,
+      "note": "Best Ten #7, 2017",
+      "won": false
+    },
+    {
+      "title": "The Third Murder",
+      "year": 2017,
+      "note": "Best Ten #8, 2017",
+      "won": false
+    },
+    {
+      "title": "Birds Without Names",
+      "year": 2017,
+      "note": "Best Ten #9, 2017",
+      "won": false
+    },
+    {
+      "title": "Close-Knit",
+      "year": 2017,
+      "note": "Best Ten #10, 2017",
+      "won": false
+    },
+    {
+      "title": "Shoplifters",
+      "year": 2018,
+      "note": "Best Ten #1, 2018",
+      "won": true
+    },
+    {
+      "title": "The Chrysanthemum and the Guillotine",
+      "year": 2018,
+      "note": "Best Ten #2, 2018",
+      "won": false
+    },
+    {
+      "title": "And Your Bird Can Sing",
+      "year": 2018,
+      "note": "Best Ten #3, 2018",
+      "won": false
+    },
+    {
+      "title": "Asako I & II",
+      "year": 2018,
+      "note": "Best Ten #4, 2018",
+      "won": false
+    },
+    {
+      "title": "The Blood of Wolves",
+      "year": 2018,
+      "note": "Best Ten #5, 2018",
+      "won": false
+    },
+    {
+      "title": "Lying to Mom",
+      "year": 2018,
+      "note": "Best Ten #6, 2018",
+      "won": false
+    },
+    {
+      "title": "Killing",
+      "year": 2018,
+      "note": "Best Ten #7, 2018",
+      "won": false
+    },
+    {
+      "title": "My Friend \"A\"",
+      "year": 2018,
+      "note": "Best Ten #8, 2018",
+      "won": false
+    },
+    {
+      "title": "Every Day a Good Day",
+      "year": 2018,
+      "note": "Best Ten #9, 2018",
+      "won": false
+    },
+    {
+      "title": "The Chaplain",
+      "year": 2018,
+      "note": "Best Ten #10, 2018",
+      "won": false
+    },
+    {
+      "title": "It Feels So Good",
+      "year": 2019,
+      "note": "Best Ten #1, 2019",
+      "won": true
+    },
+    {
+      "title": "Another World",
+      "year": 2018,
+      "note": "Best Ten #2, 2019",
+      "won": false
+    },
+    {
+      "title": "From Miyamoto to You",
+      "year": 2019,
+      "note": "Best Ten #3, 2019",
+      "won": false
+    },
+    {
+      "title": "A Girl Missing",
+      "year": 2019,
+      "note": "Best Ten #4, 2019",
+      "won": false
+    },
+    {
+      "title": "Listen to the Universe",
+      "year": 2019,
+      "note": "Best Ten #5, 2019",
+      "won": false
+    },
+    {
+      "title": "Farewell Song",
+      "year": 2019,
+      "note": "Best Ten #6, 2019",
+      "won": false
+    },
+    {
+      "title": "One Night",
+      "year": 2019,
+      "note": "Best Ten #7, 2019",
+      "won": false
+    },
+    {
+      "title": "What Is Love?",
+      "year": 2019,
+      "note": "Best Ten #8, 2019",
+      "won": false
+    },
+    {
+      "title": "Randen: The Comings and Goings on a Kyoto Tram",
+      "year": 2019,
+      "note": "Best Ten #9, 2019",
+      "won": false
+    },
+    {
+      "title": "To the Ends of the Earth",
+      "year": 2019,
+      "note": "Best Ten #10, 2019",
+      "won": false
+    },
+    {
+      "title": "Wife of a Spy",
+      "year": 2020,
+      "note": "Best Ten #1, 2020",
+      "won": true
+    },
+    {
+      "title": "Labyrinth of Cinema",
+      "year": 2020,
+      "note": "Best Ten #2, 2020",
+      "won": false
+    },
+    {
+      "title": "True Mothers",
+      "year": 2020,
+      "note": "Best Ten #3, 2020",
+      "won": false
+    },
+    {
+      "title": "Underdog: Part One",
+      "year": 2020,
+      "note": "Best Ten #4, 2020",
+      "won": false
+    },
+    {
+      "title": "The Real Thing",
+      "year": 2020,
+      "note": "Best Ten #5, 2020",
+      "won": false
+    },
+    {
+      "title": "37 Seconds",
+      "year": 2019,
+      "note": "Best Ten #6, 2020",
+      "won": false
+    },
+    {
+      "title": "The Voice of Sin",
+      "year": 2020,
+      "note": "Best Ten #7, 2020",
+      "won": false
+    },
+    {
+      "title": "A Beloved Wife",
+      "year": 2019,
+      "note": "Best Ten #8, 2020",
+      "won": false
+    },
+    {
+      "title": "Living in the Sky",
+      "year": 2020,
+      "note": "Best Ten #9, 2020",
+      "won": false
+    },
+    {
+      "title": "On the Edge of Their Seats",
+      "year": 2020,
+      "note": "Best Ten #10, 2020",
+      "won": false
+    },
+    {
+      "title": "Drive My Car",
+      "year": 2021,
+      "note": "Best Ten #1, 2021",
+      "won": true
+    },
+    {
+      "title": "A Madder Red",
+      "year": 2021,
+      "note": "Best Ten #2, 2021",
+      "won": false
+    },
+    {
+      "title": "Wheel of Fortune and Fantasy",
+      "year": 2021,
+      "note": "Best Ten #3, 2021",
+      "won": false
+    },
+    {
+      "title": "Under the Open Sky",
+      "year": 2021,
+      "note": "Best Ten #4, 2021",
+      "won": false
+    },
+    {
+      "title": "Minamata Mandala",
+      "year": 2021,
+      "note": "Best Ten #5, 2021",
+      "won": false
+    },
+    {
+      "title": "Aristocrats",
+      "year": 2021,
+      "note": "Best Ten #6, 2021",
+      "won": false
+    },
+    {
+      "title": "Intolerance",
+      "year": 2021,
+      "note": "Best Ten #7, 2021",
+      "won": false
+    },
+    {
+      "title": "A Balance",
+      "year": 2021,
+      "note": "Best Ten #8, 2021",
+      "won": false
+    },
+    {
+      "title": "Ito",
+      "year": 2021,
+      "note": "Best Ten #9, 2021",
+      "won": false
+    },
+    {
+      "title": "We Made a Beautiful Bouquet",
+      "year": 2021,
+      "note": "Best Ten #10, 2021",
+      "won": false
+    },
+    {
+      "title": "Small, Slow But Steady",
+      "year": 2022,
+      "note": "Best Ten #1, 2022",
+      "won": true
+    },
+    {
+      "title": "A Man",
+      "year": 2022,
+      "note": "Best Ten #2, 2022",
+      "won": false
+    },
+    {
+      "title": "No Place to Go",
+      "year": 2022,
+      "note": "Best Ten #3, 2022",
+      "won": false
+    },
+    {
+      "title": "Amiko",
+      "year": 2022,
+      "note": "Best Ten #4, 2022",
+      "won": false
+    },
+    {
+      "title": "Winter Rose",
+      "year": 2022,
+      "note": "Best Ten #5, 2022",
+      "won": false
+    },
+    {
+      "title": "The Zen Diary",
+      "year": 2022,
+      "note": "Best Ten #6, 2022",
+      "won": false
+    },
+    {
+      "title": "Anime Supremacy!",
+      "year": 2022,
+      "note": "Best Ten #6, 2022",
+      "won": false
+    },
+    {
+      "title": "Plan 75",
+      "year": 2022,
+      "note": "Best Ten #6, 2022",
+      "won": false
+    },
+    {
+      "title": "Missing",
+      "year": 2022,
+      "note": "Best Ten #9, 2022",
+      "won": false
+    },
+    {
+      "title": "Thousand and One Nights",
+      "year": 2022,
+      "note": "Best Ten #9, 2022",
+      "won": false
+    },
+    {
+      "title": "Okiku and the World",
+      "year": 2023,
+      "note": "Best Ten #1, 2023",
+      "won": true
+    },
+    {
+      "title": "Perfect Days",
+      "year": 2023,
+      "note": "Best Ten #2, 2023",
+      "won": false
+    },
+    {
+      "title": "Shadow of Fire",
+      "year": 2023,
+      "note": "Best Ten #3, 2023",
+      "won": false
+    },
+    {
+      "title": "September 1923",
+      "year": 2023,
+      "note": "Best Ten #4, 2023",
+      "won": false
+    },
+    {
+      "title": "The Moon",
+      "year": 2023,
+      "note": "Best Ten #5, 2023",
+      "won": false
+    },
+    {
+      "title": "A Spoiling Rain",
+      "year": 2023,
+      "note": "Best Ten #6, 2023",
+      "won": false
+    },
+    {
+      "title": "Monster",
+      "year": 2023,
+      "note": "Best Ten #7, 2023",
+      "won": false
+    },
+    {
+      "title": "Godzilla Minus One",
+      "year": 2023,
+      "note": "Best Ten #8, 2023",
+      "won": false
+    },
+    {
+      "title": "The Boy and the Heron",
+      "year": 2023,
+      "note": "Best Ten #9, 2023",
+      "won": false
+    },
+    {
+      "title": "Picture of Spring",
+      "year": 2023,
+      "note": "Best Ten #10, 2023",
+      "won": false
+    },
+    {
+      "title": "All the Long Nights",
+      "year": 2024,
+      "note": "Best Ten #1, 2024",
+      "won": true
+    },
+    {
+      "title": "Desert of Namibia",
+      "year": 2024,
+      "note": "Best Ten #2, 2024",
+      "won": false
+    },
+    {
+      "title": "Evil Does Not Exist",
+      "year": 2023,
+      "note": "Best Ten #3, 2024",
+      "won": false
+    },
+    {
+      "title": "Cloud",
+      "year": 2024,
+      "note": "Best Ten #4, 2024",
+      "won": false
+    },
+    {
+      "title": "My Sunshine",
+      "year": 2024,
+      "note": "Best Ten #4, 2024",
+      "won": false
+    },
+    {
+      "title": "Living in Two Worlds",
+      "year": 2024,
+      "note": "Best Ten #6, 2024",
+      "won": false
+    },
+    {
+      "title": "Look Back",
+      "year": 2024,
+      "note": "Best Ten #7, 2024",
+      "won": false
+    },
+    {
+      "title": "Hijacked Youth – Dare To Stop Us 2",
+      "year": 2024,
+      "note": "Best Ten #8, 2024",
+      "won": false
+    },
+    {
+      "title": "Last Mile",
+      "year": 2024,
+      "note": "Best Ten #9, 2024",
+      "won": false
+    },
+    {
+      "title": "A Girl Named Ann",
+      "year": 2024,
+      "note": "Best Ten #10, 2024",
+      "won": false
+    }
+  ]
+}

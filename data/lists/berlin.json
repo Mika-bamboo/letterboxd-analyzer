@@ -1,0 +1,2221 @@
+{
+  "id": "berlin",
+  "name": "Berlinale — Major Awards",
+  "category": "festival",
+  "entries": [
+    {
+      "title": "Cinderella",
+      "year": 1950,
+      "note": "Golden Bear, 1951",
+      "won": true
+    },
+    {
+      "title": "In Beaver Valley",
+      "year": 1950,
+      "note": "Golden Bear, 1951",
+      "won": true
+    },
+    {
+      "title": "Justice Is Done",
+      "year": 1950,
+      "note": "Golden Bear, 1951",
+      "won": true
+    },
+    {
+      "title": "Four in a Jeep",
+      "year": 1951,
+      "note": "Golden Bear, 1951",
+      "won": true
+    },
+    {
+      "title": "One Summer of Happiness",
+      "year": 1951,
+      "note": "Golden Bear, 1952",
+      "won": true
+    },
+    {
+      "title": "Without Leaving an Address",
+      "year": 1951,
+      "note": "Golden Bear, 1951",
+      "won": true
+    },
+    {
+      "title": "The Wages of Fear",
+      "year": 1953,
+      "note": "Golden Bear, 1953",
+      "won": true
+    },
+    {
+      "title": "Hobson's Choice",
+      "year": 1954,
+      "note": "Golden Bear, 1954",
+      "won": true
+    },
+    {
+      "title": "Die Ratten",
+      "year": 1955,
+      "note": "Golden Bear, 1955",
+      "won": true
+    },
+    {
+      "title": "Autumn Leaves",
+      "year": 1956,
+      "note": "Silver Bear for Best Director, 1956",
+      "won": true
+    },
+    {
+      "title": "Donatella",
+      "year": 1956,
+      "note": "Silver Bear for Best Actress (Elsa Martinelli), 1956",
+      "won": true
+    },
+    {
+      "title": "Invitation to the Dance",
+      "year": 1956,
+      "note": "Golden Bear, 1956",
+      "won": true
+    },
+    {
+      "title": "Trapeze",
+      "year": 1956,
+      "note": "Silver Bear for Best Actor (Burt Lancaster), 1956",
+      "won": true
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "note": "Golden Bear, 1957",
+      "won": true
+    },
+    {
+      "title": "Fathers and Sons",
+      "year": 1957,
+      "note": "Silver Bear for Best Director, 1957",
+      "won": true
+    },
+    {
+      "title": "Jun'ai Monogatari",
+      "year": 1957,
+      "note": "Silver Bear for Best Director, 1958",
+      "won": true
+    },
+    {
+      "title": "Tizoc",
+      "year": 1957,
+      "note": "Silver Bear for Best Actor (Pedro Infante), 1957",
+      "won": true
+    },
+    {
+      "title": "Wild Is the Wind",
+      "year": 1957,
+      "note": "Silver Bear for Best Actress (Anna Magnani), 1958",
+      "won": true
+    },
+    {
+      "title": "Wild Strawberries",
+      "year": 1957,
+      "note": "Golden Bear, 1958",
+      "won": true
+    },
+    {
+      "title": "Woman in a Dressing Gown",
+      "year": 1957,
+      "note": "Silver Bear for Best Actress (Yvonne Mitchell), 1957",
+      "won": true
+    },
+    {
+      "title": "The Defiant Ones",
+      "year": 1958,
+      "note": "Silver Bear for Best Actor (Sidney Poitier), 1958",
+      "won": true
+    },
+    {
+      "title": "The Hidden Fortress",
+      "year": 1958,
+      "note": "Silver Bear for Best Director, 1959",
+      "won": true
+    },
+    {
+      "title": "Archimède le clochard",
+      "year": 1959,
+      "note": "Silver Bear for Best Actor (Jean Gabin), 1959",
+      "won": true
+    },
+    {
+      "title": "Ask Any Girl",
+      "year": 1959,
+      "note": "Silver Bear for Best Actress (Shirley MacLaine), 1959",
+      "won": true
+    },
+    {
+      "title": "El Lazarillo de Tormes",
+      "year": 1959,
+      "note": "Golden Bear, 1960",
+      "won": true
+    },
+    {
+      "title": "Les Cousins",
+      "year": 1959,
+      "note": "Golden Bear, 1959",
+      "won": true
+    },
+    {
+      "title": "Breathless",
+      "year": 1960,
+      "note": "Silver Bear for Best Director, 1960",
+      "won": true
+    },
+    {
+      "title": "Inherit The Wind",
+      "year": 1960,
+      "note": "Silver Bear for Best Actor (Fredric March), 1960",
+      "won": true
+    },
+    {
+      "title": "The Fair",
+      "year": 1960,
+      "note": "Silver Bear for Best Actress (Juliette Mayniel), 1960",
+      "won": true
+    },
+    {
+      "title": "A Woman Is a Woman",
+      "year": 1961,
+      "note": "Silver Bear for Best Actress (Anna Karina), 1961",
+      "won": true
+    },
+    {
+      "title": "La Notte",
+      "year": 1961,
+      "note": "Golden Bear, 1961",
+      "won": true
+    },
+    {
+      "title": "No Love for Johnnie",
+      "year": 1961,
+      "note": "Silver Bear for Best Actor (Peter Finch), 1961",
+      "won": true
+    },
+    {
+      "title": "The Miracle of Father Malachia",
+      "year": 1961,
+      "note": "Silver Bear for Best Director, 1961",
+      "won": true
+    },
+    {
+      "title": "A Kind of Loving",
+      "year": 1962,
+      "note": "Golden Bear, 1962",
+      "won": true
+    },
+    {
+      "title": "Mr. Hobbs Takes a Vacation",
+      "year": 1962,
+      "note": "Silver Bear for Best Actor (James Stewart), 1962",
+      "won": true
+    },
+    {
+      "title": "No Exit",
+      "year": 1962,
+      "note": "Silver Bear for Best Actress (Rita Gam, Viveca Lindfors), 1962",
+      "won": true
+    },
+    {
+      "title": "Salvatore Giuliano",
+      "year": 1962,
+      "note": "Silver Bear for Best Director, 1962",
+      "won": true
+    },
+    {
+      "title": "The Mistress",
+      "year": 1962,
+      "note": "Silver Bear for Best Actress (Bibi Andersson), 1963",
+      "won": true
+    },
+    {
+      "title": "Bushido, Samurai Saga",
+      "year": 1963,
+      "note": "Golden Bear, 1963",
+      "won": true
+    },
+    {
+      "title": "Lilies of the Field",
+      "year": 1963,
+      "note": "Silver Bear for Best Actor (Sidney Poitier), 1963",
+      "won": true
+    },
+    {
+      "title": "Mahanagar",
+      "year": 1963,
+      "note": "Silver Bear for Best Director, 1964",
+      "won": true
+    },
+    {
+      "title": "She and He",
+      "year": 1963,
+      "note": "Silver Bear for Best Actress (Sachiko Hidari), 1964",
+      "won": true
+    },
+    {
+      "title": "The Insect Woman",
+      "year": 1963,
+      "note": "Silver Bear for Best Actress (Sachiko Hidari), 1964",
+      "won": true
+    },
+    {
+      "title": "To Bed or Not to Bed",
+      "year": 1963,
+      "note": "Golden Bear, 1963",
+      "won": true
+    },
+    {
+      "title": "Young Aphrodites",
+      "year": 1963,
+      "note": "Silver Bear for Best Director, 1963",
+      "won": true
+    },
+    {
+      "title": "Charulata",
+      "year": 1964,
+      "note": "Silver Bear for Best Director, 1965",
+      "won": true
+    },
+    {
+      "title": "Dry Summer",
+      "year": 1964,
+      "note": "Golden Bear, 1964",
+      "won": true
+    },
+    {
+      "title": "The Pawnbroker",
+      "year": 1964,
+      "note": "Silver Bear for Best Actor (Rod Steiger), 1964",
+      "won": true
+    },
+    {
+      "title": "Alphaville",
+      "year": 1965,
+      "note": "Golden Bear, 1965",
+      "won": true
+    },
+    {
+      "title": "Cat Ballou",
+      "year": 1965,
+      "note": "Silver Bear for Best Actor (Lee Marvin), 1965",
+      "won": true
+    },
+    {
+      "title": "Le Bonheur",
+      "year": 1965,
+      "note": "Silver Bear Grand Jury Prize, 1965",
+      "won": true
+    },
+    {
+      "title": "Repulsion",
+      "year": 1965,
+      "note": "Silver Bear Grand Jury Prize, 1965",
+      "won": true
+    },
+    {
+      "title": "Shakespeare Wallah",
+      "year": 1965,
+      "note": "Silver Bear for Best Actress (Madhur Jaffrey), 1965",
+      "won": true
+    },
+    {
+      "title": "The Chasers",
+      "year": 1965,
+      "note": "Silver Bear Grand Jury Prize, 1966",
+      "won": true
+    },
+    {
+      "title": "Cul-de-Sac",
+      "year": 1966,
+      "note": "Golden Bear, 1966",
+      "won": true
+    },
+    {
+      "title": "Lord Love a Duck",
+      "year": 1966,
+      "note": "Silver Bear for Best Actress (Lola Albright), 1966",
+      "won": true
+    },
+    {
+      "title": "Masculin Féminin",
+      "year": 1966,
+      "note": "Silver Bear for Best Actor (Jean-Pierre Léaud), 1966",
+      "won": true
+    },
+    {
+      "title": "No Shooting Time for Foxes",
+      "year": 1966,
+      "note": "Silver Bear Grand Jury Prize, 1966",
+      "won": true
+    },
+    {
+      "title": "The Hunt",
+      "year": 1966,
+      "note": "Silver Bear for Best Director, 1966",
+      "won": true
+    },
+    {
+      "title": "Commissar",
+      "year": 1967,
+      "note": "Silver Bear Grand Jury Prize, 1988",
+      "won": true
+    },
+    {
+      "title": "La Collectionneuse",
+      "year": 1967,
+      "note": "Silver Bear Grand Jury Prize, 1967",
+      "won": true
+    },
+    {
+      "title": "Le Départ",
+      "year": 1967,
+      "note": "Golden Bear, 1967",
+      "won": true
+    },
+    {
+      "title": "Next Year, Same Time",
+      "year": 1967,
+      "note": "Silver Bear Grand Jury Prize, 1967",
+      "won": true
+    },
+    {
+      "title": "Peppermint Frappé",
+      "year": 1967,
+      "note": "Silver Bear for Best Director, 1968",
+      "won": true
+    },
+    {
+      "title": "The Rats Woke Up",
+      "year": 1967,
+      "note": "Silver Bear for Best Director, 1967",
+      "won": true
+    },
+    {
+      "title": "The Two of Us",
+      "year": 1967,
+      "note": "Silver Bear for Best Actor (Michel Simon), 1967",
+      "won": true
+    },
+    {
+      "title": "The Whisperers",
+      "year": 1967,
+      "note": "Silver Bear for Best Actress (Edith Evans), 1967",
+      "won": true
+    },
+    {
+      "title": "Innocence Unprotected",
+      "year": 1968,
+      "note": "Silver Bear Grand Jury Prize, 1968",
+      "won": true
+    },
+    {
+      "title": "Les Biches",
+      "year": 1968,
+      "note": "Silver Bear for Best Actress (Stéphane Audran), 1968",
+      "won": true
+    },
+    {
+      "title": "Signs of Life",
+      "year": 1968,
+      "note": "Silver Bear Grand Jury Prize, 1968",
+      "won": true
+    },
+    {
+      "title": "Something Like Love",
+      "year": 1968,
+      "note": "Silver Bear Grand Jury Prize, 1968",
+      "won": true
+    },
+    {
+      "title": "The Man Who Lies",
+      "year": 1968,
+      "note": "Silver Bear for Best Actor (Jean-Louis Trintignant), 1968",
+      "won": true
+    },
+    {
+      "title": "Who Saw Him Die?",
+      "year": 1968,
+      "note": "Golden Bear, 1968",
+      "won": true
+    },
+    {
+      "title": "Early Works",
+      "year": 1969,
+      "note": "Golden Bear, 1969",
+      "won": true
+    },
+    {
+      "title": "The Garden of the Finzi-Continis",
+      "year": 1970,
+      "note": "Golden Bear, 1971",
+      "won": true
+    },
+    {
+      "title": "Desperate Characters",
+      "year": 1971,
+      "note": "Silver Bear for Best Actress (Shirley MacLaine), 1971",
+      "won": true
+    },
+    {
+      "title": "In Prison Awaiting Trial",
+      "year": 1971,
+      "note": "Silver Bear for Best Actor (Alberto Sordi), 1972",
+      "won": true
+    },
+    {
+      "title": "Le Chat",
+      "year": 1971,
+      "note": "Silver Bear for Best Actor (Jean Gabin), 1971; Silver Bear for Best Actress (Simone Signoret), 1971",
+      "won": true
+    },
+    {
+      "title": "The Decameron",
+      "year": 1971,
+      "note": "Silver Bear Grand Jury Prize, 1971",
+      "won": true
+    },
+    {
+      "title": "The Hospital",
+      "year": 1971,
+      "note": "Silver Bear Grand Jury Prize, 1972",
+      "won": true
+    },
+    {
+      "title": "Hammersmith Is Out",
+      "year": 1972,
+      "note": "Silver Bear for Best Actress (Elizabeth Taylor), 1972",
+      "won": true
+    },
+    {
+      "title": "The Canterbury Tales",
+      "year": 1972,
+      "note": "Golden Bear, 1972",
+      "won": true
+    },
+    {
+      "title": "The Old Maid",
+      "year": 1972,
+      "note": "Silver Bear for Best Director, 1972",
+      "won": true
+    },
+    {
+      "title": "Distant Thunder",
+      "year": 1973,
+      "note": "Golden Bear, 1973",
+      "won": true
+    },
+    {
+      "title": "There's No Smoke Without Fire",
+      "year": 1973,
+      "note": "Silver Bear Grand Jury Prize, 1973",
+      "won": true
+    },
+    {
+      "title": "Jacob the Liar",
+      "year": 1974,
+      "note": "Silver Bear for Best Actor (Vlastimil Brodský), 1975",
+      "won": true
+    },
+    {
+      "title": "Sandakan No. 8",
+      "year": 1974,
+      "note": "Silver Bear for Best Actress (Kinuyo Tanaka), 1975",
+      "won": true
+    },
+    {
+      "title": "The Apprenticeship of Duddy Kravitz",
+      "year": 1974,
+      "note": "Golden Bear, 1974",
+      "won": true
+    },
+    {
+      "title": "The Clockmaker",
+      "year": 1974,
+      "note": "Silver Bear Grand Jury Prize, 1974",
+      "won": true
+    },
+    {
+      "title": "Adoption",
+      "year": 1975,
+      "note": "Golden Bear, 1975",
+      "won": true
+    },
+    {
+      "title": "Nights and Days",
+      "year": 1975,
+      "note": "Silver Bear for Best Actress (Jadwiga Barańska), 1976",
+      "won": true
+    },
+    {
+      "title": "One Hundred Days After Childhood",
+      "year": 1975,
+      "note": "Silver Bear for Best Director, 1975",
+      "won": true
+    },
+    {
+      "title": "Overlord",
+      "year": 1975,
+      "note": "Silver Bear Grand Jury Prize, 1975",
+      "won": true
+    },
+    {
+      "title": "The Common Man",
+      "year": 1975,
+      "note": "Silver Bear Grand Jury Prize, 1975",
+      "won": true
+    },
+    {
+      "title": "A Lost Life",
+      "year": 1976,
+      "note": "Silver Bear for Best Actor (Gerhard Olschewski), 1976",
+      "won": true
+    },
+    {
+      "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+      "year": 1976,
+      "note": "Golden Bear, 1976",
+      "won": true
+    },
+    {
+      "title": "Canoa: A Shameful Memory",
+      "year": 1976,
+      "note": "Silver Bear Grand Jury Prize, 1976",
+      "won": true
+    },
+    {
+      "title": "Caro Michele",
+      "year": 1976,
+      "note": "Silver Bear for Best Director, 1976",
+      "won": true
+    },
+    {
+      "title": "Advantage",
+      "year": 1977,
+      "note": "Silver Bear for Best Director, 1978",
+      "won": true
+    },
+    {
+      "title": "Black Litter",
+      "year": 1977,
+      "note": "Silver Bear for Best Director, 1977",
+      "won": true
+    },
+    {
+      "title": "Opening Night",
+      "year": 1977,
+      "note": "Silver Bear for Best Actress (Gena Rowlands), 1978",
+      "won": true
+    },
+    {
+      "title": "Outrageous!",
+      "year": 1977,
+      "note": "Silver Bear for Best Actor (Craig Russell), 1978",
+      "won": true
+    },
+    {
+      "title": "The Anchorite",
+      "year": 1977,
+      "note": "Silver Bear for Best Actor (Fernando Fernán Gómez), 1977",
+      "won": true
+    },
+    {
+      "title": "The Ascent",
+      "year": 1977,
+      "note": "Golden Bear, 1977",
+      "won": true
+    },
+    {
+      "title": "The Devil, Probably",
+      "year": 1977,
+      "note": "Silver Bear Grand Jury Prize, 1977",
+      "won": true
+    },
+    {
+      "title": "The Late Show",
+      "year": 1977,
+      "note": "Silver Bear for Best Actress (Lily Tomlin), 1977",
+      "won": true
+    },
+    {
+      "title": "A Queda",
+      "year": 1978,
+      "note": "Silver Bear Grand Jury Prize, 1978",
+      "won": true
+    },
+    {
+      "title": "Ascensor",
+      "year": 1978,
+      "note": "Golden Bear, 1978",
+      "won": true
+    },
+    {
+      "title": "Ernesto",
+      "year": 1978,
+      "note": "Silver Bear for Best Actor (Michele Placido), 1979",
+      "won": true
+    },
+    {
+      "title": "Las truchas",
+      "year": 1978,
+      "note": "Golden Bear, 1978",
+      "won": true
+    },
+    {
+      "title": "What Max Said",
+      "year": 1978,
+      "note": "Golden Bear, 1978",
+      "won": true
+    },
+    {
+      "title": "Winterborn",
+      "year": 1978,
+      "note": "Silver Bear for Best Director, 1979",
+      "won": true
+    },
+    {
+      "title": "Alexandria... Why?",
+      "year": 1979,
+      "note": "Silver Bear Grand Jury Prize, 1979",
+      "won": true
+    },
+    {
+      "title": "David",
+      "year": 1979,
+      "note": "Golden Bear, 1979",
+      "won": true
+    },
+    {
+      "title": "Heartland",
+      "year": 1979,
+      "note": "Golden Bear, 1980",
+      "won": true
+    },
+    {
+      "title": "Seeking Asylum",
+      "year": 1979,
+      "note": "Silver Bear Grand Jury Prize, 1980",
+      "won": true
+    },
+    {
+      "title": "The Marriage of Maria Braun",
+      "year": 1979,
+      "note": "Silver Bear for Best Actress (Hanna Schygulla), 1979",
+      "won": true
+    },
+    {
+      "title": "The Theme",
+      "year": 1979,
+      "note": "Golden Bear, 1987",
+      "won": true
+    },
+    {
+      "title": "Bizalom",
+      "year": 1980,
+      "note": "Silver Bear for Best Director, 1980",
+      "won": true
+    },
+    {
+      "title": "Palermo or Wolfsburg",
+      "year": 1980,
+      "note": "Golden Bear, 1980",
+      "won": true
+    },
+    {
+      "title": "Solo Sunny",
+      "year": 1980,
+      "note": "Silver Bear for Best Actress (Renate Krößner), 1980",
+      "won": true
+    },
+    {
+      "title": "The Orchestra Conductor",
+      "year": 1980,
+      "note": "Silver Bear for Best Actor (Andrzej Seweryn), 1980",
+      "won": true
+    },
+    {
+      "title": "Tribute",
+      "year": 1980,
+      "note": "Silver Bear for Best Actor (Jack Lemmon), 1981",
+      "won": true
+    },
+    {
+      "title": "Akaler Shandhaney",
+      "year": 1981,
+      "note": "Silver Bear Grand Jury Prize, 1981",
+      "won": true
+    },
+    {
+      "title": "Bürgschaft für ein Jahr",
+      "year": 1981,
+      "note": "Silver Bear for Best Actress (Katrin Sass), 1982",
+      "won": true
+    },
+    {
+      "title": "Deprisa, deprisa",
+      "year": 1981,
+      "note": "Golden Bear, 1981",
+      "won": true
+    },
+    {
+      "title": "Fever",
+      "year": 1981,
+      "note": "Silver Bear for Best Actress (Barbara Grabowska), 1981",
+      "won": true
+    },
+    {
+      "title": "Il Marchese del Grillo",
+      "year": 1981,
+      "note": "Silver Bear for Best Director, 1982",
+      "won": true
+    },
+    {
+      "title": "Shivers",
+      "year": 1981,
+      "note": "Silver Bear Grand Jury Prize, 1982",
+      "won": true
+    },
+    {
+      "title": "Strange Affair",
+      "year": 1981,
+      "note": "Silver Bear for Best Actor (Michel Piccoli), 1982",
+      "won": true
+    },
+    {
+      "title": "Twenty Six Days from the Life of Dostoyevsky",
+      "year": 1981,
+      "note": "Silver Bear for Best Actor (Anatoly Solonitsyn), 1981",
+      "won": true
+    },
+    {
+      "title": "La colmena",
+      "year": 1982,
+      "note": "Golden Bear, 1983",
+      "won": true
+    },
+    {
+      "title": "Love by Request",
+      "year": 1982,
+      "note": "Silver Bear for Best Actress (Yevgeniya Glushenko), 1983",
+      "won": true
+    },
+    {
+      "title": "That Championship Season",
+      "year": 1982,
+      "note": "Silver Bear for Best Actor (Bruce Dern), 1983",
+      "won": true
+    },
+    {
+      "title": "The Simple-Minded Murderer",
+      "year": 1982,
+      "note": "Silver Bear for Best Actor (Stellan Skarsgård), 1982",
+      "won": true
+    },
+    {
+      "title": "Veronika Voss",
+      "year": 1982,
+      "note": "Golden Bear, 1982",
+      "won": true
+    },
+    {
+      "title": "A Season in Hakkari",
+      "year": 1983,
+      "note": "Silver Bear Grand Jury Prize, 1983",
+      "won": true
+    },
+    {
+      "title": "Ascendancy",
+      "year": 1983,
+      "note": "Golden Bear, 1983",
+      "won": true
+    },
+    {
+      "title": "Funny Dirty Little War",
+      "year": 1983,
+      "note": "Silver Bear Grand Jury Prize, 1984",
+      "won": true
+    },
+    {
+      "title": "Le Bal",
+      "year": 1983,
+      "note": "Silver Bear for Best Director, 1984",
+      "won": true
+    },
+    {
+      "title": "Pauline at the Beach",
+      "year": 1983,
+      "note": "Silver Bear for Best Director, 1983",
+      "won": true
+    },
+    {
+      "title": "Rembetiko",
+      "year": 1983,
+      "note": "Silver Bear for Best Director, 1984",
+      "won": true
+    },
+    {
+      "title": "The Dresser",
+      "year": 1983,
+      "note": "Silver Bear for Best Actor (Albert Finney), 1984",
+      "won": true
+    },
+    {
+      "title": "Wartime Romance",
+      "year": 1983,
+      "note": "Silver Bear for Best Actress (Inna Churikova), 1984",
+      "won": true
+    },
+    {
+      "title": "Love Streams",
+      "year": 1984,
+      "note": "Golden Bear, 1984",
+      "won": true
+    },
+    {
+      "title": "Places in the Heart",
+      "year": 1984,
+      "note": "Silver Bear for Best Director, 1985",
+      "won": true
+    },
+    {
+      "title": "Wetherby",
+      "year": 1984,
+      "note": "Golden Bear, 1985",
+      "won": true
+    },
+    {
+      "title": "Flowers of Reverie",
+      "year": 1985,
+      "note": "Silver Bear Grand Jury Prize, 1985",
+      "won": true
+    },
+    {
+      "title": "Hour of the Star",
+      "year": 1985,
+      "note": "Silver Bear for Best Actress (Marcélia Cartaxo), 1986",
+      "won": true
+    },
+    {
+      "title": "Red Kiss",
+      "year": 1985,
+      "note": "Silver Bear for Best Actress (Charlotte Valandrey), 1986",
+      "won": true
+    },
+    {
+      "title": "Stico",
+      "year": 1985,
+      "note": "Silver Bear for Best Actor (Fernando Fernán Gómez), 1985",
+      "won": true
+    },
+    {
+      "title": "The Mass Is Ended",
+      "year": 1985,
+      "note": "Silver Bear Grand Jury Prize, 1986",
+      "won": true
+    },
+    {
+      "title": "The Woman and the Stranger",
+      "year": 1985,
+      "note": "Golden Bear, 1985",
+      "won": true
+    },
+    {
+      "title": "Wrong World",
+      "year": 1985,
+      "note": "Silver Bear for Best Actress (Jo Kennedy), 1985",
+      "won": true
+    },
+    {
+      "title": "Platoon",
+      "year": 1986,
+      "note": "Silver Bear for Best Director, 1987",
+      "won": true
+    },
+    {
+      "title": "Stammheim",
+      "year": 1986,
+      "note": "Golden Bear, 1986",
+      "won": true
+    },
+    {
+      "title": "The Journey of a Young Composer",
+      "year": 1986,
+      "note": "Silver Bear for Best Director, 1986",
+      "won": true
+    },
+    {
+      "title": "The Moro Affair",
+      "year": 1986,
+      "note": "Silver Bear for Best Actor (Gian Maria Volonté), 1987",
+      "won": true
+    },
+    {
+      "title": "The Sea and Poison",
+      "year": 1986,
+      "note": "Silver Bear Grand Jury Prize, 1987",
+      "won": true
+    },
+    {
+      "title": "The Smile of the Lamb",
+      "year": 1986,
+      "note": "Silver Bear for Best Actor (Tuncel Kurtiz), 1986",
+      "won": true
+    },
+    {
+      "title": "Vera",
+      "year": 1986,
+      "note": "Silver Bear for Best Actress (Ana Beatriz Nogueira), 1987",
+      "won": true
+    },
+    {
+      "title": "Broadcast News",
+      "year": 1987,
+      "note": "Silver Bear for Best Actress (Holly Hunter), 1988",
+      "won": true
+    },
+    {
+      "title": "Moonstruck",
+      "year": 1987,
+      "note": "Silver Bear for Best Director, 1988",
+      "won": true
+    },
+    {
+      "title": "Bear Ye One Another's Burden",
+      "year": 1988,
+      "note": "Silver Bear for Best Actor (Manfred Möck, Jörg Pose), 1988",
+      "won": true
+    },
+    {
+      "title": "Camille Claudel",
+      "year": 1988,
+      "note": "Silver Bear for Best Actress (Isabelle Adjani), 1989",
+      "won": true
+    },
+    {
+      "title": "Mississippi Burning",
+      "year": 1988,
+      "note": "Silver Bear for Best Actor (Gene Hackman), 1989",
+      "won": true
+    },
+    {
+      "title": "Rain Man",
+      "year": 1988,
+      "note": "Golden Bear, 1989",
+      "won": true
+    },
+    {
+      "title": "Red Sorghum",
+      "year": 1988,
+      "note": "Golden Bear, 1988",
+      "won": true
+    },
+    {
+      "title": "Evening Bell",
+      "year": 1989,
+      "note": "Silver Bear Grand Jury Prize, 1989",
+      "won": true
+    },
+    {
+      "title": "I Love, You Love",
+      "year": 1989,
+      "note": "Silver Bear for Best Director, 1989",
+      "won": true
+    },
+    {
+      "title": "Music Box",
+      "year": 1989,
+      "note": "Golden Bear, 1990",
+      "won": true
+    },
+    {
+      "title": "The Asthenic Syndrome",
+      "year": 1989,
+      "note": "Silver Bear Grand Jury Prize, 1990",
+      "won": true
+    },
+    {
+      "title": "Larks on a String",
+      "year": 1990,
+      "note": "Golden Bear, 1990",
+      "won": true
+    },
+    {
+      "title": "Mister Johnson",
+      "year": 1990,
+      "note": "Silver Bear for Best Actor (Maynard Eziashi), 1991",
+      "won": true
+    },
+    {
+      "title": "Silent Scream",
+      "year": 1990,
+      "note": "Silver Bear for Best Actor (Iain Glen), 1990",
+      "won": true
+    },
+    {
+      "title": "The Nasty Girl",
+      "year": 1990,
+      "note": "Silver Bear for Best Director, 1990",
+      "won": true
+    },
+    {
+      "title": "Grand Canyon",
+      "year": 1991,
+      "note": "Golden Bear, 1992",
+      "won": true
+    },
+    {
+      "title": "Il Capitano: A Swedish Requiem",
+      "year": 1991,
+      "note": "Silver Bear for Best Director, 1992",
+      "won": true
+    },
+    {
+      "title": "Lovers",
+      "year": 1991,
+      "note": "Silver Bear for Best Actress (Victoria Abril), 1991",
+      "won": true
+    },
+    {
+      "title": "Satan",
+      "year": 1991,
+      "note": "Silver Bear Grand Jury Prize, 1991",
+      "won": true
+    },
+    {
+      "title": "The Conviction",
+      "year": 1991,
+      "note": "Silver Bear Grand Jury Prize, 1991",
+      "won": true
+    },
+    {
+      "title": "The House of Smiles",
+      "year": 1991,
+      "note": "Golden Bear, 1991",
+      "won": true
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "note": "Silver Bear for Best Director, 1991",
+      "won": true
+    },
+    {
+      "title": "Ultra",
+      "year": 1991,
+      "note": "Silver Bear for Best Director, 1991",
+      "won": true
+    },
+    {
+      "title": "Center Stage",
+      "year": 1992,
+      "note": "Silver Bear for Best Actress (Maggie Cheung), 1992",
+      "won": true
+    },
+    {
+      "title": "Love Field",
+      "year": 1992,
+      "note": "Silver Bear for Best Actress (Michelle Pfeiffer), 1993",
+      "won": true
+    },
+    {
+      "title": "Malcolm X",
+      "year": 1992,
+      "note": "Silver Bear for Best Actor (Denzel Washington), 1993",
+      "won": true
+    },
+    {
+      "title": "Sweet Emma, Dear Böbe",
+      "year": 1992,
+      "note": "Silver Bear Grand Jury Prize, 1992",
+      "won": true
+    },
+    {
+      "title": "Utz",
+      "year": 1992,
+      "note": "Silver Bear for Best Actor (Armin Mueller-Stahl), 1992",
+      "won": true
+    },
+    {
+      "title": "Arizona Dream",
+      "year": 1993,
+      "note": "Silver Bear Grand Jury Prize, 1993",
+      "won": true
+    },
+    {
+      "title": "In the Name of the Father",
+      "year": 1993,
+      "note": "Golden Bear, 1994",
+      "won": true
+    },
+    {
+      "title": "Philadelphia",
+      "year": 1993,
+      "note": "Silver Bear for Best Actor (Tom Hanks), 1994",
+      "won": true
+    },
+    {
+      "title": "Strawberry and Chocolate",
+      "year": 1993,
+      "note": "Silver Bear Grand Jury Prize, 1994",
+      "won": true
+    },
+    {
+      "title": "The Cement Garden",
+      "year": 1993,
+      "note": "Silver Bear for Best Director, 1993",
+      "won": true
+    },
+    {
+      "title": "The Wedding Banquet",
+      "year": 1993,
+      "note": "Golden Bear, 1993",
+      "won": true
+    },
+    {
+      "title": "Woman Sesame Oil Maker",
+      "year": 1993,
+      "note": "Golden Bear, 1993",
+      "won": true
+    },
+    {
+      "title": "Ladybird, Ladybird",
+      "year": 1994,
+      "note": "Silver Bear for Best Actress (Crissy Rock), 1994",
+      "won": true
+    },
+    {
+      "title": "Nobody's Fool",
+      "year": 1994,
+      "note": "Silver Bear for Best Actor (Paul Newman), 1995",
+      "won": true
+    },
+    {
+      "title": "Three Colours: White",
+      "year": 1994,
+      "note": "Silver Bear for Best Director, 1994",
+      "won": true
+    },
+    {
+      "title": "All Things Fair",
+      "year": 1995,
+      "note": "Silver Bear Grand Jury Prize, 1996",
+      "won": true
+    },
+    {
+      "title": "Before Sunrise",
+      "year": 1995,
+      "note": "Silver Bear for Best Director, 1995",
+      "won": true
+    },
+    {
+      "title": "Dead Man Walking",
+      "year": 1995,
+      "note": "Silver Bear for Best Actor (Sean Penn), 1996",
+      "won": true
+    },
+    {
+      "title": "Richard III",
+      "year": 1995,
+      "note": "Silver Bear for Best Director, 1996",
+      "won": true
+    },
+    {
+      "title": "Sense and Sensibility",
+      "year": 1995,
+      "note": "Golden Bear, 1996",
+      "won": true
+    },
+    {
+      "title": "Smoke",
+      "year": 1995,
+      "note": "Silver Bear Grand Jury Prize, 1995",
+      "won": true
+    },
+    {
+      "title": "Summer Snow",
+      "year": 1995,
+      "note": "Silver Bear for Best Actress (Josephine Siao), 1995",
+      "won": true
+    },
+    {
+      "title": "The Bait",
+      "year": 1995,
+      "note": "Golden Bear, 1995",
+      "won": true
+    },
+    {
+      "title": "My Man",
+      "year": 1996,
+      "note": "Silver Bear for Best Actress (Anouk Grinberg), 1996",
+      "won": true
+    },
+    {
+      "title": "Romeo + Juliet",
+      "year": 1996,
+      "note": "Silver Bear for Best Actor (Leonardo DiCaprio), 1997",
+      "won": true
+    },
+    {
+      "title": "The English Patient",
+      "year": 1996,
+      "note": "Silver Bear for Best Actress (Juliette Binoche), 1997",
+      "won": true
+    },
+    {
+      "title": "The People vs. Larry Flynt",
+      "year": 1996,
+      "note": "Golden Bear, 1997",
+      "won": true
+    },
+    {
+      "title": "The Sun Has Ears",
+      "year": 1996,
+      "note": "Silver Bear for Best Director, 1996",
+      "won": true
+    },
+    {
+      "title": "Jackie Brown",
+      "year": 1997,
+      "note": "Silver Bear for Best Actor (Samuel L. Jackson), 1998",
+      "won": true
+    },
+    {
+      "title": "Port Djema",
+      "year": 1997,
+      "note": "Silver Bear for Best Director, 1997",
+      "won": true
+    },
+    {
+      "title": "The Butcher Boy",
+      "year": 1997,
+      "note": "Silver Bear for Best Director, 1998",
+      "won": true
+    },
+    {
+      "title": "The River",
+      "year": 1997,
+      "note": "Silver Bear Grand Jury Prize, 1997",
+      "won": true
+    },
+    {
+      "title": "Wag the Dog",
+      "year": 1997,
+      "note": "Silver Bear Grand Jury Prize, 1998",
+      "won": true
+    },
+    {
+      "title": "Central Station",
+      "year": 1998,
+      "note": "Golden Bear, 1998; Silver Bear for Best Actress (Fernanda Montenegro), 1998",
+      "won": true
+    },
+    {
+      "title": "The Hi-Lo Country",
+      "year": 1998,
+      "note": "Silver Bear for Best Director, 1999",
+      "won": true
+    },
+    {
+      "title": "The Thin Red Line",
+      "year": 1998,
+      "note": "Golden Bear, 1999",
+      "won": true
+    },
+    {
+      "title": "Aimée & Jaguar",
+      "year": 1999,
+      "note": "Silver Bear for Best Actress (Juliane Köhler, Maria Schrader), 1999",
+      "won": true
+    },
+    {
+      "title": "Magnolia",
+      "year": 1999,
+      "note": "Golden Bear, 2000",
+      "won": true
+    },
+    {
+      "title": "Man on the Moon",
+      "year": 1999,
+      "note": "Silver Bear for Best Director, 2000",
+      "won": true
+    },
+    {
+      "title": "Mifune's Last Song",
+      "year": 1999,
+      "note": "Silver Bear Grand Jury Prize, 1999",
+      "won": true
+    },
+    {
+      "title": "Nightshapes",
+      "year": 1999,
+      "note": "Silver Bear for Best Actor (Michael Gwisdek), 1999",
+      "won": true
+    },
+    {
+      "title": "The Hurricane",
+      "year": 1999,
+      "note": "Silver Bear for Best Actor (Denzel Washington), 2000",
+      "won": true
+    },
+    {
+      "title": "The Road Home",
+      "year": 1999,
+      "note": "Silver Bear Grand Jury Prize, 2000",
+      "won": true
+    },
+    {
+      "title": "The Legend of Rita",
+      "year": 2000,
+      "note": "Silver Bear for Best Actress (Bibiana Beglau, Nadja Uhl), 2000",
+      "won": true
+    },
+    {
+      "title": "Traffic",
+      "year": 2000,
+      "note": "Silver Bear for Best Actor (Benicio del Toro), 2001",
+      "won": true
+    },
+    {
+      "title": "Beijing Bicycle",
+      "year": 2001,
+      "note": "Silver Bear Grand Jury Prize, 2001",
+      "won": true
+    },
+    {
+      "title": "Betelnut Beauty",
+      "year": 2001,
+      "note": "Silver Bear for Best Director, 2001",
+      "won": true
+    },
+    {
+      "title": "Intimacy",
+      "year": 2001,
+      "note": "Golden Bear, 2001; Silver Bear for Best Actress (Kerry Fox), 2001",
+      "won": true
+    },
+    {
+      "title": "Monster's Ball",
+      "year": 2001,
+      "note": "Silver Bear for Best Actress (Halle Berry), 2002",
+      "won": true
+    },
+    {
+      "title": "Spirited Away",
+      "year": 2001,
+      "note": "Golden Bear, 2002",
+      "won": true
+    },
+    {
+      "title": "Adaptation",
+      "year": 2002,
+      "note": "Silver Bear Grand Jury Prize, 2003",
+      "won": true
+    },
+    {
+      "title": "Bloody Sunday",
+      "year": 2002,
+      "note": "Golden Bear, 2002",
+      "won": true
+    },
+    {
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2002,
+      "note": "Silver Bear for Best Actor (Sam Rockwell), 2003",
+      "won": true
+    },
+    {
+      "title": "Grill Point",
+      "year": 2002,
+      "note": "Silver Bear Grand Jury Prize, 2002",
+      "won": true
+    },
+    {
+      "title": "In This World",
+      "year": 2002,
+      "note": "Golden Bear, 2003",
+      "won": true
+    },
+    {
+      "title": "Monday Morning",
+      "year": 2002,
+      "note": "Silver Bear for Best Director, 2002",
+      "won": true
+    },
+    {
+      "title": "Safe Conduct",
+      "year": 2002,
+      "note": "Silver Bear for Best Actor (Jacques Gamblin), 2002",
+      "won": true
+    },
+    {
+      "title": "The Hours",
+      "year": 2002,
+      "note": "Silver Bear for Best Actress (Nicole Kidman, Julianne Moore, Meryl Streep), 2003",
+      "won": true
+    },
+    {
+      "title": "Lost Embrace",
+      "year": 2003,
+      "note": "Silver Bear Grand Jury Prize, 2004; Silver Bear for Best Actor (Daniel Hendler), 2004",
+      "won": true
+    },
+    {
+      "title": "Monster",
+      "year": 2003,
+      "note": "Silver Bear for Best Actress (Charlize Theron), 2004",
+      "won": true
+    },
+    {
+      "title": "Son frère",
+      "year": 2003,
+      "note": "Silver Bear for Best Director, 2003",
+      "won": true
+    },
+    {
+      "title": "Head-On",
+      "year": 2004,
+      "note": "Golden Bear, 2004",
+      "won": true
+    },
+    {
+      "title": "Maria Full of Grace",
+      "year": 2004,
+      "note": "Silver Bear for Best Actress (Catalina Sandino Moreno), 2004",
+      "won": true
+    },
+    {
+      "title": "Samaritan Girl",
+      "year": 2004,
+      "note": "Silver Bear for Best Director, 2004",
+      "won": true
+    },
+    {
+      "title": "Peacock",
+      "year": 2005,
+      "note": "Silver Bear Grand Jury Prize, 2005",
+      "won": true
+    },
+    {
+      "title": "Sophie Scholl - The Final Days",
+      "year": 2005,
+      "note": "Silver Bear for Best Director, 2005",
+      "won": true
+    },
+    {
+      "title": "Sophie Scholl – The Final Days",
+      "year": 2005,
+      "note": "Silver Bear for Best Actress (Julia Jentsch), 2005",
+      "won": true
+    },
+    {
+      "title": "Thumbsucker",
+      "year": 2005,
+      "note": "Silver Bear for Best Actor (Lou Taylor Pucci), 2005",
+      "won": true
+    },
+    {
+      "title": "U-Carmen eKhayelitsha",
+      "year": 2005,
+      "note": "Golden Bear, 2005",
+      "won": true
+    },
+    {
+      "title": "A Soap",
+      "year": 2006,
+      "note": "Silver Bear Grand Jury Prize, 2006",
+      "won": true
+    },
+    {
+      "title": "Atomised",
+      "year": 2006,
+      "note": "Silver Bear for Best Actor (Moritz Bleibtreu), 2006",
+      "won": true
+    },
+    {
+      "title": "Grbavica",
+      "year": 2006,
+      "note": "Golden Bear, 2006",
+      "won": true
+    },
+    {
+      "title": "Offside",
+      "year": 2006,
+      "note": "Silver Bear Grand Jury Prize, 2006",
+      "won": true
+    },
+    {
+      "title": "Requiem",
+      "year": 2006,
+      "note": "Silver Bear for Best Actress (Sandra Hüller), 2006",
+      "won": true
+    },
+    {
+      "title": "The Road to Guantánamo",
+      "year": 2006,
+      "note": "Silver Bear for Best Director, 2006",
+      "won": true
+    },
+    {
+      "title": "Tuya's Marriage",
+      "year": 2006,
+      "note": "Golden Bear, 2007",
+      "won": true
+    },
+    {
+      "title": "Beaufort",
+      "year": 2007,
+      "note": "Silver Bear for Best Director, 2007",
+      "won": true
+    },
+    {
+      "title": "Elite Squad",
+      "year": 2007,
+      "note": "Golden Bear, 2008",
+      "won": true
+    },
+    {
+      "title": "The Other",
+      "year": 2007,
+      "note": "Silver Bear Grand Jury Prize, 2007; Silver Bear for Best Actor (Julio Chávez), 2007",
+      "won": true
+    },
+    {
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "note": "Silver Bear for Best Director, 2008",
+      "won": true
+    },
+    {
+      "title": "Yella",
+      "year": 2007,
+      "note": "Silver Bear for Best Actress (Nina Hoss), 2007",
+      "won": true
+    },
+    {
+      "title": "Happy-Go-Lucky",
+      "year": 2008,
+      "note": "Silver Bear for Best Actress (Sally Hawkins), 2008",
+      "won": true
+    },
+    {
+      "title": "In Love We Trust",
+      "year": 2008,
+      "note": "Silver Bear for Best Screenplay, 2008",
+      "won": true
+    },
+    {
+      "title": "Standard Operating Procedure",
+      "year": 2008,
+      "note": "Silver Bear Grand Jury Prize, 2008",
+      "won": true
+    },
+    {
+      "title": "The Song of Sparrows",
+      "year": 2008,
+      "note": "Silver Bear for Best Actor (Reza Naji), 2008",
+      "won": true
+    },
+    {
+      "title": "About Elly",
+      "year": 2009,
+      "note": "Silver Bear for Best Director, 2009",
+      "won": true
+    },
+    {
+      "title": "Everyone Else",
+      "year": 2009,
+      "note": "Silver Bear Grand Jury Prize, 2009; Silver Bear for Best Actress (Birgit Minichmayr), 2009",
+      "won": true
+    },
+    {
+      "title": "Giant",
+      "year": 2009,
+      "note": "Silver Bear Grand Jury Prize, 2009",
+      "won": true
+    },
+    {
+      "title": "London River",
+      "year": 2009,
+      "note": "Silver Bear for Best Actor (Sotigui Kouyaté), 2009",
+      "won": true
+    },
+    {
+      "title": "The Messenger",
+      "year": 2009,
+      "note": "Silver Bear for Best Screenplay, 2009",
+      "won": true
+    },
+    {
+      "title": "The Milk of Sorrow",
+      "year": 2009,
+      "note": "Golden Bear, 2009",
+      "won": true
+    },
+    {
+      "title": "Apart Together",
+      "year": 2010,
+      "note": "Silver Bear for Best Screenplay, 2010",
+      "won": true
+    },
+    {
+      "title": "Caterpillar",
+      "year": 2010,
+      "note": "Silver Bear for Best Actress (Shinobu Terajima), 2010",
+      "won": true
+    },
+    {
+      "title": "Honey",
+      "year": 2010,
+      "note": "Golden Bear, 2010",
+      "won": true
+    },
+    {
+      "title": "How I Ended This Summer",
+      "year": 2010,
+      "note": "Silver Bear for Best Actor (Grigoriy Dobrygin, Sergei Puskepalis), 2010",
+      "won": true
+    },
+    {
+      "title": "If I Want to Whistle, I Whistle",
+      "year": 2010,
+      "note": "Silver Bear Grand Jury Prize, 2010",
+      "won": true
+    },
+    {
+      "title": "The Ghost Writer",
+      "year": 2010,
+      "note": "Silver Bear for Best Director, 2010",
+      "won": true
+    },
+    {
+      "title": "A Separation",
+      "year": 2011,
+      "note": "Golden Bear, 2011; Silver Bear for Best Actor (Payman Maadi, Shahab Hosseini, Ali-Asghar Shahbazi, Babak Karimi), 2011; Silver Bear for Best Actress (Leila Hatami, Sareh Bayat, Sarina Farhadi, Kimia Hosseini), 2011",
+      "won": true
+    },
+    {
+      "title": "Sleeping Sickness",
+      "year": 2011,
+      "note": "Silver Bear for Best Director, 2011",
+      "won": true
+    },
+    {
+      "title": "The Forgiveness of Blood",
+      "year": 2011,
+      "note": "Silver Bear for Best Screenplay, 2011",
+      "won": true
+    },
+    {
+      "title": "The Turin Horse",
+      "year": 2011,
+      "note": "Silver Bear Grand Jury Prize, 2011",
+      "won": true
+    },
+    {
+      "title": "A Royal Affair",
+      "year": 2012,
+      "note": "Silver Bear for Best Actor (Mikkel Boe Følsgaard), 2012; Silver Bear for Best Screenplay, 2012",
+      "won": true
+    },
+    {
+      "title": "Barbara",
+      "year": 2012,
+      "note": "Silver Bear for Best Director, 2012",
+      "won": true
+    },
+    {
+      "title": "Caesar Must Die",
+      "year": 2012,
+      "note": "Golden Bear, 2012",
+      "won": true
+    },
+    {
+      "title": "Just the Wind",
+      "year": 2012,
+      "note": "Silver Bear Grand Jury Prize, 2012",
+      "won": true
+    },
+    {
+      "title": "War Witch",
+      "year": 2012,
+      "note": "Silver Bear for Best Actress (Rachel Mwanza), 2012",
+      "won": true
+    },
+    {
+      "title": "An Episode in the Life of an Iron Picker",
+      "year": 2013,
+      "note": "Silver Bear Grand Jury Prize, 2013; Silver Bear for Best Actor (Nazif Mujić), 2013",
+      "won": true
+    },
+    {
+      "title": "Child's Pose",
+      "year": 2013,
+      "note": "Golden Bear, 2013",
+      "won": true
+    },
+    {
+      "title": "Closed Curtain",
+      "year": 2013,
+      "note": "Silver Bear for Best Screenplay, 2013",
+      "won": true
+    },
+    {
+      "title": "Gloria",
+      "year": 2013,
+      "note": "Silver Bear for Best Actress (Paulina García), 2013",
+      "won": true
+    },
+    {
+      "title": "Prince Avalanche",
+      "year": 2013,
+      "note": "Silver Bear for Best Director, 2013",
+      "won": true
+    },
+    {
+      "title": "Black Coal, Thin Ice",
+      "year": 2014,
+      "note": "Golden Bear, 2014; Silver Bear for Best Actor (Liao Fan), 2014",
+      "won": true
+    },
+    {
+      "title": "Boyhood",
+      "year": 2014,
+      "note": "Silver Bear for Best Director, 2014",
+      "won": true
+    },
+    {
+      "title": "Stations of the Cross",
+      "year": 2014,
+      "note": "Silver Bear for Best Screenplay, 2014",
+      "won": true
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "year": 2014,
+      "note": "Silver Bear Grand Jury Prize, 2014",
+      "won": true
+    },
+    {
+      "title": "The Little House",
+      "year": 2014,
+      "note": "Silver Bear for Best Actress (Haru Kuroki), 2014",
+      "won": true
+    },
+    {
+      "title": "45 Years",
+      "year": 2015,
+      "note": "Silver Bear for Best Actor (Tom Courtenay), 2015; Silver Bear for Best Actress (Charlotte Rampling), 2015",
+      "won": true
+    },
+    {
+      "title": "Aferim!",
+      "year": 2015,
+      "note": "Silver Bear for Best Director, 2015",
+      "won": true
+    },
+    {
+      "title": "Body",
+      "year": 2015,
+      "note": "Silver Bear for Best Director, 2015",
+      "won": true
+    },
+    {
+      "title": "Taxi",
+      "year": 2015,
+      "note": "Golden Bear, 2015",
+      "won": true
+    },
+    {
+      "title": "The Club",
+      "year": 2015,
+      "note": "Silver Bear Grand Jury Prize, 2015",
+      "won": true
+    },
+    {
+      "title": "The Pearl Button",
+      "year": 2015,
+      "note": "Silver Bear for Best Screenplay, 2015",
+      "won": true
+    },
+    {
+      "title": "Death in Sarajevo",
+      "year": 2016,
+      "note": "Silver Bear Grand Jury Prize, 2016",
+      "won": true
+    },
+    {
+      "title": "Fire at Sea",
+      "year": 2016,
+      "note": "Golden Bear, 2016",
+      "won": true
+    },
+    {
+      "title": "Hedi",
+      "year": 2016,
+      "note": "Silver Bear for Best Actor (Majd Mastoura), 2016",
+      "won": true
+    },
+    {
+      "title": "The Commune",
+      "year": 2016,
+      "note": "Silver Bear for Best Actress (Trine Dyrholm), 2016",
+      "won": true
+    },
+    {
+      "title": "Things to Come",
+      "year": 2016,
+      "note": "Silver Bear for Best Director, 2016",
+      "won": true
+    },
+    {
+      "title": "United States of Love",
+      "year": 2016,
+      "note": "Silver Bear for Best Screenplay, 2016",
+      "won": true
+    },
+    {
+      "title": "A Fantastic Woman",
+      "year": 2017,
+      "note": "Silver Bear for Best Screenplay, 2017",
+      "won": true
+    },
+    {
+      "title": "Bright Nights",
+      "year": 2017,
+      "note": "Silver Bear for Best Actor (Georg Friedrich), 2017",
+      "won": true
+    },
+    {
+      "title": "Félicité",
+      "year": 2017,
+      "note": "Silver Bear Grand Jury Prize, 2017",
+      "won": true
+    },
+    {
+      "title": "On Body and Soul",
+      "year": 2017,
+      "note": "Golden Bear, 2017",
+      "won": true
+    },
+    {
+      "title": "On the Beach at Night Alone",
+      "year": 2017,
+      "note": "Silver Bear for Best Actress (Kim Min-hee), 2017",
+      "won": true
+    },
+    {
+      "title": "The Other Side of Hope",
+      "year": 2017,
+      "note": "Silver Bear for Best Director, 2017",
+      "won": true
+    },
+    {
+      "title": "By the Grace of God",
+      "year": 2018,
+      "note": "Silver Bear Grand Jury Prize, 2019",
+      "won": true
+    },
+    {
+      "title": "Isle of Dogs",
+      "year": 2018,
+      "note": "Silver Bear for Best Director, 2018",
+      "won": true
+    },
+    {
+      "title": "Mug",
+      "year": 2018,
+      "note": "Silver Bear Grand Jury Prize, 2018",
+      "won": true
+    },
+    {
+      "title": "Museum",
+      "year": 2018,
+      "note": "Silver Bear for Best Screenplay, 2018",
+      "won": true
+    },
+    {
+      "title": "The Heiresses",
+      "year": 2018,
+      "note": "Silver Bear for Best Actress (Ana Brun), 2018",
+      "won": true
+    },
+    {
+      "title": "The Prayer",
+      "year": 2018,
+      "note": "Silver Bear for Best Actor (Anthony Bajon), 2018",
+      "won": true
+    },
+    {
+      "title": "Touch Me Not",
+      "year": 2018,
+      "note": "Golden Bear, 2018",
+      "won": true
+    },
+    {
+      "title": "I Was at Home, But",
+      "year": 2019,
+      "note": "Silver Bear for Best Director, 2019",
+      "won": true
+    },
+    {
+      "title": "Piranhas",
+      "year": 2019,
+      "note": "Silver Bear for Best Screenplay, 2019",
+      "won": true
+    },
+    {
+      "title": "So Long, My Son",
+      "year": 2019,
+      "note": "Silver Bear for Best Actor (Wang Jingchun), 2019; Silver Bear for Best Actress (Yong Mei), 2019",
+      "won": true
+    },
+    {
+      "title": "Synonyms",
+      "year": 2019,
+      "note": "Golden Bear, 2019",
+      "won": true
+    },
+    {
+      "title": "Bad Tales",
+      "year": 2020,
+      "note": "Silver Bear for Best Screenplay, 2020",
+      "won": true
+    },
+    {
+      "title": "Hidden Away",
+      "year": 2020,
+      "note": "Silver Bear for Best Actor (Elio Germano), 2020",
+      "won": true
+    },
+    {
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020,
+      "note": "Silver Bear Grand Jury Prize, 2020",
+      "won": true
+    },
+    {
+      "title": "The Woman Who Ran",
+      "year": 2020,
+      "note": "Silver Bear for Best Director, 2020",
+      "won": true
+    },
+    {
+      "title": "There Is No Evil",
+      "year": 2020,
+      "note": "Golden Bear, 2020",
+      "won": true
+    },
+    {
+      "title": "Undine",
+      "year": 2020,
+      "note": "Silver Bear for Best Actress (Paula Beer), 2020",
+      "won": true
+    },
+    {
+      "title": "Bad Luck Banging or Loony Porn",
+      "year": 2021,
+      "note": "Golden Bear, 2021",
+      "won": true
+    },
+    {
+      "title": "Forest – I See You Everywhere",
+      "year": 2021,
+      "note": "Silver Bear for Best Supporting Performance (Lilla Kizlinger), 2021",
+      "won": true
+    },
+    {
+      "title": "I'm Your Man",
+      "year": 2021,
+      "note": "Silver Bear for Best Leading Performance (Maren Eggert), 2021",
+      "won": true
+    },
+    {
+      "title": "Introduction",
+      "year": 2021,
+      "note": "Silver Bear for Best Screenplay, 2021",
+      "won": true
+    },
+    {
+      "title": "Mr Bachmann and His Class",
+      "year": 2021,
+      "note": "Silver Bear Jury Prize, 2021",
+      "won": true
+    },
+    {
+      "title": "Natural Light",
+      "year": 2021,
+      "note": "Silver Bear for Best Director, 2021",
+      "won": true
+    },
+    {
+      "title": "Wheel of Fortune and Fantasy",
+      "year": 2021,
+      "note": "Silver Bear Grand Jury Prize, 2021",
+      "won": true
+    },
+    {
+      "title": "Alcarràs",
+      "year": 2022,
+      "note": "Golden Bear, 2022",
+      "won": true
+    },
+    {
+      "title": "Before, Now & Then",
+      "year": 2022,
+      "note": "Silver Bear for Best Supporting Performance (Laura Basuki), 2022",
+      "won": true
+    },
+    {
+      "title": "Both Sides of the Blade",
+      "year": 2022,
+      "note": "Silver Bear for Best Director, 2022",
+      "won": true
+    },
+    {
+      "title": "Rabiye Kurnaz vs. George W. Bush",
+      "year": 2022,
+      "note": "Silver Bear for Best Screenplay, 2022; Silver Bear for Best Leading Performance (Meltem Kaptan), 2022",
+      "won": true
+    },
+    {
+      "title": "Robe of Gems",
+      "year": 2022,
+      "note": "Silver Bear Jury Prize, 2022",
+      "won": true
+    },
+    {
+      "title": "The Novelist's Film",
+      "year": 2022,
+      "note": "Silver Bear Grand Jury Prize, 2022",
+      "won": true
+    },
+    {
+      "title": "20,000 Species of Bees",
+      "year": 2023,
+      "note": "Silver Bear for Best Leading Performance (Sofía Otero), 2023",
+      "won": true
+    },
+    {
+      "title": "Afire",
+      "year": 2023,
+      "note": "Silver Bear Grand Jury Prize, 2023",
+      "won": true
+    },
+    {
+      "title": "Bad Living",
+      "year": 2023,
+      "note": "Silver Bear Jury Prize, 2023",
+      "won": true
+    },
+    {
+      "title": "Music",
+      "year": 2023,
+      "note": "Silver Bear for Best Screenplay, 2023",
+      "won": true
+    },
+    {
+      "title": "On the Adamant",
+      "year": 2023,
+      "note": "Golden Bear, 2023",
+      "won": true
+    },
+    {
+      "title": "The Plough",
+      "year": 2023,
+      "note": "Silver Bear for Best Director, 2023",
+      "won": true
+    },
+    {
+      "title": "Till the End of the Night",
+      "year": 2023,
+      "note": "Silver Bear for Best Supporting Performance (Thea Ehre), 2023",
+      "won": true
+    },
+    {
+      "title": "A Different Man",
+      "year": 2024,
+      "note": "Silver Bear for Best Leading Performance (Sebastian Stan), 2024",
+      "won": true
+    },
+    {
+      "title": "A Traveler's Needs",
+      "year": 2024,
+      "note": "Silver Bear Grand Jury Prize, 2024",
+      "won": true
+    },
+    {
+      "title": "Dahomey",
+      "year": 2024,
+      "note": "Golden Bear, 2024",
+      "won": true
+    },
+    {
+      "title": "Dreams (Sex Love)",
+      "year": 2024,
+      "note": "Golden Bear, 2025",
+      "won": true
+    },
+    {
+      "title": "Dying",
+      "year": 2024,
+      "note": "Silver Bear for Best Screenplay, 2024",
+      "won": true
+    },
+    {
+      "title": "Pepe",
+      "year": 2024,
+      "note": "Silver Bear for Best Director, 2024",
+      "won": true
+    },
+    {
+      "title": "Small Things Like These",
+      "year": 2024,
+      "note": "Silver Bear for Best Supporting Performance (Emily Watson), 2024",
+      "won": true
+    },
+    {
+      "title": "The Empire",
+      "year": 2024,
+      "note": "Silver Bear Jury Prize, 2024",
+      "won": true
+    },
+    {
+      "title": "Blue Moon",
+      "year": 2025,
+      "note": "Silver Bear for Best Supporting Performance (Andrew Scott), 2025",
+      "won": true
+    },
+    {
+      "title": "If I Had Legs I'd Kick You",
+      "year": 2025,
+      "note": "Silver Bear for Best Leading Performance (Rose Byrne), 2025",
+      "won": true
+    },
+    {
+      "title": "Kontinental '25",
+      "year": 2025,
+      "note": "Silver Bear for Best Screenplay, 2025",
+      "won": true
+    },
+    {
+      "title": "Living the Land",
+      "year": 2025,
+      "note": "Silver Bear for Best Director, 2025",
+      "won": true
+    },
+    {
+      "title": "The Blue Trail",
+      "year": 2025,
+      "note": "Silver Bear Grand Jury Prize, 2025",
+      "won": true
+    },
+    {
+      "title": "The Message",
+      "year": 2025,
+      "note": "Silver Bear Jury Prize, 2025",
+      "won": true
+    }
+  ]
+}

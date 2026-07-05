@@ -1,0 +1,925 @@
+{
+  "id": "baeksang-film",
+  "name": "Baeksang Arts Awards — Film Grand Prize & Best Film",
+  "category": "award",
+  "entries": [
+    {
+      "title": "Deaf Sam Yong",
+      "year": 1964,
+      "note": "Film Grand Prize (Daesang), 1965; Best Film winner, 1965",
+      "won": true
+    },
+    {
+      "title": "The Seaside Village",
+      "year": 1965,
+      "note": "Best Film winner, 1966",
+      "won": true
+    },
+    {
+      "title": "Full Autumn",
+      "year": 1966,
+      "note": "Film Grand Prize (Daesang), 1967; Best Film winner, 1967",
+      "won": true
+    },
+    {
+      "title": "Children in the Firing Range",
+      "year": 1967,
+      "note": "Best Film winner, 1968",
+      "won": true
+    },
+    {
+      "title": "Legend of Ssarigol",
+      "year": 1967,
+      "note": "Film Grand Prize (Daesang), 1968",
+      "won": true
+    },
+    {
+      "title": "The General's Mustache",
+      "year": 1968,
+      "note": "Best Film winner, 1969",
+      "won": true
+    },
+    {
+      "title": "Spring, Spring",
+      "year": 1969,
+      "note": "Best Film winner, 1970",
+      "won": true
+    },
+    {
+      "title": "Frozen Spring",
+      "year": 1970,
+      "note": "Best Film winner, 1971",
+      "won": true
+    },
+    {
+      "title": "War and Human Being",
+      "year": 1971,
+      "note": "Best Film winner, 1972",
+      "won": true
+    },
+    {
+      "title": "Gate of Woman",
+      "year": 1972,
+      "note": "Film Grand Prize (Daesang), 1973; Best Film winner, 1973",
+      "won": true
+    },
+    {
+      "title": "Special Investigation Unit: The Case of Bae Tae-ok",
+      "year": 1974,
+      "note": "Best Film winner, 1974",
+      "won": true
+    },
+    {
+      "title": "The Executioner",
+      "year": 1975,
+      "note": "Best Film winner, 1975",
+      "won": true
+    },
+    {
+      "title": "My Hometown",
+      "year": 1976,
+      "note": "Best Film winner, 1976",
+      "won": true
+    },
+    {
+      "title": "Concentration of Attention",
+      "year": 1977,
+      "note": "Film Grand Prize (Daesang), 1977; Best Film winner, 1977",
+      "won": true
+    },
+    {
+      "title": "Splendid Outing",
+      "year": 1978,
+      "note": "Film Grand Prize (Daesang), 1978; Best Film winner, 1978",
+      "won": true
+    },
+    {
+      "title": "The Last Words From A Comrade In Arms",
+      "year": 1979,
+      "note": "Film Grand Prize (Daesang), 1979; Best Film winner, 1979",
+      "won": true
+    },
+    {
+      "title": "Good Windy Days",
+      "year": 1980,
+      "note": "Film Grand Prize (Daesang), 1981; Best Film winner, 1981",
+      "won": true
+    },
+    {
+      "title": "Man-suk, Run!",
+      "year": 1980,
+      "note": "Film Grand Prize (Daesang), 1980; Best Film winner, 1980",
+      "won": true
+    },
+    {
+      "title": "Come Down to a Lower Place",
+      "year": 1982,
+      "note": "Best Film winner, 1982",
+      "won": true
+    },
+    {
+      "title": "The Village of Mist",
+      "year": 1983,
+      "note": "Film Grand Prize (Daesang), 1983; Best Film winner, 1983",
+      "won": true
+    },
+    {
+      "title": "Whale Hunting",
+      "year": 1984,
+      "note": "Film Grand Prize (Daesang), 1984; Best Film winner, 1984",
+      "won": true
+    },
+    {
+      "title": "Deep Blue Night",
+      "year": 1985,
+      "note": "Film Grand Prize (Daesang), 1985; Best Film winner, 1985",
+      "won": true
+    },
+    {
+      "title": "Gilsodom",
+      "year": 1986,
+      "note": "Film Grand Prize (Daesang), 1986; Best Film winner, 1986",
+      "won": true
+    },
+    {
+      "title": "Adada",
+      "year": 1987,
+      "note": "Film Grand Prize (Daesang), 1988; Best Film winner, 1988",
+      "won": true
+    },
+    {
+      "title": "Moonlight Hunter",
+      "year": 1987,
+      "note": "Film Grand Prize (Daesang), 1987; Best Film winner, 1987",
+      "won": true
+    },
+    {
+      "title": "Rainbow over Seoul",
+      "year": 1989,
+      "note": "Film Grand Prize (Daesang), 1989; Best Film winner, 1989",
+      "won": true
+    },
+    {
+      "title": "A Short Love Affair",
+      "year": 1990,
+      "note": "Film Grand Prize (Daesang), 1990; Best Film winner, 1990",
+      "won": true
+    },
+    {
+      "title": "The Silver Stallion Will Never Come",
+      "year": 1991,
+      "note": "Best Film winner, 1991",
+      "won": true
+    },
+    {
+      "title": "Our Twisted Hero",
+      "year": 1992,
+      "note": "Film Grand Prize (Daesang), 1993; Best Film winner, 1993",
+      "won": true
+    },
+    {
+      "title": "Stairway To Heaven",
+      "year": 1992,
+      "note": "Film Grand Prize (Daesang), 1992; Best Film winner, 1992",
+      "won": true
+    },
+    {
+      "title": "Sopyonje",
+      "year": 1993,
+      "note": "Best Film winner, 1994",
+      "won": true
+    },
+    {
+      "title": "Two Cops",
+      "year": 1993,
+      "note": "Film Grand Prize (Daesang), 1994; Best Film winner, 1994",
+      "won": true
+    },
+    {
+      "title": "Life and Death of the Hollywood Kid",
+      "year": 1994,
+      "note": "Film Grand Prize (Daesang), 1995; Best Film winner, 1995",
+      "won": true
+    },
+    {
+      "title": "Farewell My Darling",
+      "year": 1996,
+      "note": "Film Grand Prize (Daesang), 1996; Best Film winner, 1996",
+      "won": true
+    },
+    {
+      "title": "Green Fish",
+      "year": 1997,
+      "note": "Best Film winner, 1997",
+      "won": true
+    },
+    {
+      "title": "Christmas in August",
+      "year": 1998,
+      "note": "Best Film winner, 1998",
+      "won": true
+    },
+    {
+      "title": "Shiri",
+      "year": 1999,
+      "note": "Film Grand Prize (Daesang), 1999; Best Film winner, 1999",
+      "won": true
+    },
+    {
+      "title": "The Spy",
+      "year": 1999,
+      "note": "Best Film winner, 2000",
+      "won": true
+    },
+    {
+      "title": "Chunhyang",
+      "year": 2000,
+      "note": "Film Grand Prize (Daesang), 2000",
+      "won": true
+    },
+    {
+      "title": "Libera Me",
+      "year": 2000,
+      "note": "Film Grand Prize (Daesang), 2001; Best Film winner, 2001",
+      "won": true
+    },
+    {
+      "title": "Waikiki Brothers",
+      "year": 2001,
+      "note": "Best Film winner, 2002",
+      "won": true
+    },
+    {
+      "title": "Oasis",
+      "year": 2002,
+      "note": "Best Film winner, 2003",
+      "won": true
+    },
+    {
+      "title": "Public Enemy",
+      "year": 2002,
+      "note": "Film Grand Prize (Daesang), 2002",
+      "won": true
+    },
+    {
+      "title": "The Way Home",
+      "year": 2002,
+      "note": "Film Grand Prize (Daesang), 2003",
+      "won": true
+    },
+    {
+      "title": "Silmido",
+      "year": 2003,
+      "note": "Film Grand Prize (Daesang), 2004",
+      "won": true
+    },
+    {
+      "title": "3-Iron",
+      "year": 2004,
+      "note": "Best Film nominee, 2005",
+      "won": false
+    },
+    {
+      "title": "Tae Guk Gi: The Brotherhood of War",
+      "year": 2004,
+      "note": "Best Film winner, 2004",
+      "won": true
+    },
+    {
+      "title": "Blood Rain",
+      "year": 2005,
+      "note": "Best Film winner, 2006",
+      "won": true
+    },
+    {
+      "title": "Blossom Again",
+      "year": 2005,
+      "note": "Best Film nominee, 2006",
+      "won": false
+    },
+    {
+      "title": "Duelist",
+      "year": 2005,
+      "note": "Best Film nominee, 2006",
+      "won": false
+    },
+    {
+      "title": "King and the Clown",
+      "year": 2005,
+      "note": "Film Grand Prize (Daesang), 2006; Best Film nominee, 2006",
+      "won": true
+    },
+    {
+      "title": "Lady Vengeance",
+      "year": 2005,
+      "note": "Best Film nominee, 2006",
+      "won": false
+    },
+    {
+      "title": "Marathon",
+      "year": 2005,
+      "note": "Film Grand Prize (Daesang), 2005; Best Film nominee, 2005",
+      "won": true
+    },
+    {
+      "title": "The President's Last Bang",
+      "year": 2005,
+      "note": "Best Film winner, 2005",
+      "won": true
+    },
+    {
+      "title": "I'm a Cyborg, But That's OK",
+      "year": 2006,
+      "note": "Best Film nominee, 2007",
+      "won": false
+    },
+    {
+      "title": "Midnight Ballad for Ghost Theater",
+      "year": 2006,
+      "note": "Best Film nominee, 2007",
+      "won": false
+    },
+    {
+      "title": "Radio Star",
+      "year": 2006,
+      "note": "Best Film nominee, 2007",
+      "won": false
+    },
+    {
+      "title": "Tazza: The High Rollers",
+      "year": 2006,
+      "note": "Film Grand Prize (Daesang), 2007; Best Film nominee, 2007",
+      "won": true
+    },
+    {
+      "title": "The Host",
+      "year": 2006,
+      "note": "Best Film winner, 2007",
+      "won": true
+    },
+    {
+      "title": "Happiness",
+      "year": 2007,
+      "note": "Best Film nominee, 2008",
+      "won": false
+    },
+    {
+      "title": "May 18",
+      "year": 2007,
+      "note": "Best Film nominee, 2008",
+      "won": false
+    },
+    {
+      "title": "Secret Sunshine",
+      "year": 2007,
+      "note": "Best Film nominee, 2008",
+      "won": false
+    },
+    {
+      "title": "A Frozen Flower",
+      "year": 2008,
+      "note": "Best Film nominee, 2009",
+      "won": false
+    },
+    {
+      "title": "Forever the Moment",
+      "year": 2008,
+      "note": "Best Film winner, 2008",
+      "won": true
+    },
+    {
+      "title": "Public Enemy Returns",
+      "year": 2008,
+      "note": "Film Grand Prize (Daesang), 2009",
+      "won": true
+    },
+    {
+      "title": "Rough Cut",
+      "year": 2008,
+      "note": "Best Film nominee, 2009",
+      "won": false
+    },
+    {
+      "title": "Scandal Makers",
+      "year": 2008,
+      "note": "Best Film nominee, 2009",
+      "won": false
+    },
+    {
+      "title": "The Chaser",
+      "year": 2008,
+      "note": "Film Grand Prize (Daesang), 2008; Best Film nominee, 2008",
+      "won": true
+    },
+    {
+      "title": "The Good, the Bad, the Weird",
+      "year": 2008,
+      "note": "Best Film nominee, 2009",
+      "won": false
+    },
+    {
+      "title": "Viva! Love",
+      "year": 2008,
+      "note": "Best Film winner, 2009",
+      "won": true
+    },
+    {
+      "title": "Mother",
+      "year": 2009,
+      "note": "Best Film nominee, 2010",
+      "won": false
+    },
+    {
+      "title": "Take Off",
+      "year": 2009,
+      "note": "Best Film winner, 2010",
+      "won": true
+    },
+    {
+      "title": "Thirst",
+      "year": 2009,
+      "note": "Best Film nominee, 2010",
+      "won": false
+    },
+    {
+      "title": "Tidal Wave",
+      "year": 2009,
+      "note": "Film Grand Prize (Daesang), 2010; Best Film nominee, 2010",
+      "won": true
+    },
+    {
+      "title": "I Saw the Devil",
+      "year": 2010,
+      "note": "Film Grand Prize (Daesang), 2011",
+      "won": true
+    },
+    {
+      "title": "Moss",
+      "year": 2010,
+      "note": "Best Film nominee, 2011",
+      "won": false
+    },
+    {
+      "title": "Poetry",
+      "year": 2010,
+      "note": "Best Film nominee, 2011",
+      "won": false
+    },
+    {
+      "title": "Secret Reunion",
+      "year": 2010,
+      "note": "Best Film nominee, 2010",
+      "won": false
+    },
+    {
+      "title": "The Man from Nowhere",
+      "year": 2010,
+      "note": "Best Film winner, 2011",
+      "won": true
+    },
+    {
+      "title": "The Unjust",
+      "year": 2010,
+      "note": "Best Film nominee, 2011",
+      "won": false
+    },
+    {
+      "title": "The Yellow Sea",
+      "year": 2010,
+      "note": "Best Film nominee, 2011",
+      "won": false
+    },
+    {
+      "title": "Punch",
+      "year": 2011,
+      "note": "Best Film nominee, 2012",
+      "won": false
+    },
+    {
+      "title": "Sunny",
+      "year": 2011,
+      "note": "Best Film nominee, 2012",
+      "won": false
+    },
+    {
+      "title": "Unbowed",
+      "year": 2011,
+      "note": "Best Film winner, 2012",
+      "won": true
+    },
+    {
+      "title": "A Werewolf Boy",
+      "year": 2012,
+      "note": "Best Film nominee, 2013",
+      "won": false
+    },
+    {
+      "title": "Helpless",
+      "year": 2012,
+      "note": "Best Film nominee, 2012",
+      "won": false
+    },
+    {
+      "title": "Masquerade",
+      "year": 2012,
+      "note": "Best Film winner, 2013",
+      "won": true
+    },
+    {
+      "title": "Nameless Gangster",
+      "year": 2012,
+      "note": "Film Grand Prize (Daesang), 2012; Best Film nominee, 2012",
+      "won": true
+    },
+    {
+      "title": "Pieta",
+      "year": 2012,
+      "note": "Best Film nominee, 2013",
+      "won": false
+    },
+    {
+      "title": "Hope",
+      "year": 2013,
+      "note": "Best Film nominee, 2014",
+      "won": false
+    },
+    {
+      "title": "Miracle in Cell No. 7",
+      "year": 2013,
+      "note": "Film Grand Prize (Daesang), 2013; Best Film nominee, 2013",
+      "won": true
+    },
+    {
+      "title": "Snowpiercer",
+      "year": 2013,
+      "note": "Best Film nominee, 2014",
+      "won": false
+    },
+    {
+      "title": "The Attorney",
+      "year": 2013,
+      "note": "Film Grand Prize (Daesang), 2014; Best Film winner, 2014",
+      "won": true
+    },
+    {
+      "title": "The Berlin File",
+      "year": 2013,
+      "note": "Best Film nominee, 2013",
+      "won": false
+    },
+    {
+      "title": "The Face Reader",
+      "year": 2013,
+      "note": "Best Film nominee, 2014",
+      "won": false
+    },
+    {
+      "title": "The Terror Live",
+      "year": 2013,
+      "note": "Best Film nominee, 2014",
+      "won": false
+    },
+    {
+      "title": "A Girl at My Door",
+      "year": 2014,
+      "note": "Best Film nominee, 2015",
+      "won": false
+    },
+    {
+      "title": "A Hard Day",
+      "year": 2014,
+      "note": "Best Film nominee, 2015",
+      "won": false
+    },
+    {
+      "title": "Han Gong-ju",
+      "year": 2014,
+      "note": "Best Film nominee, 2015",
+      "won": false
+    },
+    {
+      "title": "Revivre",
+      "year": 2014,
+      "note": "Best Film winner, 2015",
+      "won": true
+    },
+    {
+      "title": "The Admiral: Roaring Currents",
+      "year": 2014,
+      "note": "Film Grand Prize (Daesang), 2015; Best Film nominee, 2015",
+      "won": true
+    },
+    {
+      "title": "Assassination",
+      "year": 2015,
+      "note": "Best Film winner, 2016",
+      "won": true
+    },
+    {
+      "title": "Inside Men",
+      "year": 2015,
+      "note": "Best Film nominee, 2016",
+      "won": false
+    },
+    {
+      "title": "The Throne",
+      "year": 2015,
+      "note": "Film Grand Prize (Daesang), 2016",
+      "won": true
+    },
+    {
+      "title": "Veteran",
+      "year": 2015,
+      "note": "Best Film nominee, 2016",
+      "won": false
+    },
+    {
+      "title": "Asura: The City of Madness",
+      "year": 2016,
+      "note": "Best Film nominee, 2017",
+      "won": false
+    },
+    {
+      "title": "Dongju: The Portrait of a Poet",
+      "year": 2016,
+      "note": "Film Grand Prize (Daesang), 2016; Best Film nominee, 2016",
+      "won": true
+    },
+    {
+      "title": "Fourth Place",
+      "year": 2016,
+      "note": "Best Film nominee, 2016",
+      "won": false
+    },
+    {
+      "title": "The Age of Shadows",
+      "year": 2016,
+      "note": "Best Film nominee, 2017",
+      "won": false
+    },
+    {
+      "title": "The Handmaiden",
+      "year": 2016,
+      "note": "Film Grand Prize (Daesang), 2017; Best Film nominee, 2017",
+      "won": true
+    },
+    {
+      "title": "The Wailing",
+      "year": 2016,
+      "note": "Best Film winner, 2017",
+      "won": true
+    },
+    {
+      "title": "Train to Busan",
+      "year": 2016,
+      "note": "Best Film nominee, 2017",
+      "won": false
+    },
+    {
+      "title": "1987: When the Day Comes",
+      "year": 2017,
+      "note": "Film Grand Prize (Daesang), 2018; Best Film nominee, 2018",
+      "won": true
+    },
+    {
+      "title": "A Taxi Driver",
+      "year": 2017,
+      "note": "Best Film nominee, 2018",
+      "won": false
+    },
+    {
+      "title": "Along with the Gods: The Two Worlds",
+      "year": 2017,
+      "note": "Best Film nominee, 2018",
+      "won": false
+    },
+    {
+      "title": "Anarchist from Colony",
+      "year": 2017,
+      "note": "Best Film nominee, 2018",
+      "won": false
+    },
+    {
+      "title": "The Fortress",
+      "year": 2017,
+      "note": "Best Film winner, 2018",
+      "won": true
+    },
+    {
+      "title": "Burning",
+      "year": 2018,
+      "note": "Best Film nominee, 2019",
+      "won": false
+    },
+    {
+      "title": "Dark Figure of Crime",
+      "year": 2018,
+      "note": "Best Film nominee, 2019",
+      "won": false
+    },
+    {
+      "title": "Miss Baek",
+      "year": 2018,
+      "note": "Best Film nominee, 2019",
+      "won": false
+    },
+    {
+      "title": "The Spy Gone North",
+      "year": 2018,
+      "note": "Best Film winner, 2019",
+      "won": true
+    },
+    {
+      "title": "EXIT",
+      "year": 2019,
+      "note": "Best Film nominee, 2020",
+      "won": false
+    },
+    {
+      "title": "House of Hummingbird",
+      "year": 2019,
+      "note": "Best Film nominee, 2020",
+      "won": false
+    },
+    {
+      "title": "Innocent Witness",
+      "year": 2019,
+      "note": "Film Grand Prize (Daesang), 2019",
+      "won": true
+    },
+    {
+      "title": "Kim Ji-young: Born 1982",
+      "year": 2019,
+      "note": "Best Film nominee, 2020",
+      "won": false
+    },
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "note": "Film Grand Prize (Daesang), 2020; Best Film winner, 2020",
+      "won": true
+    },
+    {
+      "title": "Svaha: The Sixth Finger",
+      "year": 2019,
+      "note": "Best Film nominee, 2019",
+      "won": false
+    },
+    {
+      "title": "Deliver Us from Evil",
+      "year": 2020,
+      "note": "Best Film nominee, 2021",
+      "won": false
+    },
+    {
+      "title": "Moving On",
+      "year": 2020,
+      "note": "Best Film nominee, 2021",
+      "won": false
+    },
+    {
+      "title": "Samjin Company English Class",
+      "year": 2020,
+      "note": "Best Film winner, 2021",
+      "won": true
+    },
+    {
+      "title": "The Man Standing Next",
+      "year": 2020,
+      "note": "Best Film nominee, 2020",
+      "won": false
+    },
+    {
+      "title": "Voice of Silence",
+      "year": 2020,
+      "note": "Best Film nominee, 2021",
+      "won": false
+    },
+    {
+      "title": "Escape from Mogadishu",
+      "year": 2021,
+      "note": "Film Grand Prize (Daesang), 2022; Best Film winner, 2022",
+      "won": true
+    },
+    {
+      "title": "Miracle: Letters to the President",
+      "year": 2021,
+      "note": "Best Film nominee, 2022",
+      "won": false
+    },
+    {
+      "title": "Nothing Serious",
+      "year": 2021,
+      "note": "Best Film nominee, 2022",
+      "won": false
+    },
+    {
+      "title": "The Book of Fish",
+      "year": 2021,
+      "note": "Film Grand Prize (Daesang), 2021; Best Film nominee, 2021",
+      "won": true
+    },
+    {
+      "title": "Decision to Leave",
+      "year": 2022,
+      "note": "Film Grand Prize (Daesang), 2023; Best Film nominee, 2023",
+      "won": true
+    },
+    {
+      "title": "Hansan: Rising Dragon",
+      "year": 2022,
+      "note": "Best Film nominee, 2023",
+      "won": false
+    },
+    {
+      "title": "Hunt",
+      "year": 2022,
+      "note": "Best Film nominee, 2023",
+      "won": false
+    },
+    {
+      "title": "Kingmaker",
+      "year": 2022,
+      "note": "Best Film nominee, 2022",
+      "won": false
+    },
+    {
+      "title": "Next Sohee",
+      "year": 2022,
+      "note": "Best Film nominee, 2023",
+      "won": false
+    },
+    {
+      "title": "Sewing Sisters",
+      "year": 2022,
+      "note": "Best Film nominee, 2022",
+      "won": false
+    },
+    {
+      "title": "The Night Owl",
+      "year": 2022,
+      "note": "Best Film winner, 2023",
+      "won": true
+    },
+    {
+      "title": "12.12: The Day",
+      "year": 2023,
+      "note": "Film Grand Prize (Daesang), 2024; Best Film winner, 2024",
+      "won": true
+    },
+    {
+      "title": "Cobweb",
+      "year": 2023,
+      "note": "Best Film nominee, 2024",
+      "won": false
+    },
+    {
+      "title": "Concrete Utopia",
+      "year": 2023,
+      "note": "Best Film nominee, 2024",
+      "won": false
+    },
+    {
+      "title": "Noryang: Deadly Sea",
+      "year": 2023,
+      "note": "Best Film nominee, 2024",
+      "won": false
+    },
+    {
+      "title": "Exhuma",
+      "year": 2024,
+      "note": "Best Film nominee, 2024",
+      "won": false
+    },
+    {
+      "title": "Harbin",
+      "year": 2024,
+      "note": "Film Grand Prize (Daesang), 2025; Best Film winner, 2025",
+      "won": true
+    },
+    {
+      "title": "House of the Seasons",
+      "year": 2024,
+      "note": "Best Film nominee, 2025",
+      "won": false
+    },
+    {
+      "title": "Love in the Big City",
+      "year": 2024,
+      "note": "Best Film nominee, 2025",
+      "won": false
+    },
+    {
+      "title": "Revolver",
+      "year": 2024,
+      "note": "Best Film nominee, 2025",
+      "won": false
+    },
+    {
+      "title": "Uprising",
+      "year": 2024,
+      "note": "Best Film nominee, 2025",
+      "won": false
+    }
+  ]
+}
