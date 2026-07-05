@@ -21,6 +21,7 @@ const els = {
   unmatchedList: document.getElementById('unmatched-list'),
   dietVerdict: document.getElementById('diet-verdict'),
   dietPlates: document.getElementById('diet-plates'),
+  canonDefinitions: document.getElementById('canon-definitions'),
   dietSuggestions: document.getElementById('diet-suggestions'),
 };
 
@@ -408,6 +409,7 @@ function renderDiet(r) {
   els.dietVerdict.textContent = diet.verdict || '';
   renderWorldMap(r.countries);
   renderPlates(diet.regions);
+  renderCanonDefinitions(diet.regions);
   renderSuggestions(diet.regions);
 }
 
@@ -471,7 +473,7 @@ function renderPlates(regions) {
   els.dietPlates.innerHTML = regions
     .map(
       (reg, i) => `
-      <div class="plate">
+      <div class="plate" title="${escapeHtml(reg.definition || '')}">
         <h3>${reg.emoji} ${escapeHtml(reg.name)}</h3>
         <p class="plate-sub">canon: ${reg.total} films</p>
         <div class="plate-chart"><canvas id="plate-${i}"></canvas></div>
@@ -500,6 +502,42 @@ function renderPlates(regions) {
         cutout: '68%',
         plugins: { legend: { display: false } },
       },
+    });
+  });
+}
+
+// "The canons, defined" — what each region's plate is made of, browsable.
+function renderCanonDefinitions(regions) {
+  els.canonDefinitions.innerHTML = regions
+    .map((reg, i) => {
+      const pctv = Math.round(reg.coverage * 100);
+      const watchedChips = (reg.watched || []).map((f) => chipFor(f, true)).join('');
+      const shownMissing = (reg.missing || []).slice(0, MISSING_CHIP_CAP);
+      const hiddenCount = (reg.missing || []).length - shownMissing.length;
+      const missingChips =
+        shownMissing.map((f) => chipFor(f, false)).join('') +
+        (hiddenCount > 0 ? `<span class="more-note">…and ${hiddenCount} more unseen</span>` : '');
+      return `
+      <div class="list-row">
+        <div class="list-head">
+          <span class="list-name">${reg.emoji} ${escapeHtml(reg.name)}</span>
+          <span class="list-score"><strong>${reg.watchedCount}</strong> / ${reg.total} (${pctv}%)</span>
+        </div>
+        <p class="canon-def">${escapeHtml(reg.definition || '')}</p>
+        <div class="bar"><div class="bar-fill" style="width:${pctv}%"></div></div>
+        <button class="toggle-btn" data-target="canon-detail-${i}">Show canon films</button>
+        <div class="watched-list" id="canon-detail-${i}" hidden>
+          <div class="chips">${watchedChips}${missingChips}</div>
+        </div>
+      </div>`;
+    })
+    .join('');
+
+  els.canonDefinitions.querySelectorAll('.toggle-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const detail = document.getElementById(btn.dataset.target);
+      detail.hidden = !detail.hidden;
+      btn.textContent = detail.hidden ? 'Show canon films' : 'Hide canon films';
     });
   });
 }

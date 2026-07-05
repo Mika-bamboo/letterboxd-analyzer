@@ -246,6 +246,7 @@ code {
 .plate .plate-sub { color: var(--text-dim); font-size: 0.78rem; margin: 0 0 0.75rem; }
 .plate-chart { position: relative; height: 150px; }
 .plate .plate-score { margin: 0.6rem 0 0; font-weight: 700; font-size: 1.05rem; }
+.canon-def { color: var(--text-dim); font-size: 0.88rem; margin: 0.35rem 0 0.5rem; }
 .suggestion-region { margin-bottom: 1rem; }
 .suggestion-region:last-child { margin-bottom: 0; }
 .suggestion-region h3 { margin: 0 0 0.5rem; font-size: 0.95rem; }

@@ -13,6 +13,8 @@ export const REGIONS = [
     emoji: '🇺🇸',
     listIds: ['oscars-best-picture'],
     countries: ['United States of America'],
+    definition:
+      'Every Academy Award Best Picture winner and nominee since the first ceremony in 1929 — Hollywood’s own official record of its finest.',
   },
   {
     id: 'uk',
@@ -20,6 +22,8 @@ export const REGIONS = [
     emoji: '🇬🇧',
     listIds: ['bafta-best-film'],
     countries: ['United Kingdom'],
+    definition:
+      'Every BAFTA Best Film winner and nominee since 1948, including the early “Best Film from Any Source” era — British cinema’s top honor.',
   },
   {
     id: 'europe',
@@ -31,6 +35,8 @@ export const REGIONS = [
       'Poland', 'Austria', 'Belgium', 'Netherlands', 'Portugal', 'Greece', 'Hungary',
       'Czech Republic', 'Romania', 'Ireland', 'Switzerland',
     ],
+    definition:
+      'European Film Award Best Film winners and nominees since 1988 — the best of continental European cinema as chosen by the European Film Academy itself.',
   },
   {
     id: 'chinese',
@@ -38,6 +44,8 @@ export const REGIONS = [
     emoji: '🇹🇼',
     listIds: ['golden-horse'],
     countries: ['Taiwan', 'China', 'Hong Kong'],
+    definition:
+      'Golden Horse Award Best Feature Film winners and nominees since 1962 — Taiwan’s prize, and the most prestigious honor across all Chinese-language cinema (Taiwan, China, Hong Kong).',
   },
   {
     id: 'japan',
@@ -45,6 +53,8 @@ export const REGIONS = [
     emoji: '🇯🇵',
     listIds: ['kinema-junpo'],
     countries: ['Japan'],
+    definition:
+      'The Kinema Junpo Best Ten — the annual critics’ top 10 of Japanese films chosen by Japan’s oldest film magazine, every year since 1926. The most respected verdict in Japanese cinema.',
   },
   {
     id: 'korea',
@@ -52,6 +62,8 @@ export const REGIONS = [
     emoji: '🇰🇷',
     listIds: ['blue-dragon', 'grand-bell', 'baeksang-film'],
     countries: ['South Korea'],
+    definition:
+      'The union of South Korea’s three major honors: Blue Dragon Best Film, Grand Bell (Daejong) Best Film, and the Baeksang Arts Awards’ film Grand Prize & Best Film.',
   },
   {
     id: 'festival-circuit',
@@ -59,6 +71,8 @@ export const REGIONS = [
     emoji: '🌐',
     listIds: ['cannes', 'berlin', 'venice'],
     countries: [],
+    definition:
+      'Every film that won a major award at one of the Big Three festivals — Cannes, Berlinale, or Venice. World cinema’s shared canon, regardless of origin.',
   },
 ];
 
@@ -87,14 +101,21 @@ export async function computeDiet(films) {
     }
     if (canon.size === 0) continue;
 
-    let watchedCount = 0;
+    const watched = [];
+    const missing = [];
     const unseenWinners = [];
     for (const entry of canon.values()) {
       const candidates = diaryIndex.get(normalizeTitle(entry.title)) || [];
       const seen = candidates.some((f) => f.year == null || Math.abs(f.year - entry.year) <= 1);
-      if (seen) watchedCount += 1;
-      else if (entry.won) unseenWinners.push(entry);
+      if (seen) {
+        watched.push(entry);
+      } else {
+        missing.push(entry);
+        if (entry.won) unseenWinners.push(entry);
+      }
     }
+    watched.sort((a, b) => a.year - b.year);
+    missing.sort((a, b) => a.year - b.year);
 
     // Suggest unseen winners spread across the canon's whole timespan, so the
     // "starting menu" isn't just the oldest films.
@@ -106,9 +127,12 @@ export async function computeDiet(films) {
       name: region.name,
       emoji: region.emoji,
       countries: region.countries,
+      definition: region.definition,
       total: canon.size,
-      watchedCount,
-      coverage: canon.size ? watchedCount / canon.size : 0,
+      watchedCount: watched.length,
+      coverage: canon.size ? watched.length / canon.size : 0,
+      watched,
+      missing,
       suggestions,
     });
   }
